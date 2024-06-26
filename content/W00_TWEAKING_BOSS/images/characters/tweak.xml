@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tweak.png">
+	<!-- Created with Adobe Animate version 24.0.2.12 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tweak down0000" x="5" y="5" width="365" height="163"/>
+	<SubTexture name="tweak down0001" x="375" y="5" width="365" height="163"/>
+	<SubTexture name="tweak down0002" x="745" y="5" width="339" height="139" frameX="-14" frameY="-16" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak down0003" x="1089" y="5" width="339" height="139" frameX="-14" frameY="-16" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak down0004" x="1433" y="5" width="347" height="145" frameX="-9" frameY="-3" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak down0005" x="1785" y="5" width="347" height="145" frameX="-9" frameY="-3" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak down0006" x="2137" y="5" width="347" height="145" frameX="-9" frameY="-3" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak down0007" x="2489" y="5" width="347" height="145" frameX="-9" frameY="-3" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak down0008" x="2841" y="5" width="347" height="145" frameX="-9" frameY="-3" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak down0009" x="3193" y="5" width="347" height="145" frameX="-9" frameY="-3" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak down0010" x="3545" y="5" width="347" height="145" frameX="-9" frameY="-3" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak down0011" x="5" y="173" width="347" height="145" frameX="-9" frameY="-3" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak down0012" x="357" y="173" width="347" height="145" frameX="-9" frameY="-3" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak down0013" x="709" y="173" width="347" height="145" frameX="-9" frameY="-3" frameWidth="365" frameHeight="163"/>
+	<SubTexture name="tweak idle0000" x="1061" y="173" width="266" height="246" frameX="0" frameY="-8" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0001" x="1332" y="173" width="266" height="246" frameX="0" frameY="-8" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0002" x="1603" y="173" width="257" height="250" frameX="-5" frameY="-3" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0003" x="1865" y="173" width="257" height="250" frameX="-5" frameY="-3" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0004" x="2127" y="173" width="253" height="253" frameX="-6" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0005" x="2385" y="173" width="253" height="253" frameX="-6" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0006" x="2643" y="173" width="253" height="253" frameX="-6" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0007" x="2901" y="173" width="253" height="253" frameX="-6" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0008" x="3159" y="173" width="253" height="253" frameX="-6" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0009" x="3417" y="173" width="253" height="253" frameX="-6" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0010" x="3675" y="173" width="253" height="253" frameX="-6" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0011" x="5" y="431" width="253" height="253" frameX="-6" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0012" x="263" y="431" width="253" height="253" frameX="-6" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak idle0013" x="521" y="431" width="253" height="253" frameX="-6" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="tweak left0000" x="779" y="431" width="349" height="315" frameX="0" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0001" x="1133" y="431" width="349" height="315" frameX="0" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0002" x="1487" y="431" width="311" height="312" frameX="-39" frameY="-4" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0003" x="1803" y="431" width="311" height="312" frameX="-39" frameY="-4" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0004" x="2119" y="431" width="309" height="315" frameX="-43" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0005" x="2433" y="431" width="309" height="315" frameX="-43" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0006" x="2747" y="431" width="309" height="315" frameX="-43" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0007" x="3061" y="431" width="309" height="315" frameX="-43" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0008" x="3375" y="431" width="309" height="315" frameX="-43" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0009" x="3689" y="431" width="309" height="315" frameX="-43" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0010" x="5" y="751" width="309" height="315" frameX="-43" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0011" x="319" y="751" width="309" height="315" frameX="-43" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0012" x="633" y="751" width="309" height="315" frameX="-43" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak left0013" x="947" y="751" width="309" height="315" frameX="-43" frameY="0" frameWidth="352" frameHeight="316"/>
+	<SubTexture name="tweak right0000" x="1261" y="751" width="393" height="329" frameX="-4" frameY="-4" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0001" x="1659" y="751" width="393" height="329" frameX="-4" frameY="-4" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0002" x="2057" y="751" width="366" height="333" frameX="0" frameY="-1" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0003" x="2428" y="751" width="366" height="333" frameX="0" frameY="-1" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0004" x="2799" y="751" width="350" height="296" frameX="-2" frameY="0" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0005" x="3154" y="751" width="350" height="296" frameX="-2" frameY="0" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0006" x="3509" y="751" width="350" height="296" frameX="-2" frameY="0" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0007" x="5" y="1089" width="350" height="296" frameX="-2" frameY="0" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0008" x="360" y="1089" width="350" height="296" frameX="-2" frameY="0" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0009" x="715" y="1089" width="350" height="296" frameX="-2" frameY="0" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0010" x="1070" y="1089" width="350" height="296" frameX="-2" frameY="0" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0011" x="1425" y="1089" width="350" height="296" frameX="-2" frameY="0" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0012" x="1780" y="1089" width="350" height="296" frameX="-2" frameY="0" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak right0013" x="2135" y="1089" width="350" height="296" frameX="-2" frameY="0" frameWidth="397" frameHeight="334"/>
+	<SubTexture name="tweak up0000" x="2490" y="1089" width="227" height="397" frameX="-12" frameY="0" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0001" x="2722" y="1089" width="227" height="397" frameX="-12" frameY="0" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0002" x="2954" y="1089" width="259" height="390" frameX="0" frameY="-8" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0003" x="3218" y="1089" width="259" height="390" frameX="0" frameY="-8" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0004" x="3482" y="1089" width="252" height="381" frameX="0" frameY="-17" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0005" x="3739" y="1089" width="252" height="381" frameX="0" frameY="-17" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0006" x="5" y="1491" width="252" height="381" frameX="0" frameY="-17" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0007" x="262" y="1491" width="252" height="381" frameX="0" frameY="-17" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0008" x="519" y="1491" width="252" height="381" frameX="0" frameY="-17" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0009" x="776" y="1491" width="252" height="381" frameX="0" frameY="-17" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0010" x="1033" y="1491" width="252" height="381" frameX="0" frameY="-17" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0011" x="1290" y="1491" width="252" height="381" frameX="0" frameY="-17" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0012" x="1547" y="1491" width="252" height="381" frameX="0" frameY="-17" frameWidth="259" frameHeight="398"/>
+	<SubTexture name="tweak up0013" x="1804" y="1491" width="252" height="381" frameX="0" frameY="-17" frameWidth="259" frameHeight="398"/>
+</TextureAtlas>

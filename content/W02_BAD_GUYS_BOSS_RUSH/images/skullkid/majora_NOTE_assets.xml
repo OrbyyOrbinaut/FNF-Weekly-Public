@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="majora_NOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowDOWN0000" x="0" y="0" width="32" height="32"/>
+	<SubTexture name="arrowLEFT0000" x="34" y="0" width="32" height="32"/>
+	<SubTexture name="arrowRIGHT0000" x="68" y="0" width="32" height="32"/>
+	<SubTexture name="arrowUP0000" x="102" y="0" width="32" height="32"/>
+	<SubTexture name="blue0000" x="136" y="0" width="32" height="32"/>
+	<SubTexture name="blue hold end0000" x="170" y="0" width="32" height="32"/>
+	<SubTexture name="blue hold piece0000" x="204" y="0" width="32" height="32"/>
+	<SubTexture name="down confirm0000" x="0" y="34" width="32" height="32"/>
+	<SubTexture name="down press0000" x="34" y="34" width="32" height="32"/>
+	<SubTexture name="green0000" x="68" y="34" width="32" height="32"/>
+	<SubTexture name="green hold end0000" x="102" y="34" width="32" height="32"/>
+	<SubTexture name="green hold piece0000" x="136" y="34" width="32" height="32"/>
+	<SubTexture name="left confirm0000" x="170" y="34" width="32" height="32"/>
+	<SubTexture name="left press0000" x="204" y="34" width="32" height="32"/>
+	<SubTexture name="purple0000" x="0" y="68" width="32" height="32"/>
+	<SubTexture name="pruple end hold0000" x="34" y="68" width="32" height="32"/>
+	<SubTexture name="purple hold piece0000" x="68" y="68" width="32" height="32"/>
+	<SubTexture name="red0000" x="102" y="68" width="32" height="32"/>
+	<SubTexture name="red hold end0000" x="136" y="68" width="32" height="32"/>
+	<SubTexture name="red hold piece0000" x="170" y="68" width="32" height="32"/>
+	<SubTexture name="right confirm0000" x="204" y="68" width="32" height="32"/>
+	<SubTexture name="right press0000" x="0" y="102" width="32" height="32"/>
+	<SubTexture name="up confirm0000" x="34" y="102" width="32" height="32"/>
+	<SubTexture name="up press0000" x="68" y="102" width="32" height="32"/>
+</TextureAtlas>

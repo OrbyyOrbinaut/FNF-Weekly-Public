@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["Chef Blasting", "ramsay", [194, 160, 11]],
+		["Pegging Arent I Hilarious", "bf-peggle", [49, 176, 209]],
+		["Joink", "conan", [240, 164, 164]],
+		["Fruity", "watermelon", [111, 184, 96]],
+		["Johnny Round", "john", [94, 162, 229]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Weird Funny Games",
+	"weekBefore": "",
+	"weekName": "Weird Funny Games",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weeklogo": "weirdfunnygames"
+}

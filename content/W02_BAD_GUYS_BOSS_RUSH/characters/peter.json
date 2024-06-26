@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-85,
+				-161
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "peteridle"
+		},
+		{
+			"offsets": [
+				50,
+				-109
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "peterleft"
+		},
+		{
+			"offsets": [
+				-67,
+				-147
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "peterdown"
+		},
+		{
+			"offsets": [
+				-140,
+				-69
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "peterup"
+		},
+		{
+			"offsets": [
+				-177,
+				-217
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "peterright"
+		},
+		{
+			"offsets": [
+				19,
+				-207
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "peterpunch"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/peter",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "peter",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		101,
+		81
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

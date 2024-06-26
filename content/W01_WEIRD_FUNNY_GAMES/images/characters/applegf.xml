@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="applegf.png" width="512" height="512">
+  <SubTexture name="GF0009" x="5" y="5"  width="101" height="105" frameX="-1" frameY="-0" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0013" x="5" y="120"  width="100" height="105" frameX="-2" frameY="-0" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0003" x="116" y="5"  width="103" height="102" frameX="-0" frameY="-3" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0025" x="5" y="235"  width="100" height="105" frameX="-2" frameY="-0" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0001" x="115" y="120"  width="102" height="104" frameX="-0" frameY="-1" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0005" x="229" y="5"  width="103" height="103" frameX="-0" frameY="-2" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0011" x="5" y="350"  width="100" height="104" frameX="-2" frameY="-1" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0021" x="115" y="234"  width="102" height="104" frameX="-1" frameY="-1" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0007" x="342" y="5"  width="103" height="103" frameX="-0" frameY="-2" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0017" x="227" y="118"  width="103" height="103" frameX="-1" frameY="-2" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0023" x="115" y="348"  width="101" height="104" frameX="-1" frameY="-1" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0015" x="227" y="231"  width="102" height="103" frameX="-2" frameY="-2" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0019" x="340" y="118"  width="103" height="102" frameX="-1" frameY="-3" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0002" x="115" y="120"  width="102" height="104" frameX="-0" frameY="-1" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0004" x="116" y="5"  width="103" height="102" frameX="-0" frameY="-3" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0006" x="229" y="5"  width="103" height="103" frameX="-0" frameY="-2" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0008" x="342" y="5"  width="103" height="103" frameX="-0" frameY="-2" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0010" x="5" y="5"  width="101" height="105" frameX="-1" frameY="-0" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0012" x="5" y="350"  width="100" height="104" frameX="-2" frameY="-1" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0027" x="5" y="350"  width="100" height="104" frameX="-2" frameY="-1" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0028" x="5" y="350"  width="100" height="104" frameX="-2" frameY="-1" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0014" x="5" y="120"  width="100" height="105" frameX="-2" frameY="-0" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0016" x="227" y="231"  width="102" height="103" frameX="-2" frameY="-2" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0018" x="227" y="118"  width="103" height="103" frameX="-1" frameY="-2" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0020" x="340" y="118"  width="103" height="102" frameX="-1" frameY="-3" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0022" x="115" y="234"  width="102" height="104" frameX="-1" frameY="-1" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0024" x="115" y="348"  width="101" height="104" frameX="-1" frameY="-1" frameWidth="104" frameHeight="105"/>
+  <SubTexture name="GF0026" x="5" y="235"  width="100" height="105" frameX="-2" frameY="-0" frameWidth="104" frameHeight="105"/>
+</TextureAtlas>

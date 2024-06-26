@@ -1,0 +1,401 @@
+{
+	"song": {
+		"events": [
+			[
+				60000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.1"
+					]
+				]
+			],
+			[
+				60340.9090909091,
+				[
+					[
+						"subtitle",
+						"Looks like you could use a [DEAL!]",
+						""
+					]
+				]
+			],
+			[
+				62613.6363636363,
+				[
+					[
+						"subtitle",
+						"Why don't we see what we...",
+						""
+					]
+				]
+			],
+			[
+				63636.3636363636,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1.8"
+					],
+					[
+						"subtitle",
+						"[Got Milk?]",
+						""
+					]
+				]
+			],
+			[
+				64090.9090909091,
+				[
+					[
+						"subtitle",
+						"[milk shake]",
+						""
+					]
+				]
+			],
+			[
+				64545.4545454545,
+				[
+					[
+						"subtitle",
+						"[Shakespeare]",
+						""
+					]
+				]
+			],
+			[
+				65000,
+				[
+					[
+						"subtitle",
+						"[spear head]",
+						""
+					]
+				]
+			],
+			[
+				65454.5454545454,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1.8"
+					],
+					[
+						"subtitle",
+						"[headgear]",
+						""
+					]
+				]
+			],
+			[
+				65909.0909090909,
+				[
+					[
+						"subtitle",
+						"[gear oil]",
+						""
+					]
+				]
+			],
+			[
+				66363.6363636363,
+				[
+					[
+						"subtitle",
+						"[oil pencil]",
+						""
+					]
+				]
+			],
+			[
+				66818.1818181818,
+				[
+					[
+						"subtitle",
+						"[pencil lead]",
+						""
+					]
+				]
+			],
+			[
+				67272.7272727273,
+				[
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"1.8"
+					],
+					[
+						"subtitle",
+						"[lead pipe]",
+						""
+					]
+				]
+			],
+			[
+				67727.2727272727,
+				[
+					[
+						"subtitle",
+						"[pipe rack]",
+						""
+					]
+				]
+			],
+			[
+				68181.8181818182,
+				[
+					[
+						"subtitle",
+						"[rack saw]",
+						""
+					]
+				]
+			],
+			[
+				68636.3636363636,
+				[
+					[
+						"subtitle",
+						"[saw tooth]",
+						""
+					]
+				]
+			],
+			[
+				69090.9090909091,
+				[
+					[
+						"subtitle",
+						"[tooth paste]",
+						""
+					]
+				]
+			],
+			[
+				69545.4545454545,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						""
+					],
+					[
+						"subtitle",
+						"PLEASE OH PLEASE I BEG COME",
+						""
+					]
+				]
+			],
+			[
+				70000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.6",
+						""
+					]
+				]
+			],
+			[
+				70909.0909090909,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"1.8"
+					],
+					[
+						"subtitle",
+						"[back to business]",
+						""
+					]
+				]
+			],
+			[
+				71818.1818181818,
+				[
+					[
+						"subtitle",
+						"[rags to riches]",
+						""
+					]
+				]
+			],
+			[
+				72727.2727272727,
+				[
+					[
+						"Change Scroll Speed",
+						"2.1",
+						"1.8"
+					],
+					[
+						"subtitle",
+						"SAVE ME BEFORE IM",
+						""
+					]
+				]
+			],
+			[
+				73636.3636363636,
+				[
+					[
+						"subtitle",
+						"[swimming with the fishes!]",
+						""
+					]
+				]
+			],
+			[
+				74545.4545454545,
+				[
+					[
+						"Change Scroll Speed",
+						"2.2",
+						""
+					],
+					[
+						"subtitle",
+						"phone lines ringing",
+						""
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Change Scroll Speed",
+						"2.3",
+						""
+					]
+				]
+			],
+			[
+				75454.5454545455,
+				[
+					[
+						"Change Scroll Speed",
+						"2.4",
+						""
+					],
+					[
+						"subtitle",
+						"you keep singing???",
+						""
+					]
+				]
+			],
+			[
+				75909.0909090909,
+				[
+					[
+						"Change Scroll Speed",
+						"2.5",
+						""
+					]
+				]
+			],
+			[
+				76363.6363636364,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						""
+					],
+					[
+						"Spamton Triggers",
+						"yoink",
+						""
+					],
+					[
+						"subtitle",
+						"WHY CANT GOD SEE [the deals im bringing]?",
+						""
+					]
+				]
+			],
+			[
+				78181.8181818182,
+				[
+					[
+						"Change Scroll Speed",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				79375,
+				[
+					[
+						"subtitle",
+						"HEY!",
+						""
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.1"
+					],
+					[
+						"subtitle",
+						"WHATS THE BIG IDEA?",
+						""
+					]
+				]
+			],
+			[
+				80568.1818181818,
+				[
+					[
+						"Spamton Triggers",
+						"start fade",
+						""
+					]
+				]
+			],
+			[
+				81818.1818181818,
+				[
+					[
+						"Spamton Triggers",
+						"run",
+						""
+					],
+					[
+						"subtitle",
+						"",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.3"
+					]
+				]
+			],
+			[
+				89090.9090909091,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.3"
+					]
+				]
+			]
+		]
+	}
+}

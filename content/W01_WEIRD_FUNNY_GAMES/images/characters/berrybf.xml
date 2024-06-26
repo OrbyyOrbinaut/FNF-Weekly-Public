@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="berrybf.png" width="256" height="512">
+  <SubTexture name="bfdown0001" x="5" y="5"  width="62" height="50" frameX="-0" frameY="-1" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfleft0001" x="5" y="65"  width="62" height="50" frameX="-0" frameY="-2" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfright0001" x="77" y="5"  width="62" height="49" frameX="-0" frameY="-3" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfup0001" x="5" y="125"  width="62" height="50" frameX="-0" frameY="-2" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfidle0001" x="77" y="64"  width="61" height="49" frameX="-0" frameY="-5" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfidle0007" x="149" y="5"  width="61" height="52" frameX="-0" frameY="-2" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfleft0003" x="5" y="185"  width="60" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfup0003" x="77" y="123"  width="60" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfup0005" x="148" y="67"  width="60" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfdown0003" x="5" y="247"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfdown0005" x="75" y="185"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfidle0003" x="147" y="129"  width="59" height="53" frameX="-1" frameY="-1" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfidle0005" x="5" y="309"  width="56" height="54" frameX="-2" frameY="-0" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfidle0009" x="74" y="247"  width="59" height="53" frameX="-1" frameY="-1" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfidle0011" x="144" y="192"  width="59" height="53" frameX="-1" frameY="-1" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfleft0005" x="5" y="373"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfmiss0001" x="143" y="255"  width="59" height="52" frameX="-0" frameY="-0" frameWidth="59" frameHeight="52"/>
+  <SubTexture name="bfmiss0003" x="5" y="435"  width="59" height="52" frameX="-0" frameY="-0" frameWidth="59" frameHeight="52"/>
+  <SubTexture name="bfright0003" x="71" y="310"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfright0005" x="74" y="372"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfdown0002" x="5" y="5"  width="62" height="50" frameX="-0" frameY="-1" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfdown0004" x="5" y="247"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfdown0007" x="5" y="247"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfdown0006" x="75" y="185"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfidle0002" x="77" y="64"  width="61" height="49" frameX="-0" frameY="-5" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfidle0004" x="147" y="129"  width="59" height="53" frameX="-1" frameY="-1" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfidle0006" x="5" y="309"  width="56" height="54" frameX="-2" frameY="-0" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfidle0008" x="149" y="5"  width="61" height="52" frameX="-0" frameY="-2" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfidle0010" x="74" y="247"  width="59" height="53" frameX="-1" frameY="-1" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfidle0013" x="74" y="247"  width="59" height="53" frameX="-1" frameY="-1" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfidle0014" x="74" y="247"  width="59" height="53" frameX="-1" frameY="-1" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfidle0012" x="144" y="192"  width="59" height="53" frameX="-1" frameY="-1" frameWidth="61" frameHeight="54"/>
+  <SubTexture name="bfleft0002" x="5" y="65"  width="62" height="50" frameX="-0" frameY="-2" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfleft0004" x="5" y="185"  width="60" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfleft0007" x="5" y="185"  width="60" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfleft0006" x="5" y="373"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfmiss0002" x="143" y="255"  width="59" height="52" frameX="-0" frameY="-0" frameWidth="59" frameHeight="52"/>
+  <SubTexture name="bfmiss0004" x="5" y="435"  width="59" height="52" frameX="-0" frameY="-0" frameWidth="59" frameHeight="52"/>
+  <SubTexture name="bfright0002" x="77" y="5"  width="62" height="49" frameX="-0" frameY="-3" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfright0004" x="71" y="310"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfright0007" x="71" y="310"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfright0006" x="74" y="372"  width="59" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfup0002" x="5" y="125"  width="62" height="50" frameX="-0" frameY="-2" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfup0004" x="77" y="123"  width="60" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfup0007" x="77" y="123"  width="60" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+  <SubTexture name="bfup0006" x="148" y="67"  width="60" height="52" frameX="-1" frameY="-0" frameWidth="62" frameHeight="52"/>
+</TextureAtlas>

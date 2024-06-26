@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="sun.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="sunSprite0000" x="5" y="5" width="93" height="93"/>
+	<SubTexture name="sunSprite0001" x="5" y="103" width="93" height="93"/>
+	<SubTexture name="sunSprite0002" x="5" y="201" width="89" height="89" frameX="-2" frameY="-2" frameWidth="93" frameHeight="93"/>
+	<SubTexture name="sunSprite0003" x="5" y="295" width="91" height="91" frameX="-1" frameY="-1" frameWidth="93" frameHeight="93"/>
+	<SubTexture name="sunSprite0004" x="5" y="391" width="93" height="93"/>
+</TextureAtlas>

@@ -1,0 +1,1 @@
+the game doesn't compile if the songs folder isn't there

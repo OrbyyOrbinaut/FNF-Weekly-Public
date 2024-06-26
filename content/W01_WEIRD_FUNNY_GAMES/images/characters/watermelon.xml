@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="watermelon.png" width="2048" height="1024">
+  <SubTexture name="watermelonidle0001" x="5" y="5" width="243" height="254" rotated="true"  frameX="-0" frameY="-9" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonidle0002" x="5" y="269" width="243" height="254" rotated="true"  frameX="-0" frameY="-9" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonidle0005" x="5" y="533"  width="241" height="252" frameX="-7" frameY="-0" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonidle0003" x="256" y="533" width="247" height="250" rotated="true"  frameX="-2" frameY="-5" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonidle0007" x="513" y="533" width="245" height="250" rotated="true"  frameX="-2" frameY="-7" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonup0001" x="258" y="5" width="244" height="248" rotated="true"  frameX="-0" frameY="-3" frameWidth="248" frameHeight="247"/>
+  <SubTexture name="watermelondown0001" x="258" y="263" width="245" height="247" rotated="true"  frameX="-0" frameY="-2" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelondown0003" x="512" y="5"  width="244" height="247" frameX="-2" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelondown0005" x="513" y="262"  width="244" height="247" frameX="-2" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonidle0009" x="766" y="5"  width="244" height="247" frameX="-5" frameY="-5" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonidle0011" x="767" y="262"  width="244" height="247" frameX="-5" frameY="-5" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonidle0013" x="1020" y="5"  width="244" height="247" frameX="-5" frameY="-5" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonleft0001" x="768" y="519" width="244" height="247" rotated="true"  frameX="-0" frameY="-3" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonleft0003" x="1021" y="262"  width="244" height="247" frameX="-1" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonleft0005" x="1274" y="5"  width="244" height="247" frameX="-1" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonright0001" x="1528" y="5" width="244" height="247" rotated="true"  frameX="-0" frameY="-3" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonright0003" x="1782" y="5" width="247" height="244" rotated="true"  frameX="-2" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonright0005" x="1782" y="259" width="247" height="244" rotated="true"  frameX="-2" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonup0003" x="1275" y="262" width="247" height="244" rotated="true"  frameX="-2" frameY="-0" frameWidth="248" frameHeight="247"/>
+  <SubTexture name="watermelonup0005" x="1022" y="519"  width="244" height="247" frameX="-2" frameY="-0" frameWidth="248" frameHeight="247"/>
+  <SubTexture name="watermelondown0002" x="258" y="263" width="245" height="247" rotated="true"  frameX="-0" frameY="-2" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelondown0004" x="512" y="5"  width="244" height="247" frameX="-2" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelondown0006" x="513" y="262"  width="244" height="247" frameX="-2" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonidle0004" x="256" y="533" width="247" height="250" rotated="true"  frameX="-2" frameY="-5" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonidle0006" x="5" y="533"  width="241" height="252" frameX="-7" frameY="-0" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonidle0008" x="513" y="533" width="245" height="250" rotated="true"  frameX="-2" frameY="-7" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonidle0010" x="766" y="5"  width="244" height="247" frameX="-5" frameY="-5" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonidle0012" x="767" y="262"  width="244" height="247" frameX="-5" frameY="-5" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonidle0014" x="1020" y="5"  width="244" height="247" frameX="-5" frameY="-5" frameWidth="254" frameHeight="252"/>
+  <SubTexture name="watermelonleft0002" x="768" y="519" width="244" height="247" rotated="true"  frameX="-0" frameY="-3" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonleft0004" x="1021" y="262"  width="244" height="247" frameX="-1" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonleft0006" x="1274" y="5"  width="244" height="247" frameX="-1" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonright0002" x="1528" y="5" width="244" height="247" rotated="true"  frameX="-0" frameY="-3" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonright0004" x="1782" y="5" width="247" height="244" rotated="true"  frameX="-2" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonright0006" x="1782" y="259" width="247" height="244" rotated="true"  frameX="-2" frameY="-0" frameWidth="247" frameHeight="247"/>
+  <SubTexture name="watermelonup0002" x="258" y="5" width="244" height="248" rotated="true"  frameX="-0" frameY="-3" frameWidth="248" frameHeight="247"/>
+  <SubTexture name="watermelonup0004" x="1275" y="262" width="247" height="244" rotated="true"  frameX="-2" frameY="-0" frameWidth="248" frameHeight="247"/>
+  <SubTexture name="watermelonup0006" x="1022" y="519"  width="244" height="247" frameX="-2" frameY="-0" frameWidth="248" frameHeight="247"/>
+</TextureAtlas>

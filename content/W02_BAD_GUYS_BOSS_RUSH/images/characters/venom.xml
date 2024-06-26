@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="venom.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="venomdown" x="5" y="5" width="576" height="516"/>
+	<SubTexture name="venomidle" x="586" y="5" width="579" height="530"/>
+	<SubTexture name="venomleft" x="1170" y="5" width="701" height="584"/>
+	<SubTexture name="venomright" x="5" y="594" width="532" height="582"/>
+	<SubTexture name="venomup" x="542" y="594" width="790" height="629"/>
+</TextureAtlas>

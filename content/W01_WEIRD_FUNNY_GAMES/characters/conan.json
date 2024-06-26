@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "conan idle0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			],
+			"name": "conan idle0"
+		},
+		{
+			"offsets": [
+				16,
+				4
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "conan left0"
+		},
+		{
+			"offsets": [
+				-7,
+				-52
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "conan down"
+		},
+		{
+			"offsets": [
+				5,
+				36
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "conan up"
+		},
+		{
+			"offsets": [
+				-12,
+				1
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "conan right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/conan",
+	"position": [
+		-30,
+		460
+	],
+	"healthicon": "conan",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		164,
+		164
+	],
+	"camera_position": [
+		60,
+		-200
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

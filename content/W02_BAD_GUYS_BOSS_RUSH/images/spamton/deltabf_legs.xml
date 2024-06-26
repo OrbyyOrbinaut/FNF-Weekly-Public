@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deltabf_legs.png">
+	<!-- Created with Adobe Animate version 23.0.6.142 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fnfwalklegs0000" x="5" y="5" width="302" height="159" frameX="0" frameY="-13" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0001" x="5" y="5" width="302" height="159" frameX="0" frameY="-13" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0002" x="5" y="5" width="302" height="159" frameX="0" frameY="-13" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0003" x="5" y="5" width="302" height="159" frameX="0" frameY="-13" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0004" x="312" y="5" width="211" height="174" frameX="-52" frameY="0" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0005" x="312" y="5" width="211" height="174" frameX="-52" frameY="0" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0006" x="312" y="5" width="211" height="174" frameX="-52" frameY="0" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0007" x="312" y="5" width="211" height="174" frameX="-52" frameY="0" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0008" x="528" y="5" width="302" height="160" frameX="0" frameY="-15" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0009" x="528" y="5" width="302" height="160" frameX="0" frameY="-15" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0010" x="528" y="5" width="302" height="160" frameX="0" frameY="-15" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0011" x="528" y="5" width="302" height="160" frameX="0" frameY="-15" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0012" x="312" y="5" width="211" height="174" frameX="-52" frameY="0" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0013" x="312" y="5" width="211" height="174" frameX="-52" frameY="0" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0014" x="312" y="5" width="211" height="174" frameX="-52" frameY="0" frameWidth="302" frameHeight="175"/>
+	<SubTexture name="fnfwalklegs0015" x="312" y="5" width="211" height="174" frameX="-52" frameY="0" frameWidth="302" frameHeight="175"/>
+</TextureAtlas>

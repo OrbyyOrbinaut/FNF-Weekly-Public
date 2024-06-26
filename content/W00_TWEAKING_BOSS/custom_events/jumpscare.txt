@@ -1,0 +1,2 @@
+toggle. the jumpie.
+value 1 = on to turn on. anything else to turn off. warning scary

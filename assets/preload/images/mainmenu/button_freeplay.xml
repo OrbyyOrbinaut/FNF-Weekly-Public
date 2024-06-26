@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="button_freeplay.png" width="512" height="128">
+  <SubTexture name="freeplay hover0" x="3" y="3"  width="249" height="91" frameX="-0" frameY="-0" frameWidth="249" frameHeight="91"/>
+  <SubTexture name="freeplay0" x="258" y="3"  width="249" height="91" frameX="-0" frameY="-0" frameWidth="249" frameHeight="91"/>
+</TextureAtlas>

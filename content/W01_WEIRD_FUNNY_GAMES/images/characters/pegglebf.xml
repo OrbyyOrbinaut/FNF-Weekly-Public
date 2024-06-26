@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="pegglebf.png" width="139" height="2071">
+	<SubTexture name="DOWN0001" x="1" y="1" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="DOWN0002" x="1" y="1" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="DOWN0003" x="1" y="149" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="DOWN0004" x="1" y="149" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="IDLE0001" x="1" y="297" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="IDLE0002" x="1" y="445" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="IDLE0003" x="1" y="593" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="IDLE0004" x="1" y="741" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="IDLE0005" x="1" y="889" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="IDLE0006" x="1" y="1037" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="IDLE0007" x="1" y="1185" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="IDLE0008" x="1" y="1185" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="LEFT0001" x="1" y="1333" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="LEFT0002" x="1" y="1333" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="LEFT0003" x="1" y="1481" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="LEFT0004" x="1" y="1481" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="TURN0001" x="1" y="1629" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="TURN0002" x="1" y="1629" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="TURN0003" x="1" y="1629" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="TURN0004" x="1" y="1629" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="UP0001" x="1" y="1777" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="UP0002" x="1" y="1777" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="UP0003" x="1" y="1925" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+	<SubTexture name="UP0004" x="1" y="1925" width="137" height="145" frameX="-0" frameY="-0" frameWidth="137" frameHeight="145"/>
+</TextureAtlas>

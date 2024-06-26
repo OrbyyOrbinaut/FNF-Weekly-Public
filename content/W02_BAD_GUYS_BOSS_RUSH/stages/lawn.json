@@ -1,0 +1,17 @@
+{
+	"directory": "",
+	"defaultZoom": 1.2,
+	"isPixelStage": false,
+	"introPrefix": "brains/intro/",
+
+	"boyfriend": [470, 180],
+	"girlfriend": [580, 325],
+	"opponent": [1000, 90],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [200, 0],
+	"camera_opponent": [-400, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 0,
+	"introSuffix": "-pvz"
+}

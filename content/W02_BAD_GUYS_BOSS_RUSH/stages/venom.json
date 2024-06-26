@@ -1,0 +1,17 @@
+{
+	"directory": "",
+	"defaultZoom": 1.0,
+	"isPixelStage": false,
+	"introPrefix": "venom/intro/",
+    "introSuffix": "-mvc",
+
+	"boyfriend": [950, 635],
+	"girlfriend": [580, 325],
+	"opponent": [300, 600],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-180, -150],
+	"camera_opponent": [200, -50],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

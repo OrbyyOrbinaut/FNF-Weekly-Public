@@ -1,0 +1,60 @@
+{
+	"songs": [
+		[
+			"Boss Tweaks in Brasil",
+			"tweak",
+			[
+				166,
+				233,
+				253
+			]
+		],
+		[
+			"Teaking",
+			"tweak",
+			[
+				166,
+				233,
+				253
+			]
+		],
+		[
+			"Goo",
+			"tweak",
+			[
+				166,
+				233,
+				253
+			]
+		],
+		[
+			"Visiosubrideophobia",
+			"tweak",
+			[
+				166,
+				233,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "tweak",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "OOOGLY GOOOOO",
+	"weekName": "oogly. goo.",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weeklogo": "tweakingboss"
+}

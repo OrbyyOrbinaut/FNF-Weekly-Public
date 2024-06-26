@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peter.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="peterdown" x="5" y="5" width="394" height="437"/>
+	<SubTexture name="peteridle" x="404" y="5" width="421" height="410"/>
+	<SubTexture name="peterleft" x="830" y="5" width="496" height="468"/>
+	<SubTexture name="peterpunch" x="1331" y="5" width="443" height="363"/>
+	<SubTexture name="peterright" x="5" y="478" width="362" height="361"/>
+	<SubTexture name="peterup" x="372" y="478" width="412" height="349"/>
+</TextureAtlas>

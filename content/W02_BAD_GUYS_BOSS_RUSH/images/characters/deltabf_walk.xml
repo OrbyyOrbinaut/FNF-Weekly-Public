@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deltabf_walk.png">
+	<!-- Created with Adobe Animate version 23.0.6.142 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE walk miss0000" x="5" y="5" width="423" height="359" frameX="0" frameY="-4" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0001" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0002" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0003" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0004" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0005" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0006" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0007" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0008" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0009" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0010" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0011" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0012" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0013" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="BF NOTE walk miss0014" x="433" y="5" width="381" height="362" frameX="-39" frameY="0" frameWidth="423" frameHeight="363"/>
+	<SubTexture name="bf_walkdown0000" x="819" y="5" width="360" height="294" frameX="-2" frameY="-6" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0001" x="819" y="5" width="360" height="294" frameX="-2" frameY="-6" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0002" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0003" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0004" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0005" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0006" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0007" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0008" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0009" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0010" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0011" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0012" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bf_walkdown0013" x="1184" y="5" width="363" height="297" frameX="0" frameY="0" frameWidth="363" frameHeight="300"/>
+	<SubTexture name="bfwalk_idle0000" x="1552" y="5" width="424" height="358" frameX="0" frameY="0" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0001" x="1552" y="5" width="424" height="358" frameX="0" frameY="0" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0002" x="1552" y="5" width="424" height="358" frameX="0" frameY="0" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0003" x="1552" y="5" width="424" height="358" frameX="0" frameY="0" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0004" x="5" y="372" width="422" height="358" frameX="0" frameY="-3" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0005" x="5" y="372" width="422" height="358" frameX="0" frameY="-3" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0006" x="5" y="372" width="422" height="358" frameX="0" frameY="-3" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0007" x="5" y="372" width="422" height="358" frameX="0" frameY="-3" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0008" x="1552" y="5" width="424" height="358" frameX="0" frameY="0" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0009" x="1552" y="5" width="424" height="358" frameX="0" frameY="0" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0010" x="1552" y="5" width="424" height="358" frameX="0" frameY="0" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0011" x="1552" y="5" width="424" height="358" frameX="0" frameY="0" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0012" x="432" y="372" width="422" height="358" frameX="0" frameY="-3" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0013" x="432" y="372" width="422" height="358" frameX="0" frameY="-3" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0014" x="432" y="372" width="422" height="358" frameX="0" frameY="-3" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_idle0015" x="432" y="372" width="422" height="358" frameX="0" frameY="-3" frameWidth="424" frameHeight="361"/>
+	<SubTexture name="bfwalk_left0000" x="859" y="372" width="388" height="348" frameX="0" frameY="-3" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0001" x="859" y="372" width="388" height="348" frameX="0" frameY="-3" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0002" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0003" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0004" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0005" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0006" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0007" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0008" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0009" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0010" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0011" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0012" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_left0013" x="1252" y="372" width="392" height="351" frameX="-1" frameY="0" frameWidth="393" frameHeight="351"/>
+	<SubTexture name="bfwalk_right0000" x="1649" y="372" width="378" height="347" frameX="-5" frameY="0" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0001" x="1649" y="372" width="378" height="347" frameX="-5" frameY="0" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0002" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0003" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0004" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0005" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0006" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0007" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0008" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0009" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0010" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0011" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0012" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_right0013" x="5" y="735" width="373" height="346" frameX="0" frameY="-1" frameWidth="383" frameHeight="347"/>
+	<SubTexture name="bfwalk_up0000" x="383" y="735" width="400" height="370" frameX="0" frameY="0" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0001" x="383" y="735" width="400" height="370" frameX="0" frameY="0" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0002" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0003" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0004" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0005" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0006" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0007" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0008" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0009" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0010" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0011" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0012" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+	<SubTexture name="bfwalk_up0013" x="788" y="735" width="406" height="365" frameX="-1" frameY="-6" frameWidth="407" frameHeight="371"/>
+</TextureAtlas>

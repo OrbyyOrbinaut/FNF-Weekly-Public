@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "watermelonidle"
+		},
+		{
+			"offsets": [
+				-3,
+				-4
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "watermelonleft"
+		},
+		{
+			"offsets": [
+				-3,
+				-4
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "watermelondown"
+		},
+		{
+			"offsets": [
+				-2,
+				-4
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "watermelonup"
+		},
+		{
+			"offsets": [
+				-3,
+				-4
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "watermelonright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/watermelon",
+	"position": [
+		20,
+		540
+	],
+	"healthicon": "watermelon",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		133,
+		56
+	],
+	"camera_position": [
+		40,
+		-40
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

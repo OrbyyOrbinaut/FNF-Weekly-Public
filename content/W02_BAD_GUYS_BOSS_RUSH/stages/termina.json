@@ -1,0 +1,16 @@
+{
+	"directory": "",
+	"defaultZoom": 0.81,
+	"isPixelStage": false,
+
+	"boyfriend": [-15, 0],
+	"girlfriend": [580, 325],
+	"opponent": [1080, -150],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-180, -50],
+	"camera_opponent": [200, 150],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1,
+	"comboPrefix": "skullkid/"
+}

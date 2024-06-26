@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Dustloop", "venom", [49, 176, 209]],
+		["Pirate Indie Games", "spamton", [189, 189, 189]],
+		["Undead", "zombie", [76, 131, 102]],
+		["Termina", "majora", [114, 16, 40]],
+		["Luminary Clock", "mithrix", [139, 180, 212]],
+		["Koopa Karnage", "bowser", [204, 126, 55]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Bad Guys Boss Rush",
+	"weekBefore": "",
+	"weekName": "Bad Guys Boss Rush",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weeklogo": "badguysbossrush"
+}

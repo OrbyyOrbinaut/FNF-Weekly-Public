@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "spam_idle0"
+		},
+		{
+			"offsets": [
+				94,
+				48
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spam_left0"
+		},
+		{
+			"offsets": [
+				-5,
+				-46
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spam_down0"
+		},
+		{
+			"offsets": [
+				9,
+				62
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spam_up0"
+		},
+		{
+			"offsets": [
+				-7,
+				53
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spam_right0"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "angry",
+			"indices": [],
+			"name": "spam_angry0"
+		},
+		{
+			"offsets": [
+				166,
+				89
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "idle-run",
+			"loop": true,
+			"name": "spam_run0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spamboi",
+	"position": [
+		160,
+		220
+	],
+	"healthicon": "spamton",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		201,
+		201
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

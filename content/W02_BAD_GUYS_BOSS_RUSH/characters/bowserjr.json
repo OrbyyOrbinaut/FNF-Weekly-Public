@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				1,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				-2,
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-7,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				15,
+				16
+			],
+			"name": "idle"
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				12,
+				-2
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				15,
+				16
+			]
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				1,
+				-5
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "down",
+			"indices": [
+				15,
+				16
+			]
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				-2,
+				47
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				15,
+				16
+			]
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-7,
+				2
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				15,
+				16
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				12,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bowserjr",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bowserjr",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		180,
+		90
+	],
+	"camera_position": [
+		20,
+		70
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="zombiehandImSoSorryForNotTweeningThisLikeANormalPerson3.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="ArmPop0000" x="5" y="5" width="31" height="42" frameX="-38" frameY="0" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0001" x="41" y="5" width="30" height="41" frameX="-34" frameY="-17" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0002" x="76" y="5" width="30" height="41" frameX="-31" frameY="-32" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0003" x="111" y="5" width="33" height="43" frameX="-27" frameY="-33" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0004" x="149" y="5" width="38" height="43" frameX="-20" frameY="-35" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0005" x="192" y="5" width="42" height="43" frameX="-14" frameY="-36" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0006" x="5" y="53" width="44" height="41" frameX="-9" frameY="-38" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0007" x="54" y="53" width="44" height="39" frameX="-6" frameY="-40" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0008" x="103" y="53" width="45" height="37" frameX="-3" frameY="-41" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0009" x="153" y="53" width="44" height="35" frameX="-1" frameY="-43" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0010" x="202" y="53" width="44" height="34" frameX="0" frameY="-43" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0011" x="5" y="99" width="43" height="33" frameX="0" frameY="-44" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0012" x="53" y="99" width="0" height="0" frameX="-55" frameY="-6" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0013" x="5" y="99" width="43" height="33" frameX="0" frameY="-44" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0014" x="58" y="99" width="0" height="0" frameX="-55" frameY="-6" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0015" x="5" y="99" width="43" height="33" frameX="0" frameY="-44" frameWidth="69" frameHeight="79"/>
+	<SubTexture name="ArmPop0016" x="63" y="99" width="0" height="0" frameX="-55" frameY="-6" frameWidth="69" frameHeight="79"/>
+</TextureAtlas>

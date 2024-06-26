@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"loop": true,
+			"name": "bfwalk_idle0"
+		},
+		{
+			"offsets": [
+				-8,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bfwalk_left0"
+		},
+		{
+			"offsets": [
+				-94,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bf_walkdown0"
+		},
+		{
+			"offsets": [
+				-7,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"anim": "singUP",
+			"loop": false,
+			"name": "bfwalk_up0"
+		},
+		{
+			"offsets": [
+				-48,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bfwalk_right0"
+		},
+		{
+			"offsets": [
+				-6,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF NOTE walk miss0"
+		},
+		{
+			"offsets": [
+				-6,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF NOTE walk miss0"
+		},
+		{
+			"offsets": [
+				-6,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF NOTE walk miss0"
+		},
+		{
+			"offsets": [
+				-6,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF NOTE walk miss0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deltabf_walk",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-deltarune",
+	"flip_x": true,
+	"healthbar_colors": [
+		202,
+		89,
+		129
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
