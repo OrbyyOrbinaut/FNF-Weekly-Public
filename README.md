@@ -1,27 +1,10 @@
-helloe we hit single
+welcome my friends and fellas my buds and bluds to the FNF Weekly source code!
+Your weekly FNF content powered by the wonderful Nightmare Vision fork of Psych Engine by DuskieWhy!
 
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
+If you desire to compile the mod, run compile.bat in the "projFiles" folder and it'll
+set up all the libraries for you!
 
-Havee fun (engine still in *beta* btw, ***[follow me on twitter](https://twitter.com/DuskieWhy)***)
+-Mod Links-
 
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
-![](https://github.com/evilfuck/images/blob/main/nightmarevision.png)
+Gamebanana: https://gamebanana.com/mods/522709
+Google Drive: https://drive.google.com/file/d/1TttHpuWWlonds3J3MCQ5QH-t72GeF1io
