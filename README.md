@@ -1,4 +1,4 @@
-https://github.com/OrbyyOrbinaut/FNF-Weekly-Public/blob/main/projFiles/FNF%20Weekly%20Logo.png
+![](https://github.com/OrbyyOrbinaut/FNF-Weekly-Public/blob/main/projFiles/FNF%20Weekly%20Logo.png)
 
 welcome my friends and fellas my buds and bluds to the FNF Weekly source code!
 Your weekly FNF content powered by the wonderful Nightmare Vision fork of Psych Engine by DuskieWhy!
