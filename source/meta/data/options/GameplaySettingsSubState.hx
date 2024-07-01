@@ -50,7 +50,7 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 		addOption(option);
 
 		var option:Option = new Option('Middlescroll',
-			'If checked, your notes get centered.',
+			'If checked, your notes get centered.\n(UNSUPPORTED)',
 			'middleScroll',
 			'bool',
 			false);

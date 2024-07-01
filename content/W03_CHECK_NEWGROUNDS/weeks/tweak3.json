@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Mental Temple", "ena", [54, 107, 255]],
+		["Spaceblasterz", "hominid", [244, 223, 34]],
+		["Crimson Fog", "hank", [78, 55, 89]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Check Newgrounds",
+	"weekBefore": "",
+	"weekName": "Check Newgrounds",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weeklogo": "checknewgrounds"
+}

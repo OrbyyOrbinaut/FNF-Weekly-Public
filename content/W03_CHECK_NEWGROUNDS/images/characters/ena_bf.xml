@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="ena bf.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="ena bf down0000" x="10" y="10" width="329" height="484"/>
+	<SubTexture name="ena bf down0001" x="10" y="10" width="329" height="484"/>
+	<SubTexture name="ena bf down0002" x="339" y="10" width="329" height="484"/>
+	<SubTexture name="ena bf down0003" x="339" y="10" width="329" height="484"/>
+	<SubTexture name="ena bf down0004" x="339" y="10" width="329" height="484"/>
+	<SubTexture name="ena bf down0005" x="339" y="10" width="329" height="484"/>
+	<SubTexture name="ena bf down0006" x="339" y="10" width="329" height="484"/>
+	<SubTexture name="ena bf down0007" x="339" y="10" width="329" height="484"/>
+	<SubTexture name="ena bf down0008" x="339" y="10" width="329" height="484"/>
+	<SubTexture name="ena bf down0009" x="339" y="10" width="329" height="484"/>
+	<SubTexture name="ena bf idle0000" x="668" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0001" x="668" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0002" x="1002" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0003" x="1002" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0004" x="1336" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0005" x="1336" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0006" x="1670" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0007" x="1670" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0008" x="2004" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0009" x="2004" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0010" x="2004" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0011" x="2004" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0012" x="2004" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0013" x="2004" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0014" x="2004" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf idle0015" x="2004" y="10" width="334" height="588"/>
+	<SubTexture name="ena bf left0000" x="2338" y="10" width="319" height="588"/>
+	<SubTexture name="ena bf left0001" x="2338" y="10" width="319" height="588"/>
+	<SubTexture name="ena bf left0002" x="2657" y="10" width="319" height="588"/>
+	<SubTexture name="ena bf left0003" x="2657" y="10" width="319" height="588"/>
+	<SubTexture name="ena bf left0004" x="2657" y="10" width="319" height="588"/>
+	<SubTexture name="ena bf left0005" x="2657" y="10" width="319" height="588"/>
+	<SubTexture name="ena bf left0006" x="2657" y="10" width="319" height="588"/>
+	<SubTexture name="ena bf left0007" x="2657" y="10" width="319" height="588"/>
+	<SubTexture name="ena bf left0008" x="2657" y="10" width="319" height="588"/>
+	<SubTexture name="ena bf left0009" x="2657" y="10" width="319" height="588"/>
+	<SubTexture name="ena bf right0000" x="2976" y="10" width="362" height="583"/>
+	<SubTexture name="ena bf right0001" x="2976" y="10" width="362" height="583"/>
+	<SubTexture name="ena bf right0002" x="3338" y="10" width="362" height="583"/>
+	<SubTexture name="ena bf right0003" x="3338" y="10" width="362" height="583"/>
+	<SubTexture name="ena bf right0004" x="3338" y="10" width="362" height="583"/>
+	<SubTexture name="ena bf right0005" x="3338" y="10" width="362" height="583"/>
+	<SubTexture name="ena bf right0006" x="3338" y="10" width="362" height="583"/>
+	<SubTexture name="ena bf right0007" x="3338" y="10" width="362" height="583"/>
+	<SubTexture name="ena bf right0008" x="3338" y="10" width="362" height="583"/>
+	<SubTexture name="ena bf right0009" x="3338" y="10" width="362" height="583"/>
+	<SubTexture name="ena bf up0000" x="3700" y="10" width="329" height="604"/>
+	<SubTexture name="ena bf up0001" x="3700" y="10" width="329" height="604"/>
+	<SubTexture name="ena bf up0002" x="10" y="614" width="329" height="604"/>
+	<SubTexture name="ena bf up0003" x="10" y="614" width="329" height="604"/>
+	<SubTexture name="ena bf up0004" x="10" y="614" width="329" height="604"/>
+	<SubTexture name="ena bf up0005" x="10" y="614" width="329" height="604"/>
+	<SubTexture name="ena bf up0006" x="10" y="614" width="329" height="604"/>
+	<SubTexture name="ena bf up0007" x="10" y="614" width="329" height="604"/>
+	<SubTexture name="ena bf up0008" x="10" y="614" width="329" height="604"/>
+	<SubTexture name="ena bf up0009" x="10" y="614" width="329" height="604"/>
+</TextureAtlas>

@@ -1,7 +1,7 @@
 TWEAK 2 - BAD GUYS BOSS RUSH
 Biddle3::Biddle3::Composer of "Dustloop"::https://x.com/thedawg3_::0xFFFFAF64
 Ito Saihara::ItoSaihara::All Visuals of "Dustloop", Voice of Spiderman::https://x.com/ItoSaihara_::0xFFFFAF64
-Akari::Akari::Spiderman Victory Screen Render, Boswer JR Concepts::https://x.com/ultraspicyspray::0xFFFFAF64
+ultraspicyspray::Akari::Spiderman Victory Screen Render, Boswer JR Concepts::https://x.com/ultraspicyspray::0xFFFFAF64
 Flaguieug::Flaguieug::Programming for "Dustloop"::https://x.com/Flaguieug::0xFFFFAF64
 Srife5::Srife5::Charter of "Dustloop"::https://x.com/strife55::0xFFFFAF64
 maddiesmiles::MaddieSmiles::Composer of "Pirate Indie Games"::https://x.com/maddiesmiles_::0xFFFFAF64

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="helicopters.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="helicopter_badguy0000" x="3" y="3" width="501" height="601" frameX="0" frameY="-7" frameWidth="503" frameHeight="608"/>
+	<SubTexture name="helicopter_badguy0001" x="504" y="3" width="496" height="599" frameX="0" frameY="-9" frameWidth="503" frameHeight="608"/>
+	<SubTexture name="helicopter_badguy0002" x="1000" y="3" width="503" height="608"/>
+	<SubTexture name="helicopter_badguy0003" x="1503" y="3" width="503" height="554" frameX="0" frameY="-54" frameWidth="503" frameHeight="608"/>
+	<SubTexture name="helicopter_funny0000" x="3" y="611" width="501" height="601" frameX="0" frameY="-7" frameWidth="503" frameHeight="608"/>
+	<SubTexture name="helicopter_funny0001" x="504" y="611" width="496" height="599" frameX="0" frameY="-9" frameWidth="503" frameHeight="608"/>
+	<SubTexture name="helicopter_funny0002" x="1000" y="611" width="503" height="608"/>
+	<SubTexture name="helicopter_funny0003" x="1503" y="611" width="503" height="554" frameX="0" frameY="-54" frameWidth="503" frameHeight="608"/>
+	<SubTexture name="helicopter_tweak0000" x="3" y="1219" width="501" height="601" frameX="0" frameY="-7" frameWidth="503" frameHeight="608"/>
+	<SubTexture name="helicopter_tweak0001" x="504" y="1219" width="496" height="599" frameX="0" frameY="-9" frameWidth="503" frameHeight="608"/>
+	<SubTexture name="helicopter_tweak0002" x="1000" y="1219" width="503" height="608"/>
+	<SubTexture name="helicopter_tweak0003" x="1503" y="1219" width="503" height="554" frameX="0" frameY="-54" frameWidth="503" frameHeight="608"/>
+</TextureAtlas>

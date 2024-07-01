@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hankly.png">
+	<!-- Created with Adobe Animate version 23.0.6.142 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hankdown0000" x="5" y="5" width="547" height="430" frameX="0" frameY="-7" frameWidth="547" frameHeight="437"/>
+	<SubTexture name="hankdown0001" x="5" y="5" width="547" height="430" frameX="0" frameY="-7" frameWidth="547" frameHeight="437"/>
+	<SubTexture name="hankdown0002" x="557" y="5" width="498" height="437" frameX="-3" frameY="0" frameWidth="547" frameHeight="437"/>
+	<SubTexture name="hankdown0003" x="557" y="5" width="498" height="437" frameX="-3" frameY="0" frameWidth="547" frameHeight="437"/>
+	<SubTexture name="hankdown0004" x="1060" y="5" width="455" height="437" frameX="-3" frameY="0" frameWidth="547" frameHeight="437"/>
+	<SubTexture name="hankdown0005" x="1060" y="5" width="455" height="437" frameX="-3" frameY="0" frameWidth="547" frameHeight="437"/>
+	<SubTexture name="hankdown0006" x="1520" y="5" width="544" height="437" frameX="-3" frameY="0" frameWidth="547" frameHeight="437"/>
+	<SubTexture name="hankdown0007" x="1520" y="5" width="544" height="437" frameX="-3" frameY="0" frameWidth="547" frameHeight="437"/>
+	<SubTexture name="hankidle0000" x="2069" y="5" width="539" height="475" frameX="0" frameY="-9" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0001" x="2069" y="5" width="539" height="475" frameX="0" frameY="-9" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0002" x="2613" y="5" width="500" height="472" frameX="-2" frameY="-13" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0003" x="2613" y="5" width="500" height="472" frameX="-2" frameY="-13" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0004" x="3118" y="5" width="454" height="475" frameX="-3" frameY="-10" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0005" x="3118" y="5" width="454" height="475" frameX="-3" frameY="-10" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0006" x="5" y="485" width="525" height="480" frameX="-4" frameY="-5" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0007" x="5" y="485" width="525" height="480" frameX="-4" frameY="-5" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0008" x="535" y="485" width="480" height="485" frameX="-1" frameY="0" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0009" x="535" y="485" width="480" height="485" frameX="-1" frameY="0" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0010" x="1020" y="485" width="437" height="485" frameX="-1" frameY="0" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0011" x="1020" y="485" width="437" height="485" frameX="-1" frameY="0" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0012" x="1462" y="485" width="526" height="485" frameX="-1" frameY="0" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0013" x="1462" y="485" width="526" height="485" frameX="-1" frameY="0" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0014" x="1993" y="485" width="480" height="485" frameX="-1" frameY="0" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankidle0015" x="1993" y="485" width="480" height="485" frameX="-1" frameY="0" frameWidth="539" frameHeight="485"/>
+	<SubTexture name="hankleft0000" x="2478" y="485" width="555" height="477" frameX="-1" frameY="0" frameWidth="556" frameHeight="477"/>
+	<SubTexture name="hankleft0001" x="2478" y="485" width="555" height="477" frameX="-1" frameY="0" frameWidth="556" frameHeight="477"/>
+	<SubTexture name="hankleft0002" x="3038" y="485" width="552" height="475" frameX="0" frameY="-2" frameWidth="556" frameHeight="477"/>
+	<SubTexture name="hankleft0003" x="3038" y="485" width="552" height="475" frameX="0" frameY="-2" frameWidth="556" frameHeight="477"/>
+	<SubTexture name="hankleft0004" x="5" y="975" width="548" height="475" frameX="-4" frameY="-2" frameWidth="556" frameHeight="477"/>
+	<SubTexture name="hankleft0005" x="5" y="975" width="548" height="475" frameX="-4" frameY="-2" frameWidth="556" frameHeight="477"/>
+	<SubTexture name="hankleft0006" x="558" y="975" width="543" height="475" frameX="-9" frameY="-2" frameWidth="556" frameHeight="477"/>
+	<SubTexture name="hankleft0007" x="558" y="975" width="543" height="475" frameX="-9" frameY="-2" frameWidth="556" frameHeight="477"/>
+	<SubTexture name="hankright0000" x="1106" y="975" width="549" height="479" frameX="0" frameY="-2" frameWidth="549" frameHeight="481"/>
+	<SubTexture name="hankright0001" x="1106" y="975" width="549" height="479" frameX="0" frameY="-2" frameWidth="549" frameHeight="481"/>
+	<SubTexture name="hankright0002" x="1660" y="975" width="491" height="481" frameX="-5" frameY="0" frameWidth="549" frameHeight="481"/>
+	<SubTexture name="hankright0003" x="1660" y="975" width="491" height="481" frameX="-5" frameY="0" frameWidth="549" frameHeight="481"/>
+	<SubTexture name="hankright0004" x="2156" y="975" width="460" height="481" frameX="-5" frameY="0" frameWidth="549" frameHeight="481"/>
+	<SubTexture name="hankright0005" x="2156" y="975" width="460" height="481" frameX="-5" frameY="0" frameWidth="549" frameHeight="481"/>
+	<SubTexture name="hankright0006" x="2621" y="975" width="536" height="481" frameX="-5" frameY="0" frameWidth="549" frameHeight="481"/>
+	<SubTexture name="hankright0007" x="2621" y="975" width="536" height="481" frameX="-5" frameY="0" frameWidth="549" frameHeight="481"/>
+	<SubTexture name="hankup0000" x="3162" y="975" width="563" height="537"/>
+	<SubTexture name="hankup0001" x="3162" y="975" width="563" height="537"/>
+	<SubTexture name="hankup0002" x="5" y="1517" width="516" height="531" frameX="0" frameY="-5" frameWidth="563" frameHeight="537"/>
+	<SubTexture name="hankup0003" x="5" y="1517" width="516" height="531" frameX="0" frameY="-5" frameWidth="563" frameHeight="537"/>
+	<SubTexture name="hankup0004" x="526" y="1517" width="485" height="531" frameX="0" frameY="-5" frameWidth="563" frameHeight="537"/>
+	<SubTexture name="hankup0005" x="526" y="1517" width="485" height="531" frameX="0" frameY="-5" frameWidth="563" frameHeight="537"/>
+	<SubTexture name="hankup0006" x="1016" y="1517" width="563" height="531" frameX="0" frameY="-5" frameWidth="563" frameHeight="537"/>
+	<SubTexture name="hankup0007" x="1016" y="1517" width="563" height="531" frameX="0" frameY="-5" frameWidth="563" frameHeight="537"/>
+</TextureAtlas>

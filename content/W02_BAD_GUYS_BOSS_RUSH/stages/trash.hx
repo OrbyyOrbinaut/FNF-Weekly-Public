@@ -19,7 +19,7 @@ function onLoad() {
 
     white = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.WHITE);
     white.cameras = [game.camHUD];
-    white.alpha = 0;
+    white.alpha = 0.001;
 
     bg = new BGSprite(FILE_PREFIX + 'bgmain', 0, 0);
     phone = new BGSprite(FILE_PREFIX + 'phone', 1250, 0, 0.9, 0.9);
@@ -39,6 +39,11 @@ function onLoad() {
     add(phone);
     add(bg);
     add(legs);
+
+    game.precacheList.set('bepis-yoink', 'sound');
+    game.precacheList.set('WindChime', 'sound');
+
+    game.comboOffsetCustom = [925, 350, 965, 500];
 }
 
 function onEvent(name, v1, v2) 

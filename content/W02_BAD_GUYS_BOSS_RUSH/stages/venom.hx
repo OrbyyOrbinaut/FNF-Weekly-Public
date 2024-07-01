@@ -2,7 +2,6 @@ var tween1:FlxTween;
 var tween2:FlxTween;
 var allowEnd:Bool = false;
 var vicvideo:PsychVideoSprite;
-var ogComboOffset:Array<Int> = [0, 0, 0, 0];
 var hit:Int = 0;
 var oldhit:Int = 1;
 var moveTween:FlxTween;
@@ -42,11 +41,6 @@ function onLoad(){
     bars2.x += 217;
     bars2.y += (530 + (FlxG.height/2) - 33);
 	foreground.add(bars2);
-
-    ogComboOffset[0] = ClientPrefs.comboOffset[0];
-    ogComboOffset[1] = ClientPrefs.comboOffset[1];
-    ogComboOffset[2] = ClientPrefs.comboOffset[2];
-    ogComboOffset[3] = ClientPrefs.comboOffset[3];
 }
 
 function onCreatePost(){
@@ -57,10 +51,7 @@ function onCreatePost(){
     game.snapCamFollowToPos(217 + FlxG.width/2, 530 + FlxG.height/2);
     game.isCameraOnForcedPos = true;
 
-    ClientPrefs.comboOffset[0] =  -400;
-	ClientPrefs.comboOffset[1] =  -200;
-    ClientPrefs.comboOffset[2] =  -400;
-	ClientPrefs.comboOffset[3] =  -200;
+    game.comboOffsetCustom = [525, 350, 565, 500];
     //635
     //950
     //220

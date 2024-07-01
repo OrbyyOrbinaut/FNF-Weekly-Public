@@ -149,6 +149,7 @@ class PlayState extends MusicBeatState
 	public var modchartTexts:Map<String, ModchartText> = new Map<String, ModchartText>();
 	public var modchartSaves:Map<String, FlxSave> = new Map<String, FlxSave>();
 	public var modchartObjects:Map<String, FlxSprite> = new Map<String, FlxSprite>();
+	public var comboOffsetCustom:Null<Array<Int>> = null;
 
 	//event variables
 	public var hscriptGlobals:Map<String, Dynamic> = new Map();
@@ -710,6 +711,8 @@ class PlayState extends MusicBeatState
 		stage = new Stage(curStage);
 		stageData = stage.stageData;
 		setStageData(stageData);
+
+		comboOffsetCustom = null;
 
 		setOnScripts('stage', stage);
 
@@ -4403,8 +4406,8 @@ class PlayState extends MusicBeatState
 						FlxG.sound.play(Paths.sound('Lights_Shut_off'));
 					}
 
-					FlxTransitionableState.skipNextTransIn = true;
-					FlxTransitionableState.skipNextTransOut = true;
+					//FlxTransitionableState.skipNextTransIn = true;
+					//FlxTransitionableState.skipNextTransOut = true;
 
 					prevCamFollow = camFollow;
 					prevCamFollowPos = camFollowPos;
@@ -4567,8 +4570,14 @@ class PlayState extends MusicBeatState
 		rating.velocity.y -= FlxG.random.int(140, 175);
 		rating.velocity.x -= FlxG.random.int(0, 10);
 		rating.visible = (!ClientPrefs.hideHud && showRating);
-		rating.x += ClientPrefs.comboOffset[0];
-		rating.y -= ClientPrefs.comboOffset[1];
+		if (comboOffsetCustom != null) {
+			rating.x = comboOffsetCustom[0];
+			rating.y = comboOffsetCustom[1];
+		}
+		else {
+			rating.x += ClientPrefs.comboOffset[0];
+			rating.y -= ClientPrefs.comboOffset[1];
+		}
 
 		var comboSpr:FlxSprite = new FlxSprite().loadGraphic(Paths.image(comboPrefix + 'combo' + comboSuffix));
 		comboSpr.cameras = [camHUD];
@@ -4623,8 +4632,15 @@ class PlayState extends MusicBeatState
 			numScore.x = coolText.x + (43 * daLoop) - 90;
 			numScore.y += 80;
 
-			numScore.x += ClientPrefs.comboOffset[2];
-			numScore.y -= ClientPrefs.comboOffset[3];
+			if (comboOffsetCustom != null) {
+				numScore.x = comboOffsetCustom[2] + (43 * daLoop);
+				numScore.y = comboOffsetCustom[3];
+			}
+			else {
+				numScore.x += ClientPrefs.comboOffset[2];
+				numScore.y -= ClientPrefs.comboOffset[3];
+			}
+			
 
 			if (!PlayState.isPixelStage)
 			{
@@ -4647,8 +4663,8 @@ class PlayState extends MusicBeatState
 
 			callOnHScripts('popupNumScore', [numScore]);
 			if(!isPixelStage){
-				numScore.scale.set(0.785, 0.785);
-				FlxTween.tween(numScore.scale, {x: 0.7, y: 0.7}, 0.5, {ease: FlxEase.expoOut});
+				numScore.scale.set(0.6, 0.6);
+				FlxTween.tween(numScore.scale, {x: 0.5, y: 0.5}, 0.5, {ease: FlxEase.expoOut});
 			}else{
 				numScore.scale.set(6,6);
 			}

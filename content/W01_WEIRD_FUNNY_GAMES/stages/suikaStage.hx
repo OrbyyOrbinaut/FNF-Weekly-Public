@@ -1,14 +1,6 @@
 var fruits:FlxSprite;
 var cloud:FlxSprite;
-var ogComboOffset:Array<Int> = [0, 0, 0, 0];
 var p:Float;
-
-function onDestroy() {
-    ClientPrefs.comboOffset[0] =  ogComboOffset[0];
-	ClientPrefs.comboOffset[1] =  ogComboOffset[1];
-    ClientPrefs.comboOffset[2] =  ogComboOffset[2];
-	ClientPrefs.comboOffset[3] =  ogComboOffset[3];
-}
 
 function onLoad() {
     var bg:FlxSprite = new FlxSprite(0, 0);
@@ -41,11 +33,6 @@ function onLoad() {
     cloud.antialiasing = true;
     cloud.animation.play('idle');
     foreground.add(cloud);
-
-    ogComboOffset[0] = ClientPrefs.comboOffset[0];
-    ogComboOffset[1] = ClientPrefs.comboOffset[1];
-    ogComboOffset[2] = ClientPrefs.comboOffset[2];
-    ogComboOffset[3] = ClientPrefs.comboOffset[3];
 }
 
 function onCreatePost()
@@ -67,11 +54,7 @@ function onCreatePost()
     game.triggerEventNote('Camera Follow Pos', '640', '359'); //FUCK I'M GONNA KMS
     game.triggerEventNote('Set GF Speed', '2', ''); //FUCK I'M GONNA KMS
 
-    ClientPrefs.comboOffset[0] =  -275;
-    ClientPrefs.comboOffset[1] =  -100;
-    ClientPrefs.comboOffset[2] =  -175;
-    ClientPrefs.comboOffset[3] =  -100;
-
+    game.comboOffsetCustom = [150, 300, 185, 450];
 }
 
 function onSpawnNotePost(note:Note)

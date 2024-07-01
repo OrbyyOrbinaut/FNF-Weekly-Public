@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ena bf idle0"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				29,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ena bf left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				47,
+				-103
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ena bf down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				-34,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ena bf up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-53,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ena bf right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ena_bf",
+	"position": [
+		80,
+		175
+	],
+	"healthicon": "ena-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		136,
+		236,
+		255
+	],
+	"camera_position": [
+		170,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
