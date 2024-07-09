@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="crowd.png" width="4096" height="4096">
+  <SubTexture name="crowd0001" x="5" y="5"  width="3169" height="803" frameX="-0" frameY="-16" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0003" x="5" y="818"  width="3157" height="814" frameX="-6" frameY="-5" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0005" x="5" y="1642"  width="3146" height="819" frameX="-12" frameY="-0" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0002" x="5" y="5"  width="3169" height="803" frameX="-0" frameY="-16" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0004" x="5" y="818"  width="3157" height="814" frameX="-6" frameY="-5" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0006" x="5" y="1642"  width="3146" height="819" frameX="-12" frameY="-0" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0007" x="5" y="1642"  width="3146" height="819" frameX="-12" frameY="-0" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0008" x="5" y="1642"  width="3146" height="819" frameX="-12" frameY="-0" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0009" x="5" y="1642"  width="3146" height="819" frameX="-12" frameY="-0" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0010" x="5" y="1642"  width="3146" height="819" frameX="-12" frameY="-0" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0011" x="5" y="1642"  width="3146" height="819" frameX="-12" frameY="-0" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0012" x="5" y="1642"  width="3146" height="819" frameX="-12" frameY="-0" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0013" x="5" y="1642"  width="3146" height="819" frameX="-12" frameY="-0" frameWidth="3169" frameHeight="819"/>
+  <SubTexture name="crowd0014" x="5" y="1642"  width="3146" height="819" frameX="-12" frameY="-0" frameWidth="3169" frameHeight="819"/>
+</TextureAtlas>

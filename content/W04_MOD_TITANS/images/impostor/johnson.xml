@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="johnson.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="__Crew0000" x="5" y="5" width="394" height="317" frameX="-1" frameY="0" frameWidth="395" frameHeight="317"/>
+	<SubTexture name="__Crew0001" x="404" y="5" width="395" height="316" frameX="0" frameY="0" frameWidth="395" frameHeight="317"/>
+	<SubTexture name="__Crew0002" x="5" y="5" width="394" height="317" frameX="-1" frameY="0" frameWidth="395" frameHeight="317"/>
+	<SubTexture name="__Crew0003" x="804" y="5" width="392" height="313" frameX="-2" frameY="0" frameWidth="395" frameHeight="317"/>
+	<SubTexture name="__DIE0000" x="5" y="5" width="394" height="317" frameX="-151" frameY="-85" frameWidth="395" frameHeight="317"/>
+	<SubTexture name="__DIE0001" x="5" y="5" width="394" height="317" frameX="-151" frameY="-85" frameWidth="395" frameHeight="317"/>
+	<SubTexture name="__DIE0002" x="1201" y="5" width="394" height="317" frameX="-151" frameY="-85" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0003" x="5" y="327" width="490" height="356" frameX="-52" frameY="-55" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0004" x="500" y="327" width="553" height="382" frameX="-24" frameY="-17" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0005" x="1058" y="327" width="581" height="400" frameX="0" frameY="0" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0006" x="5" y="732" width="577" height="399" frameX="-4" frameY="-1" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0007" x="587" y="732" width="412" height="207" frameX="-169" frameY="-193" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0008" x="587" y="732" width="412" height="207" frameX="-169" frameY="-193" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0009" x="587" y="732" width="412" height="207" frameX="-169" frameY="-193" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0010" x="587" y="732" width="412" height="207" frameX="-169" frameY="-193" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0011" x="587" y="732" width="412" height="207" frameX="-169" frameY="-193" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0012" x="1004" y="732" width="419" height="201" frameX="-176" frameY="-201" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0013" x="1428" y="732" width="314" height="141" frameX="-268" frameY="-270" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0014" x="5" y="1136" width="306" height="144" frameX="-268" frameY="-267" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0015" x="5" y="1136" width="306" height="144" frameX="-268" frameY="-267" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0016" x="5" y="1136" width="306" height="144" frameX="-268" frameY="-267" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0017" x="5" y="1136" width="306" height="144" frameX="-268" frameY="-267" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0018" x="5" y="1136" width="306" height="144" frameX="-268" frameY="-267" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0019" x="5" y="1136" width="306" height="144" frameX="-268" frameY="-267" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__DIE0020" x="5" y="1136" width="306" height="144" frameX="-268" frameY="-267" frameWidth="595" frameHeight="411"/>
+	<SubTexture name="__Walk0000" x="316" y="1136" width="394" height="317" frameX="-5" frameY="-11" frameWidth="399" frameHeight="328"/>
+	<SubTexture name="__Walk0001" x="715" y="1136" width="365" height="295" frameX="-2" frameY="0" frameWidth="399" frameHeight="328"/>
+	<SubTexture name="__Walk0002" x="1085" y="1136" width="365" height="292" frameX="0" frameY="-5" frameWidth="399" frameHeight="328"/>
+	<SubTexture name="__Walk0003" x="316" y="1136" width="394" height="317" frameX="-5" frameY="-11" frameWidth="399" frameHeight="328"/>
+	<SubTexture name="__Walk0004" x="1455" y="1136" width="359" height="296" frameX="-13" frameY="0" frameWidth="399" frameHeight="328"/>
+	<SubTexture name="__Walk0005" x="5" y="1458" width="362" height="296" frameX="-11" frameY="-5" frameWidth="399" frameHeight="328"/>
+</TextureAtlas>

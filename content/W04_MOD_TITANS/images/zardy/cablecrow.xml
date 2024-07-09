@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="cablecrow.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="cablecrow0000" x="3" y="3" width="372" height="626"/>
+	<SubTexture name="cablecrow0001" x="3" y="3" width="372" height="626"/>
+	<SubTexture name="cablecrow0002" x="3" y="3" width="372" height="626"/>
+	<SubTexture name="cablecrow0003" x="3" y="3" width="372" height="626"/>
+	<SubTexture name="cablecrow0004" x="3" y="632" width="372" height="626"/>
+	<SubTexture name="cablecrow0005" x="3" y="632" width="372" height="626"/>
+	<SubTexture name="cablecrow0006" x="3" y="632" width="372" height="626"/>
+	<SubTexture name="cablecrow0007" x="3" y="632" width="372" height="626"/>
+	<SubTexture name="cablecrow0008" x="3" y="1261" width="372" height="626"/>
+	<SubTexture name="cablecrow0009" x="3" y="1261" width="372" height="626"/>
+	<SubTexture name="cablecrow0010" x="3" y="1261" width="372" height="626"/>
+	<SubTexture name="cablecrow0011" x="3" y="1261" width="372" height="626"/>
+</TextureAtlas>

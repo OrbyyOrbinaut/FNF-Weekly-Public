@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-24,
+				0
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-64,
+				9
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-139,
+				1
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-34,
+				-14
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "KnowingSmile"
+		},
+		{
+			"offsets": [
+				-3,
+				3
+			],
+			"indices": [],
+			"fps": 12,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "check-true",
+			"loop": false,
+			"name": "Yay"
+		},
+		{
+			"offsets": [
+				-3,
+				3
+			],
+			"indices": [],
+			"fps": 12,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "check",
+			"loop": false,
+			"name": "Nay"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "shoot",
+			"loop": false,
+			"name": "KillAhaha"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/impostor",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "impostor",
+	"flip_x": false,
+	"healthbar_colors": [
+		173,
+		25,
+		25
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="witnesses (and johnson i guess).png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Symbol 4 instance 10000" x="5" y="5" width="1264" height="548" frameX="0" frameY="0" frameWidth="1264" frameHeight="549"/>
+	<SubTexture name="Symbol 4 instance 10001" x="5" y="558" width="1263" height="549" frameX="-1" frameY="0" frameWidth="1264" frameHeight="549"/>
+</TextureAtlas>

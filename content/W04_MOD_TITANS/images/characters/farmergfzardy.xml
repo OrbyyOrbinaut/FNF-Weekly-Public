@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FARMERGFPURPLE.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF FARMER0000" x="40" y="40" width="353" height="453" frameX="0" frameY="-1" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0001" x="433" y="40" width="357" height="453" frameX="0" frameY="-1" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0002" x="830" y="40" width="357" height="443" frameX="0" frameY="-11" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0003" x="1227" y="40" width="356" height="443" frameX="0" frameY="-11" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0004" x="1623" y="40" width="356" height="443" frameX="0" frameY="-11" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0005" x="40" y="533" width="354" height="448" frameX="0" frameY="-13" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0006" x="40" y="533" width="354" height="448" frameX="0" frameY="-13" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0007" x="434" y="533" width="353" height="455" frameX="0" frameY="-7" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0008" x="434" y="533" width="353" height="455" frameX="0" frameY="-7" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0009" x="827" y="533" width="354" height="457" frameX="0" frameY="0" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0010" x="827" y="533" width="354" height="457" frameX="0" frameY="0" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0011" x="827" y="533" width="354" height="457" frameX="0" frameY="0" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0012" x="1221" y="533" width="354" height="456" frameX="0" frameY="0" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0013" x="1221" y="533" width="354" height="456" frameX="0" frameY="0" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0014" x="1615" y="533" width="354" height="452" frameX="-1" frameY="-2" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0015" x="40" y="1030" width="356" height="452" frameX="-1" frameY="-2" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0016" x="436" y="1030" width="358" height="445" frameX="0" frameY="-9" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0017" x="834" y="1030" width="358" height="445" frameX="0" frameY="-9" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0018" x="1232" y="1030" width="358" height="445" frameX="0" frameY="-9" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0019" x="1630" y="1030" width="357" height="452" frameX="0" frameY="-9" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0020" x="1630" y="1030" width="357" height="452" frameX="0" frameY="-9" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0021" x="40" y="1522" width="354" height="456" frameX="-1" frameY="-6" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0022" x="40" y="1522" width="354" height="456" frameX="-1" frameY="-6" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0023" x="434" y="1522" width="355" height="457" frameX="0" frameY="0" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0024" x="434" y="1522" width="355" height="457" frameX="0" frameY="0" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0025" x="434" y="1522" width="355" height="457" frameX="0" frameY="0" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0026" x="829" y="1522" width="354" height="456" frameX="0" frameY="0" frameWidth="358" frameHeight="462"/>
+	<SubTexture name="GF FARMER0027" x="829" y="1522" width="354" height="456" frameX="0" frameY="0" frameWidth="358" frameHeight="462"/>
+</TextureAtlas>

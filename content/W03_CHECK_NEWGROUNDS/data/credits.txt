@@ -1,16 +1,16 @@
 TWEAK 3 - CHECK NEWGROUNDS
 niffirg::Niffrg::Composer of "Mental Temple"::https://x.com/n1ffirg::0xFFFFAF64
-Cloverderus::Clover::Composed "Spaceblasterz"::https://x.com/Cloverderus::0xFFFFAF64
-KatAnims::KatAnims::Animated Hank Sprites, Composer of "Crimson Fog"::https://x.com/KatAnims::0xFFFFAF64
-Ito Saihara::ItoSaihara::Drew Hank Sprites, Hank Icon::https://x.com/ItoSaihara_::0xFFFFAF64
-ultraspicyspray::Akari::ENA & ENA BF Sprites/Icons::https://x.com/ultraspicyspray::0xFFFFAF64
-Pancho::Pancho::"Mental Temple" and "Crimson Fog" Backgrounds, Hank and Pico cutouts, Helicopter Cameo in "Spaceblasterz"::https://x.com/panchonatorr::0xFFFFAF64
-rotkad::rotkad::Created the BF Design seen in "Mental Temple"::https://toyhou.se/rotkad::0xFFFFAF64
-alphalul1::Alphalul1::Background for "Spaceblasterz"::https://x.com/alphautism::0xFFFFAF64
-DerpDrawz::DrawzDerp::Credits Icons, Hominid Icon::https://x.com/derpdrawz4541::0xFFFFAF64
-Jam::Jam::FBI Pico Sprites & Icon::https://x.com/vibbripple::0xFFFFAF64
-KloogyBaboogy::KloogyBaboogy::Voice of Hominid::https://x.com/kloogybaboogy::0xFFFFAF64
-Lethrial::Lethrial::Programming and Charting for "Spaceblasterz"::https://x.com/lethrial::0xFFFFAF64
-OrbyyOrbinaut::Orbyy::Programming for "Mental Temple" and "Crimson Fog"::https://x.com/OrbyyNew::0xFFFFAF64
-Srife5::Srife5::Charted "Mental Temple"::https://x.com/strife55::0xFFFFAF64
-Kye_VL::KyeVL::Charted "Crimson Rod"::https://x.com/Kye_VL::0xFFFFAF64
+ultraspicyspray::Akari::ENA + ENA BF Sprites/Icons::https://x.com/ultraspicyspray::0xFFFFAF64
+rotkad::rotkad::ENA BF Design::https://toyhou.se/rotkad::0xFFFFAF64
+Srife5::Srife5::Charter of "Mental Temple"::https://x.com/strife55::0xFFFFAF64
+Cloverderus::Clover::Composer of "Spaceblasterz"::https://x.com/Cloverderus::0xFFFFAF64
+DerpDrawz::DrawzDerp::Alien Hominid Sprite/Icons, Credit Icons::https://x.com/derpdrawz4541::0xFFFFAF64
+Jam::Jam::FBI Pico Sprites/Icon::https://x.com/vibbripple::0xFFFFAF64
+alphalul1::Alphalul1::"Spaceblasterz" Background::https://x.com/alphautism::0xFFFFAF64
+KloogyBaboogy::KloogyBaboogy::Voice of Alien Hominid::https://x.com/kloogybaboogy::0xFFFFAF64
+Lethrial::Lethrial::Programmer & Charter of "Spaceblasterz"::https://x.com/lethrial::0xFFFFAF64
+KatAnims::KatAnims::Composer of "Crimson Fog", Animated Hank Sprites::https://x.com/KatAnims::0xFFFFAF64
+Ito Saihara::ItoSaihara::Hank Sprite/Icons::https://x.com/ItoSaihara_::0xFFFFAF64
+Kye_VL::KyeVL::Charter of "Crimson Fog", Voice of Hank::https://x.com/Kye_VL::0xFFFFAF64
+Pancho::Pancho::"Mental Temple" & "Crimson Fog" Backgrounds, Hank & Pico cutouts, Helicopter Cameo in "Spaceblasterz"::https://x.com/panchonatorr::0xFFFFAF64
+OrbyyOrbinaut::Orbyy::Programmer of "Mental Temple" & "Crimson Fog"::https://x.com/OrbyyNew::0xFFFFAF64

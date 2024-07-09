@@ -20,6 +20,7 @@ import flixel.FlxObject;
 import flixel.FlxSprite;
 import flixel.FlxState;
 import flixel.FlxSubState;
+import flixel.addons.display.FlxBackdrop; // Uhhhghmmmm,,,,Fffffffuck..... I'm purple like a little grimace boy
 import flixel.addons.display.FlxGridOverlay;
 import flixel.addons.effects.FlxTrail;
 import openfl.filters.ShaderFilter;
@@ -282,6 +283,10 @@ class PlayState extends MusicBeatState
 	public var iconP1:HealthIcon;
 	public var iconP2:HealthIcon;
 	public var oldIcon:String = 'bf-old';
+	public var enableSplash:Bool = true;
+
+	public var txtReplace:String = '';
+
 	public var camHUD:FlxCamera;
 	public var camOverlay:FlxCamera; // shit that should go above all else and not get affected by camHUD changes, but still below camOther (pause menu, etc)
 	public var camGame:FlxCamera;
@@ -3749,9 +3754,16 @@ class PlayState extends MusicBeatState
 	public dynamic function updateScoreBar()
 	{
 		if(allowedToUpdateScoreTXT){
-			scoreTxt.text = 'Score: ' + songScore + ' $divider Misses: ' + songMisses + ' $divider Rating: ' + ratingName;
-			if(ratingName != '?')
-				scoreTxt.text += ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;
+			if(txtReplace != '') {
+				scoreTxt.text = (txtReplace.replace('/S/', Std.string(songScore)).replace('/M/', Std.string(songMisses)).replace('/A/', '' + Highscore.floorDecimal(ratingPercent * 100, 2)));
+				//.replace('/M/', songMisses).replace('/A/', '' + Highscore.floorDecimal(ratingPercent * 100, 2)));
+			}
+				else
+			{
+				scoreTxt.text = 'Score: ' + songScore + ' $divider Misses: ' + songMisses + ' $divider Rating: ' + ratingName;
+				if(ratingName != '?')
+					scoreTxt.text += ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;
+			}
 		}
 	}
 

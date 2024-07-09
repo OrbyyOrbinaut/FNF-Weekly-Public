@@ -1,0 +1,32 @@
+{
+	"songs": [
+		["Plectrum", "sunday", [102, 153, 153]],
+		["Parched", "annie", [209, 61, 96]],
+		["Mischief", "impostor", [173, 25, 25]],
+		["Philly Mice", "pico", [183, 216, 85]],
+		["Champions Ring", "shaggy", [73, 179, 84]],
+		["Haystack", "zardy", [191, 81, 40]]
+	],
+
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "tweak",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "OOOGLY GOOOOO",
+	"weekName": "oogly. goo.",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weeklogo": "modtitans"
+}
+

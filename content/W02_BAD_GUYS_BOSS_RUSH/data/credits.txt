@@ -1,22 +1,22 @@
 TWEAK 2 - BAD GUYS BOSS RUSH
-Biddle3::Biddle3::Composer of "Dustloop"::https://x.com/thedawg3_::0xFFFFAF64
+Biddle3::Biddle3::Composer of "Dustloop"::https://x.com/thedawg3_
 Ito Saihara::ItoSaihara::All Visuals of "Dustloop", Voice of Spiderman::https://x.com/ItoSaihara_::0xFFFFAF64
 ultraspicyspray::Akari::Spiderman Victory Screen Render, Boswer JR Concepts::https://x.com/ultraspicyspray::0xFFFFAF64
-Flaguieug::Flaguieug::Programming for "Dustloop"::https://x.com/Flaguieug::0xFFFFAF64
+Flaguieug::Flaguieug::Programmer of "Dustloop"::https://x.com/Flaguieug::0xFFFFAF64
 Srife5::Srife5::Charter of "Dustloop"::https://x.com/strife55::0xFFFFAF64
-maddiesmiles::MaddieSmiles::Composer of "Pirate Indie Games"::https://x.com/maddiesmiles_::0xFFFFAF64
+maddiesmiles::MaddieSmiles::Composer of "Pirate Indie Games"::https://x.com/maddiesmiles_
 KloogyBaboogy::KloogyBaboogy::"Lyricist of "Pirate Indie Games", Voice of Spamton, Venom, Mithrix & PVZ Zombie::https://x.com/kloogybaboogy::0xFFFFAF64
-KatAnims::KatAnims::All Visuals of "Pirate Indie Games", Animated Luigi's Idle::https://x.com/KatAnims::0xFFFFAF64
-Lethrial::Lethrial::Programming for "Pirate Indie Games"::https://x.com/lethrial::0xFFFFAF64
+KatAnims::KatAnims::All Visuals of "Pirate Indie Games"::https://x.com/KatAnims::0xFFFFAF64
+Lethrial::Lethrial::Programmer of "Pirate Indie Games"::https://x.com/lethrial::0xFFFFAF64
 lemlem_mew::Lemlem_mew::Charter of "Pirate Indie Games", Edited Spiderman Victory Screen::https://x.com/lemlem_mew::0xFFFFAF64
 loggo::Loggo::Everything in "Undead"::https://x.com/loggoman512::0xFFFFAF64
 niffirg::Niffrg::Composer & Charter of "Termina"::https://x.com/n1ffirg::0xFFFFAF64
-OrbyyOrbinaut::Orbyy::All Visuals of "Termina", Programming for "Termina" & "Luminary Clock", Assistant Programmer, Crunch Master #2::https://x.com/OrbyyNew::0xFFFFAF64
-Crossknife::Crossknife::Composer of "Luminary Clock", Assistant Programmer::https://x.com/crossknife::0xFFFFAF64
+OrbyyOrbinaut::Orbyy::All Visuals of "Termina", Programmer of "Termina" & "Luminary Clock", General Programming::https://x.com/OrbyyNew::0xFFFFAF64
+Crossknife::Crossknife::Composer of "Luminary Clock"::https://x.com/crossknife::0xFFFFAF64
 alphalul1::Alphalul1::All Visuals of "Luminary Clock"::https://x.com/alphautism::0xFFFFAF64
 Kye_VL::KyeVL::Charter of "Luminary Clock"::https://x.com/Kye_VL::0xFFFFAF64
 Cloverderus::Clover::Composer & Charter of "Koopa Karnage"::https://x.com/Cloverderus::0xFFFFAF64
 DerpDrawz::DrawzDerp::Bowser Sprites, Bowser JR Sprites, "Koopa Karnage" Background, Icons, Credit Icons::https://x.com/derpdrawz4541::0xFFFFAF64
 MochaDrawss::Mocha::Mario Sprite::https://x.com/MochaDrawss::0xFFFFAF64
 Jam::Jam::Luigi Sprite::https://x.com/vibbripple::0xFFFFAF64
-DuskieWhy::duskie::Programming for "Koopa Karnage"::https://x.com/DuskieWhy::0xFFFFAF64
+DuskieWhy::duskie::Programmer of "Koopa Karnage"::https://x.com/DuskieWhy::0xFFFFAF64
