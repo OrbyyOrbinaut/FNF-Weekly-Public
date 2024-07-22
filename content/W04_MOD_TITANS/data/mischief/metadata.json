@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Mischief",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Cloverderus"],
+        "chart" : ["Cloverderus"],
+        "art" : ["loggo"],
+        "code" : ["loggo"],
+        "va" : null
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Johnny Round",
+        "expandBeat" : 4,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["niffirg"],
+        "chart" : ["niffirg"],
+        "art" : ["Flaguieug", "DerpDrawz"],
+        "code" : ["Lethrial"],
+        "va" : null
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Mental Temple",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["niffirg"],
+        "chart" : ["Srife5"],
+        "art" : ["ultraspicyspray", "Pancho", "rotkad"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

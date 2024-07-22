@@ -15,19 +15,23 @@ import flixel.FlxCamera;
 import flixel.util.FlxStringUtil;
 
 import meta.data.*;
+import meta.data.Metadata;
 import meta.states.*;
 import gameObjects.*;
+import meta.data.options.*;
 
 class PauseSubState extends MusicBeatSubstate
 {
 	var grpMenuShit:FlxTypedGroup<Alphabet>;
 
 	var menuItems:Array<String> = [];
-	var menuItemsOG:Array<String> = ['Resume', 'Restart Song', #if HIT_SINGLE 'Options', #end'Exit to menu'];
+	var menuItemsOG:Array<String> = ['Resume', 'Restart Song', 'Options', 'Exit to menu'];
 	var difficultyChoices = [];
 	var curSelected:Int = 0;
 
 	var pauseMusic:FlxSound;
+	var texts:Array<String> = [];
+	var data:MetadataFile;
 	var practiceText:FlxText;
 	var skipTimeText:FlxText;
 	var skipTimeTracker:Alphabet;
@@ -70,7 +74,6 @@ class PauseSubState extends MusicBeatSubstate
 		}
 		difficultyChoices.push('BACK');
 
-
 		pauseMusic = new FlxSound();
 		try {
 			if(songName != null) {
@@ -92,27 +95,6 @@ class PauseSubState extends MusicBeatSubstate
 		bg.scrollFactor.set();
 		add(bg);
 
-		var levelInfo:FlxText = new FlxText(20, 15, 0, "", 32);
-		levelInfo.text += PlayState.SONG.song;
-		levelInfo.scrollFactor.set();
-		levelInfo.setFormat(Paths.font("vcr.ttf"), 32);
-		levelInfo.updateHitbox();
-		add(levelInfo);
-
-		var levelDifficulty:FlxText = new FlxText(20, 15 + 32, 0, "", 32);
-		levelDifficulty.text += CoolUtil.difficultyString();
-		levelDifficulty.scrollFactor.set();
-		levelDifficulty.setFormat(Paths.font('vcr.ttf'), 32);
-		levelDifficulty.updateHitbox();
-		add(levelDifficulty);
-
-		var blueballedTxt:FlxText = new FlxText(20, 15 + 32, 0, "", 32);
-		blueballedTxt.text = "Blueballed: " + PlayState.deathCounter;
-		blueballedTxt.scrollFactor.set();
-		blueballedTxt.setFormat(Paths.font('vcr.ttf'), 32);
-		blueballedTxt.updateHitbox();
-		add(blueballedTxt);
-
 		practiceText = new FlxText(20, 15 + 101, 0, "PRACTICE MODE", 32);
 		practiceText.scrollFactor.set();
 		practiceText.setFormat(Paths.font('vcr.ttf'), 32);
@@ -130,18 +112,32 @@ class PauseSubState extends MusicBeatSubstate
 		chartingText.visible = PlayState.chartingMode;
 		add(chartingText);
 
-		blueballedTxt.alpha = 0;
-		levelDifficulty.alpha = 0;
-		levelInfo.alpha = 0;
+		FlxTween.tween(bg, {alpha: 0.75}, 0.4, {ease: FlxEase.quartInOut});
 
-		levelInfo.x = cam.width - (levelInfo.width + 20);
-		levelDifficulty.x = cam.width - (levelDifficulty.width + 20);
-		blueballedTxt.x = cam.width - (blueballedTxt.width + 20);
+		data = Metadata.get(PlayState.SONG.song);
+		texts.push(data.credits.music.join(', ') + ' - ' + data.card.name);
+		if (data.credits.chart != null) texts.push('Chart: ' + data.credits.chart.join(', '));
+		if (data.credits.art != null) texts.push('Art: ' + data.credits.art.join(', '));
+		if (data.credits.code != null) texts.push('Code: ' + data.credits.code.join(', '));
+		if (data.credits.va != null) texts.push('Voice Acting: ' + data.credits.va.join(', '));
+		texts.push('\nBlueballed: ' + PlayState.deathCounter);
 
-		FlxTween.tween(bg, {alpha: 0.6}, 0.4, {ease: FlxEase.quartInOut});
-		FlxTween.tween(levelInfo, {alpha: 1, y: 20}, 0.4, {ease: FlxEase.quartInOut, startDelay: 0.3});
-		//FlxTween.tween(levelDifficulty, {alpha: 1, y: levelDifficulty.y + 5}, 0.4, {ease: FlxEase.quartInOut, startDelay: 0.5});
-		FlxTween.tween(blueballedTxt, {alpha: 1, y: blueballedTxt.y + 5}, 0.4, {ease: FlxEase.quartInOut, startDelay: 0.7});
+		var index:Int = 0;
+		for (text in texts) {
+			var newTxt:FlxText = new FlxText();
+			newTxt.text = text;
+			newTxt.scrollFactor.set();
+			newTxt.setFormat(Paths.font("vcr.ttf"), 32);
+			newTxt.updateHitbox();
+			newTxt.x = cam.width - (newTxt.width + 20);
+			newTxt.y = 20 * (index - 1);
+			add(newTxt);
+
+			newTxt.alpha = 0;
+			FlxTween.tween(newTxt, {alpha: 1, y: newTxt.y + 30 + (10 * index)}, 0.4, {ease: FlxEase.quartInOut, startDelay: 0.1 + (0.2 * index)});
+
+			index += 1;
+		}
 
 		grpMenuShit = new FlxTypedGroup<Alphabet>();
 		add(grpMenuShit);
@@ -234,15 +230,14 @@ class PauseSubState extends MusicBeatSubstate
 				case 'Options':
 					PlayState.instance.paused = true; // For lua
 					PlayState.instance.vocals.volume = 0;
-					#if HIT_SINGLE
-					HitSingleMenu.inPauseOptions = true;
-					HitSingleMenu.currentMode = OPTIONS;
-					new FlxTimer().start(0,Void->{
-						FlxG.sound.music.volume = 0;
-						MusicBeatState.switchState(new HitSingleMenu());
-					});
-					#end
-
+					MusicBeatState.switchState(new OptionsState());
+					if(ClientPrefs.pauseMusic != 'None')
+					{
+						FlxG.sound.playMusic(Paths.music(Paths.formatToSongPath(ClientPrefs.pauseMusic)), pauseMusic.volume);
+						FlxTween.tween(FlxG.sound.music, {volume: 1}, 0.8);
+						FlxG.sound.music.time = pauseMusic.time;
+					}
+					OptionsState.onPlayState = true;
 				case "Resume":
 					close();
 				case 'Change Difficulty':

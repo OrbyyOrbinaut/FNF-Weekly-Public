@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Crimson Fog",
+        "expandBeat" : 48,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["KatAnims"],
+        "chart" : ["Kye_VL"],
+        "art" : ["KatAnims", "Ito Saihara", "Pancho", "DerpDrawz"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : ["Kye_VL"]
+    }
+}

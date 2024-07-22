@@ -9,12 +9,6 @@ var item:FlxSprite;
 var healthdrain:Bool = false;
 
 function onLoad() {
-    var bg:FlxSprite = new FlxSprite(0, 0);
-    bg.loadGraphic(Paths.image("mithrix/background"));
-    bg.antialiasing = false;
-    bg.scrollFactor.set(0.9, 0.9);
-	add(bg); 
-
     var fg:FlxSprite = new FlxSprite(0, 0);
     fg.loadGraphic(Paths.image("mithrix/foreground"));
     fg.antialiasing = false;

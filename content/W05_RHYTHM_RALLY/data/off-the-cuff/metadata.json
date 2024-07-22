@@ -1,0 +1,13 @@
+{
+    "card" : {
+        "name" : "Off the Cuff",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Lethrial", "Cloverderus"],
+        "chart" : ["Lethrial"],
+        "art" : ["DerpDrawz"],
+        "code" : ["Lethrial", "OrbyyOrbinaut"]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Plectrum",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Pancho"],
+        "chart" : ["Srife5"],
+        "art" : ["Jam", "Pancho"],
+        "code" : ["Lethrial"],
+        "va" : null
+    }
+}

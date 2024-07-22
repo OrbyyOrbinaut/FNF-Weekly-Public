@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Luminary Clock",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Crossknife"],
+        "chart" : ["Kye_VL"],
+        "art" : ["alphalul1"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : ["Kloogybaboogy"]
+    }
+}

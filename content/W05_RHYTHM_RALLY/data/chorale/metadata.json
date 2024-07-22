@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Chorale",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Pancho"],
+        "chart" : ["Kye_VL"],
+        "art" : ["Pancho"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

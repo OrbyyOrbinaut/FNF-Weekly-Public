@@ -1,0 +1,193 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf_left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "bf_left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf_down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "bf_down",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf_right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "bf_right",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				2,
+				198
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"anim": "singUP",
+			"loop": false,
+			"name": "bf_up0"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "bf_upALT"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"anim": "singUP-alt-loop",
+			"loop": true,
+			"name": "bf_upALT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gd_boy",
+	"position": [
+		20,
+		470
+	],
+	"healthicon": "gdboy",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		255,
+		204
+	],
+	"camera_position": [
+		110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

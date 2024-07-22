@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Haystack",
+        "expandBeat" : 32,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Biddle3", "Kreagato"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["Pancho", "lemlem_mew"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

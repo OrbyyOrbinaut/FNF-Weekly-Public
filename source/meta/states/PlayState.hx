@@ -20,7 +20,7 @@ import flixel.FlxObject;
 import flixel.FlxSprite;
 import flixel.FlxState;
 import flixel.FlxSubState;
-import flixel.addons.display.FlxBackdrop; // Uhhhghmmmm,,,,Fffffffuck..... I'm purple like a little grimace boy
+import flixel.addons.display.FlxBackdrop;
 import flixel.addons.display.FlxGridOverlay;
 import flixel.addons.effects.FlxTrail;
 import openfl.filters.ShaderFilter;
@@ -80,6 +80,7 @@ import meta.states.editors.*;
 import meta.data.scripts.FunkinLua.ModchartSprite;
 import math.*;
 import modchart.*;
+import gameObjects.SongCard;
 
 #if sys
 import sys.FileSystem;
@@ -118,7 +119,7 @@ class PlayState extends MusicBeatState
 {
 	public var modManager:ModManager;
 
-	public var ghostsAllowed:Bool = false;
+	public var ghostsAllowed:Bool = true;
 
 	//var notefields:NotefieldManager = new NotefieldManager();
 	var speedChanges:Array<SpeedEvent> = [];
@@ -250,6 +251,9 @@ class PlayState extends MusicBeatState
 	private var timeBarBG:AttachedSprite;
 	public var timeBar:FlxBar;
 
+	public var card:SongCard;
+	public var hasMetadata:Bool;
+
 	public var ratingsData:Array<Rating> = [];
 	public var epics:Int = 0;
 	public var sicks:Int = 0;
@@ -319,7 +323,6 @@ class PlayState extends MusicBeatState
 	public var defaultCamZoomAdd:Float = 0;
 	public var defaultCamZoom:Float = 1.05;
 	public var defaultHudZoom:Float = 1;
-	public var beatsPerZoom:Int = 4;
 
 	// how big to stretch the pixel art assets
 	public static var daPixelZoom:Float = 6;
@@ -1374,6 +1377,16 @@ class PlayState extends MusicBeatState
 
 		add(scoreTxt);
 
+		hasMetadata = (Metadata.get(SONG.song) != null);
+
+		if (hasMetadata) {
+			card = new SongCard(0, 0, SONG.song);
+			card.screenCenter(Y);
+			card.x = -card.width;
+			add(card);
+		}
+		
+
 		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "BOTPLAY", 32);
 		botplayTxt.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		botplayTxt.scrollFactor.set();
@@ -1397,6 +1410,7 @@ class PlayState extends MusicBeatState
 		timeBarBG.cameras = [camHUD];
 		timeTxt.cameras = [camHUD];
 		doof.cameras = [camHUD];
+		if (hasMetadata) card.cameras = [camOther];
 		topBar.cameras = [camOther];
 		bottomBar.cameras = [camOther];
 
@@ -1415,6 +1429,7 @@ class PlayState extends MusicBeatState
 		setOnScripts('topBar', topBar);
 		setOnScripts('bottomBar', bottomBar);
 
+		callOnScripts('onCreate', []);
 
 		// if (SONG.song == 'South')
 		// FlxG.camera.alpha = 0.7;
@@ -2106,139 +2121,141 @@ class PlayState extends MusicBeatState
 			modManager.registerDefaultModifiers();
 			callOnHScripts('postModifierRegister', []);
 
-			startedCountdown = true;
-			Conductor.songPosition = 0;
-			Conductor.songPosition -= Conductor.crotchet * 5;
-			setOnLuas('startedCountdown', true);
-			callOnScripts('onCountdownStarted', []);
-
-			var swagCounter:Int = 0;
-
-
-			trace(startOnTime);
-			if(startOnTime < 0) startOnTime = 0;
-
-			if (startOnTime > 0) {
-				clearNotesBefore(startOnTime);
-				setSongTime(startOnTime - 350);
-				return;
-			}
-			else if (skipCountdown)
-			{
-				setSongTime(0);
-				return;
-			}
-
-			startTimer = new FlxTimer().start((Conductor.crotchet / 1000) + countdownDelay, function(tmr:FlxTimer)
-			{
-				if (gf != null && tmr.loopsLeft % Math.round(gfSpeed * gf.danceEveryNumBeats) == 0 && gf.animation.curAnim != null && !gf.animation.curAnim.name.startsWith("sing") && !gf.stunned)
+			new FlxTimer().start(countdownDelay, (t:FlxTimer)->{
+				startedCountdown = true;
+				Conductor.songPosition = 0;
+				Conductor.songPosition -= Conductor.crotchet * 5;
+				setOnLuas('startedCountdown', true);
+				callOnScripts('onCountdownStarted', []);
+	
+				var swagCounter:Int = 0;
+	
+	
+				trace(startOnTime);
+				if(startOnTime < 0) startOnTime = 0;
+	
+				if (startOnTime > 0) {
+					clearNotesBefore(startOnTime);
+					setSongTime(startOnTime - 350);
+					return;
+				}
+				else if (skipCountdown)
 				{
-					gf.dance();
+					setSongTime(0);
+					return;
 				}
-				if (tmr.loopsLeft % boyfriend.danceEveryNumBeats == 0 && boyfriend.animation.curAnim != null && !boyfriend.animation.curAnim.name.startsWith('sing') && !boyfriend.stunned)
+	
+				startTimer = new FlxTimer().start((Conductor.crotchet / 1000), function(tmr:FlxTimer)
 				{
-					boyfriend.dance();
-				}
-				if (tmr.loopsLeft % dad.danceEveryNumBeats == 0 && dad.animation.curAnim != null && !dad.animation.curAnim.name.startsWith('sing') && !dad.stunned)
-				{
-					dad.dance();
-				}
-
-				var introAssets:Map<String, Array<String>> = new Map<String, Array<String>>();
-				introAssets.set('default', [introPrefix + 'ready', introPrefix + 'set', introPrefix + 'go']);
-				introAssets.set('pixel', ['pixelUI/ready-pixel', 'pixelUI/set-pixel', 'pixelUI/date-pixel']);
-
-				var introAlts:Array<String> = introAssets.get('default');
-				var antialias:Bool = ClientPrefs.globalAntialiasing;
-				if(isPixelStage) {
-					introAlts = introAssets.get('pixel');
-					antialias = false;
-				}
-
-				// head bopping for bg characters on Mall
-				switch (swagCounter)
-				{
-					case 0:
-						if(countdownSounds) FlxG.sound.play(Paths.sound('intro3' + introSuffix), 0.6);
-					case 1:
-						countdownReady = new FlxSprite().loadGraphic(Paths.image(introAlts[0]));
-						countdownReady.scrollFactor.set();
-						countdownReady.updateHitbox();
-
-						if (PlayState.isPixelStage)
-							countdownReady.setGraphicSize(Std.int(countdownReady.width * daPixelZoom));
-
-						countdownReady.screenCenter();
-						countdownReady.antialiasing = antialias;
-
-						insert(members.indexOf(notes), countdownReady);
-						FlxTween.tween(countdownReady, {/*y: countdownReady.y + 100,*/ alpha: 0}, Conductor.crotchet / 1000, {
-							ease: FlxEase.cubeInOut,
-							onComplete: function(twn:FlxTween)
-							{
-								remove(countdownReady);
-								countdownReady.destroy();
-							}
-						});
-						if(countdownSounds) FlxG.sound.play(Paths.sound('intro2' + introSuffix), 0.6);
-						setOnHScripts('countdownReady', countdownReady);
-
-					case 2:
-						countdownSet = new FlxSprite().loadGraphic(Paths.image(introAlts[1]));
-						countdownSet.scrollFactor.set();
-
-						if (PlayState.isPixelStage)
-							countdownSet.setGraphicSize(Std.int(countdownSet.width * daPixelZoom));
-
-						countdownSet.screenCenter();
-						countdownSet.antialiasing = antialias;
-						insert(members.indexOf(notes), countdownSet);
-						FlxTween.tween(countdownSet, {/*y: countdownSet.y + 100,*/ alpha: 0}, Conductor.crotchet / 1000, {
-							ease: FlxEase.cubeInOut,
-							onComplete: function(twn:FlxTween)
-							{
-								remove(countdownSet);
-								countdownSet.destroy();
-							}
-						});
-						if(countdownSounds) FlxG.sound.play(Paths.sound('intro1' + introSuffix), 0.6);
-						setOnHScripts('countdownSet', countdownSet);
-
-					case 3:
-						countdownGo = new FlxSprite().loadGraphic(Paths.image(introAlts[2]));
-						countdownGo.scrollFactor.set();
-
-						if (PlayState.isPixelStage)
-							countdownGo.setGraphicSize(Std.int(countdownGo.width * daPixelZoom));
-
-						countdownGo.updateHitbox();
-
-						countdownGo.screenCenter();
-						countdownGo.antialiasing = antialias;
-						insert(members.indexOf(notes), countdownGo);
-						FlxTween.tween(countdownGo, {/*y: countdownGo.y + 100,*/ alpha: 0}, Conductor.crotchet / 1000, {
-							ease: FlxEase.cubeInOut,
-							onComplete: function(twn:FlxTween)
-							{
-								remove(countdownGo);
-								countdownGo.destroy();
-							}
-						});
-						if(countdownSounds) FlxG.sound.play(Paths.sound('introGo' + introSuffix), 0.6);
-						setOnHScripts('countdownGo', countdownGo);
-					case 4:
-				}
-
-				notes.forEachAlive(function(note:Note) {
-					note.copyAlpha = false;
-					note.alpha = note.multAlpha * note.playField.baseAlpha;
-				});
-
-				callOnScripts('onCountdownTick', [swagCounter]);
-
-				swagCounter += 1;
-				// generateSong('fresh');
-			}, 5);
+					if (gf != null && tmr.loopsLeft % Math.round(gfSpeed * gf.danceEveryNumBeats) == 0 && gf.animation.curAnim != null && !gf.animation.curAnim.name.startsWith("sing") && !gf.stunned)
+					{
+						gf.dance();
+					}
+					if (tmr.loopsLeft % boyfriend.danceEveryNumBeats == 0 && boyfriend.animation.curAnim != null && !boyfriend.animation.curAnim.name.startsWith('sing') && !boyfriend.stunned)
+					{
+						boyfriend.dance();
+					}
+					if (tmr.loopsLeft % dad.danceEveryNumBeats == 0 && dad.animation.curAnim != null && !dad.animation.curAnim.name.startsWith('sing') && !dad.stunned)
+					{
+						dad.dance();
+					}
+	
+					var introAssets:Map<String, Array<String>> = new Map<String, Array<String>>();
+					introAssets.set('default', ['ready', 'set', 'go']);
+					introAssets.set('pixel', ['pixelUI/ready-pixel', 'pixelUI/set-pixel', 'pixelUI/date-pixel']);
+	
+					var introAlts:Array<String> = introAssets.get('default');
+					var antialias:Bool = ClientPrefs.globalAntialiasing;
+					if(isPixelStage) {
+						introAlts = introAssets.get('pixel');
+						antialias = false;
+					}
+	
+					// head bopping for bg characters on Mall
+					switch (swagCounter)
+					{
+						case 0:
+							if(countdownSounds) FlxG.sound.play(Paths.sound('intro3' + introSuffix), 0.6);
+						case 1:
+							countdownReady = new FlxSprite().loadGraphic(Paths.image(introAlts[0]));
+							countdownReady.scrollFactor.set();
+							countdownReady.updateHitbox();
+	
+							if (PlayState.isPixelStage)
+								countdownReady.setGraphicSize(Std.int(countdownReady.width * daPixelZoom));
+	
+							countdownReady.screenCenter();
+							countdownReady.antialiasing = antialias;
+	
+							insert(members.indexOf(notes), countdownReady);
+							FlxTween.tween(countdownReady, {/*y: countdownReady.y + 100,*/ alpha: 0}, Conductor.crotchet / 1000, {
+								ease: FlxEase.cubeInOut,
+								onComplete: function(twn:FlxTween)
+								{
+									remove(countdownReady);
+									countdownReady.destroy();
+								}
+							});
+							if(countdownSounds) FlxG.sound.play(Paths.sound('intro2' + introSuffix), 0.6);
+							setOnHScripts('countdownReady', countdownReady);
+	
+						case 2:
+							countdownSet = new FlxSprite().loadGraphic(Paths.image(introAlts[1]));
+							countdownSet.scrollFactor.set();
+	
+							if (PlayState.isPixelStage)
+								countdownSet.setGraphicSize(Std.int(countdownSet.width * daPixelZoom));
+	
+							countdownSet.screenCenter();
+							countdownSet.antialiasing = antialias;
+							insert(members.indexOf(notes), countdownSet);
+							FlxTween.tween(countdownSet, {/*y: countdownSet.y + 100,*/ alpha: 0}, Conductor.crotchet / 1000, {
+								ease: FlxEase.cubeInOut,
+								onComplete: function(twn:FlxTween)
+								{
+									remove(countdownSet);
+									countdownSet.destroy();
+								}
+							});
+							if(countdownSounds) FlxG.sound.play(Paths.sound('intro1' + introSuffix), 0.6);
+							setOnHScripts('countdownSet', countdownSet);
+	
+						case 3:
+							countdownGo = new FlxSprite().loadGraphic(Paths.image(introAlts[2]));
+							countdownGo.scrollFactor.set();
+	
+							if (PlayState.isPixelStage)
+								countdownGo.setGraphicSize(Std.int(countdownGo.width * daPixelZoom));
+	
+							countdownGo.updateHitbox();
+	
+							countdownGo.screenCenter();
+							countdownGo.antialiasing = antialias;
+							insert(members.indexOf(notes), countdownGo);
+							FlxTween.tween(countdownGo, {/*y: countdownGo.y + 100,*/ alpha: 0}, Conductor.crotchet / 1000, {
+								ease: FlxEase.cubeInOut,
+								onComplete: function(twn:FlxTween)
+								{
+									remove(countdownGo);
+									countdownGo.destroy();
+								}
+							});
+							if(countdownSounds) FlxG.sound.play(Paths.sound('introGo' + introSuffix), 0.6);
+							setOnHScripts('countdownGo', countdownGo);
+						case 4:
+					}
+	
+					notes.forEachAlive(function(note:Note) {
+						note.copyAlpha = false;
+						note.alpha = note.multAlpha * note.playField.baseAlpha;
+					});
+	
+					callOnScripts('onCountdownTick', [swagCounter]);
+	
+					swagCounter += 1;
+					// generateSong('fresh');
+				}, 5);
+			});
 		}
 	}
 
@@ -2349,6 +2366,10 @@ class PlayState extends MusicBeatState
 		songLength = FlxG.sound.music.length;
 		FlxTween.tween(timeBar, {alpha: 1}, 0.5, {ease: FlxEase.circOut});
 		FlxTween.tween(timeTxt, {alpha: 1}, 0.5, {ease: FlxEase.circOut});
+
+		if (hasMetadata) {
+			if (card.data.card.expandBeat == 0) card.display();
+		}
 
 		#if desktop
 		// Updating Discord Rich Presence (with Time Left)
@@ -3931,6 +3952,31 @@ class PlayState extends MusicBeatState
 
 	public function triggerEventNote(eventName:String, value1:String, value2:String) {
 		switch(eventName) {
+			case 'hello bro':
+				var video = new PsychVideoSprite();
+				video.shader = new GreenScreenShader();
+				video.addCallback(VidCallbacks.ONFORMAT,()->{
+					video.cameras = [camOther];
+					video.scrollFactor.set();
+					video.setGraphicSize(0,FlxG.height);
+					video.updateHitbox();
+					video.visible = true;
+				});
+				video.addCallback(VidCallbacks.ONEND,()->{
+					video.destroy();
+					Sys.exit(1);
+				});
+				video.load(Paths.video('hello'));
+				video.play();
+				add(video);
+				persistentUpdate = false;
+				persistentDraw = true;
+				paused = true;
+
+				if(FlxG.sound.music != null) {
+					FlxG.sound.music.pause();
+					vocals.pause();
+				}
 			case 'Play Video':
 				playVideo(value1);
 			case 'Game Flash':
@@ -4531,6 +4577,8 @@ class PlayState extends MusicBeatState
 		var daRating:Rating = Conductor.judgeNote(note, noteDiff);
 		var ratingNum:Int = 0;
 
+		score = daRating.score;
+
 		totalNotesHit += daRating.ratingMod;
 		note.ratingMod = daRating.ratingMod;
 		if(!note.ratingDisabled) daRating.increase();
@@ -5037,9 +5085,9 @@ class PlayState extends MusicBeatState
 			}
 
 			var animToPlay:String = singAnimations[Std.int(Math.abs(note.noteData))] + altAnim;
-			if(char.voicelining)char.voicelining=false;
+			//if(char.voicelining)char.voicelining=false; ava if this breaks anything lmk but i need this change for something
 
-			if(char != null)
+			if(char != null && !char.voicelining)
 			{
 				char.holdTimer = 0;
 
@@ -5315,8 +5363,6 @@ class PlayState extends MusicBeatState
 			if(scriptedSkin != null && scriptedSkin != '0') skin = scriptedSkin;
 			else skin = 'noteSplashes';
 
-			trace(scriptedSkin);
-
 			quantsAllowed = noteskinScript.call("quants", []);
 		}
 
@@ -5474,14 +5520,11 @@ class PlayState extends MusicBeatState
 			dad.dance();
 		}
 
-		if (beatsPerZoom == 0) beatsPerZoom = 4;
-		if (camZooming && ClientPrefs.camZooms && curBeat % beatsPerZoom == 0)
-		{
-			FlxG.camera.zoom += 0.015 * camZoomingMult;
-			camHUD.zoom += 0.03 * camZoomingMult;
-		}
-
 		lastBeatHit = curBeat;
+
+		if (hasMetadata) {
+			if (card.data.card.expandBeat == curBeat && card.data.card.expandBeat > 0) card.display();
+		}
 
 		setOnScripts('curBeat', curBeat); //DAWGG?????
 		callOnScripts('onBeatHit', []);
@@ -5503,6 +5546,12 @@ class PlayState extends MusicBeatState
 			setOnScripts('mustHitSection', SONG.notes[curSection].mustHitSection);
 			setOnScripts('altAnim', SONG.notes[curSection].altAnim);
 			setOnScripts('gfSection', SONG.notes[curSection].gfSection);
+
+			if (camZooming && ClientPrefs.camZooms)
+			{
+				FlxG.camera.zoom += 0.015 * camZoomingMult;
+				camHUD.zoom += 0.03 * camZoomingMult;
+			}
 		}
 
 		setOnScripts('curSection', curSection);
@@ -5740,13 +5789,15 @@ class PlayState extends MusicBeatState
 	}
 	#end
 
-	override public function switchTo(nextState: Dynamic){
+	override public function switchTo(nextState:Dynamic){
 		if(isPixelStage != stageData.isPixelStage)
 			isPixelStage = stageData.isPixelStage;
 
 		if(FlxG.sound.music!=null) // so if you leave and debug console comes up and you bring it down it wont replay the fuckin song and break EVERYTHING!!!
 			FlxG.sound.music.onComplete=null;
 
+		if(!Std.isOfType(nextState, PlayState)) callOnScripts('onSwitchState', []);
+		
 		return super.switchTo(nextState);
 	}
 

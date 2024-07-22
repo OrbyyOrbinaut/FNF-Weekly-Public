@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Fruity",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Crossknife"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["lemlem_mew", "DerpDrawz", "Ito Saihara", "Jam", "KatAnims"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

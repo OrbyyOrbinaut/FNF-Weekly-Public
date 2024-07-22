@@ -15,11 +15,13 @@ import flixel.util.FlxGradient;
 import flixel.FlxState;
 import flixel.FlxBasic;
 import meta.data.*;
+import meta.data.FunkinRatioScaleMode;
 import gameObjects.*;
 import gameObjects.shader.Shaders.BloomEffect;
 import gameObjects.shader.Shaders.ChromaticAberrationEffect;
 import gameObjects.shader.Shaders.VCRDistortionEffect;
 import openfl.filters.ShaderFilter;
+import openfl.Lib;
 
 import meta.data.scripts.*;
 import meta.data.scripts.Globals;
@@ -48,12 +50,6 @@ class MusicBeatState extends FlxUIState
 		camBeat = FlxG.camera;
 		var skip:Bool = FlxTransitionableState.skipNextTransOut;
 
-		if(ClientPrefs.realistic){
-			bloom = new BloomEffect(2,2);
-			chromatic = new ChromaticAberrationEffect(0.5);
-	
-			FlxG.game.setFilters([new ShaderFilter(bloom.shader), new ShaderFilter(chromatic.shader)]);	
-		}
 		if(ClientPrefs.quarterbits){
 			vhs = new VCRDistortionEffect(1, true, true, false);
 			trace(vhs);
@@ -80,14 +76,6 @@ class MusicBeatState extends FlxUIState
 
 	override function update(elapsed:Float)
 	{
-		if(ClientPrefs.realistic){
-			bloom.update();
-			bloom.blurSize = FlxMath.lerp(bloom.blurSize, 0, CoolUtil.boundTo(elapsed * 4, 0, 1));
-			bloom.intensity = FlxMath.lerp(bloom.intensity, 0, CoolUtil.boundTo(elapsed * 4, 0, 1));
-	
-			chromatic.offset = FlxMath.lerp(chromatic.offset, 0, CoolUtil.boundTo(elapsed * 4, 0, 1));	
-		}
-
 		if(ClientPrefs.quarterbits){
 			if(vhs != null) vhs.update(elapsed);
 		}
@@ -172,6 +160,10 @@ class MusicBeatState extends FlxUIState
 
 	public static function resetState()
 	{
+		if(Lib.application.window.fullscreen){
+			FlxG.scaleMode = new FunkinRatioScaleMode();
+			Main.scaleMode = new FunkinRatioScaleMode();
+		} 
 		FlxG.resetState();
 	}
 
@@ -189,11 +181,7 @@ class MusicBeatState extends FlxUIState
 
 	public function beatHit():Void
 	{
-		if(ClientPrefs.realistic){
-			bloom.intensity = 1;
-			bloom.blurSize = 0.5;
-			chromatic.offset = 0.125;	
-		}
+
 	}
 
 	public function sectionHit():Void

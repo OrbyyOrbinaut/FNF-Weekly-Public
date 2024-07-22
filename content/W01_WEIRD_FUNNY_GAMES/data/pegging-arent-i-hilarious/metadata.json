@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Pegging Aren't I Comedic",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Loggo"],
+        "chart" : ["kloogybaboogy"],
+        "art" : ["Loggo", "KatAnims"],
+        "code" : ["Loggo", "OrbyyOrbinaut"],
+        "va" : null
+    }
+}

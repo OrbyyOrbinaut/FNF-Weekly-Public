@@ -43,10 +43,10 @@ var e:Float = 0;
 trace(speed);
 function onUpdate(elapsed){
     e += 0.1;
-    game.dad.x = dadPos[0] + Math.cos(e * speed) * intensity;
-    ring.x = ringPos[0] + Math.cos(e * speed) * intensity;
-    game.dad.y = dadPos[1] + Math.sin(e * speed) * intensity;
-    ring.y = ringPos[1] + Math.sin(e * speed) * intensity;
+    game.dad.x = dadPos[0] + Math.cos(e * speed / (FlxG.updateFramerate / 60)) * intensity;
+    ring.x = ringPos[0] + Math.cos(e * speed / (FlxG.updateFramerate / 60)) * intensity;
+    game.dad.y = dadPos[1] + Math.sin(e * speed / (FlxG.updateFramerate / 60)) * intensity;
+    ring.y = ringPos[1] + Math.sin(e * speed / (FlxG.updateFramerate / 60)) * intensity;
     // trace(game.dad.y);
 }
 

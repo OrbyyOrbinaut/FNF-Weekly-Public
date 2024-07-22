@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="textglitch.png" width="2048" height="128">
+  <SubTexture name="textglitch0001" x="5" y="5"  width="329" height="98" frameX="-1" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0005" x="344" y="5"  width="329" height="98" frameX="-1" frameY="-2" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0013" x="683" y="5"  width="331" height="98" frameX="-0" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0017" x="1024" y="5"  width="331" height="98" frameX="-0" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0009" x="1365" y="5"  width="330" height="99" frameX="-0" frameY="-0" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0021" x="1705" y="5"  width="329" height="99" frameX="-1" frameY="-0" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0002" x="5" y="5"  width="329" height="98" frameX="-1" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0003" x="5" y="5"  width="329" height="98" frameX="-1" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0004" x="5" y="5"  width="329" height="98" frameX="-1" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0006" x="344" y="5"  width="329" height="98" frameX="-1" frameY="-2" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0007" x="344" y="5"  width="329" height="98" frameX="-1" frameY="-2" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0008" x="344" y="5"  width="329" height="98" frameX="-1" frameY="-2" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0010" x="1365" y="5"  width="330" height="99" frameX="-0" frameY="-0" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0011" x="1365" y="5"  width="330" height="99" frameX="-0" frameY="-0" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0012" x="1365" y="5"  width="330" height="99" frameX="-0" frameY="-0" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0014" x="683" y="5"  width="331" height="98" frameX="-0" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0015" x="683" y="5"  width="331" height="98" frameX="-0" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0016" x="683" y="5"  width="331" height="98" frameX="-0" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0018" x="1024" y="5"  width="331" height="98" frameX="-0" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0019" x="1024" y="5"  width="331" height="98" frameX="-0" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0020" x="1024" y="5"  width="331" height="98" frameX="-0" frameY="-1" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0022" x="1705" y="5"  width="329" height="99" frameX="-1" frameY="-0" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0023" x="1705" y="5"  width="329" height="99" frameX="-1" frameY="-0" frameWidth="331" frameHeight="100"/>
+  <SubTexture name="textglitch0024" x="1705" y="5"  width="329" height="99" frameX="-1" frameY="-0" frameWidth="331" frameHeight="100"/>
+</TextureAtlas>

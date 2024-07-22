@@ -1,0 +1,15 @@
+{
+    "card" : {
+        "name" : "Termina",
+        "expandBeat" : 24,
+		"duration": 3,
+		"font": "FOT-ChiaroStd-B.otf"
+    },
+    "credits" : {
+        "music" : ["niffirg"],
+        "chart" : ["niffirg"],
+        "art" : ["OrbyyOrbinaut"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

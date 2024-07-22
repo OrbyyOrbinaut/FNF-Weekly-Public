@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="chorus_kids.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Scream_C0000" x="3" y="3" width="127" height="233" frameX="-6" frameY="0" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0001" x="3" y="3" width="127" height="233" frameX="-6" frameY="0" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0002" x="133" y="3" width="134" height="223" frameX="-3" frameY="-8" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0003" x="133" y="3" width="134" height="223" frameX="-3" frameY="-8" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0004" x="270" y="3" width="132" height="215" frameX="0" frameY="-19" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0005" x="270" y="3" width="132" height="215" frameX="0" frameY="-19" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0006" x="3" y="239" width="132" height="215" frameX="-2" frameY="-18" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0007" x="3" y="239" width="132" height="215" frameX="-2" frameY="-18" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0008" x="270" y="3" width="132" height="215" frameX="0" frameY="-19" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0009" x="270" y="3" width="132" height="215" frameX="0" frameY="-19" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0010" x="3" y="239" width="132" height="215" frameX="-2" frameY="-18" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0011" x="3" y="239" width="132" height="215" frameX="-2" frameY="-18" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0012" x="270" y="3" width="132" height="215" frameX="0" frameY="-19" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0013" x="270" y="3" width="132" height="215" frameX="0" frameY="-19" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0014" x="3" y="239" width="132" height="215" frameX="-2" frameY="-18" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="Scream_C0015" x="3" y="239" width="132" height="215" frameX="-2" frameY="-18" frameWidth="137" frameHeight="234"/>
+	<SubTexture name="idle_C0000" x="138" y="239" width="99" height="187" frameX="0" frameY="-2" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="idle_C0001" x="138" y="239" width="99" height="187" frameX="0" frameY="-2" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="idle_C0002" x="138" y="239" width="99" height="187" frameX="0" frameY="-2" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="idle_C0003" x="240" y="239" width="101" height="186" frameX="0" frameY="0" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="idle_C0004" x="240" y="239" width="101" height="186" frameX="0" frameY="0" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="idle_C0005" x="240" y="239" width="101" height="186" frameX="0" frameY="0" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="idle_C_MAD0000" x="344" y="239" width="99" height="187" frameX="0" frameY="-2" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="idle_C_MAD0001" x="344" y="239" width="99" height="187" frameX="0" frameY="-2" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="idle_C_MAD0002" x="344" y="239" width="99" height="187" frameX="0" frameY="-2" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="idle_C_MAD0003" x="3" y="457" width="101" height="186" frameX="0" frameY="0" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="idle_C_MAD0004" x="3" y="457" width="101" height="186" frameX="0" frameY="0" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="idle_C_MAD0005" x="3" y="457" width="101" height="186" frameX="0" frameY="0" frameWidth="101" frameHeight="189"/>
+	<SubTexture name="sing_C0000" x="107" y="457" width="129" height="224" frameX="-2" frameY="0" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0001" x="107" y="457" width="129" height="224" frameX="-2" frameY="0" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0002" x="239" y="457" width="131" height="211" frameX="0" frameY="-12" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0003" x="239" y="457" width="131" height="211" frameX="0" frameY="-12" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0004" x="373" y="457" width="123" height="204" frameX="-2" frameY="-22" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0005" x="373" y="457" width="123" height="204" frameX="-2" frameY="-22" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0006" x="3" y="684" width="121" height="203" frameX="-3" frameY="-21" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0007" x="3" y="684" width="121" height="203" frameX="-3" frameY="-21" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0008" x="127" y="684" width="121" height="206" frameX="-3" frameY="-20" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0009" x="127" y="684" width="121" height="206" frameX="-3" frameY="-20" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0010" x="3" y="684" width="121" height="203" frameX="-3" frameY="-21" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0011" x="3" y="684" width="121" height="203" frameX="-3" frameY="-21" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0012" x="127" y="684" width="121" height="206" frameX="-3" frameY="-20" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0013" x="127" y="684" width="121" height="206" frameX="-3" frameY="-20" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0014" x="3" y="684" width="121" height="203" frameX="-3" frameY="-21" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0015" x="3" y="684" width="121" height="203" frameX="-3" frameY="-21" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0016" x="127" y="684" width="121" height="206" frameX="-3" frameY="-20" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0017" x="127" y="684" width="121" height="206" frameX="-3" frameY="-20" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0018" x="3" y="684" width="121" height="203" frameX="-3" frameY="-21" frameWidth="131" frameHeight="226"/>
+	<SubTexture name="sing_C0019" x="3" y="684" width="121" height="203" frameX="-3" frameY="-21" frameWidth="131" frameHeight="226"/>
+</TextureAtlas>

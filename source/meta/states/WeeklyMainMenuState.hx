@@ -34,8 +34,9 @@ using StringTools;
 
 class WeeklyMainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '0.6.2'; //This is also used for Discord RPC
-	public static var curSelected:Int = 0;
+	// This is our current version dont forget to change it when compiling releases
+	public static var psychEngineVersion:String = 'Tweak 5'; //MAKE SURE THIS IS UP TO DATE SINCE IT MATTERS FOR AUTO UPDATING !!!!
+	//public static var curSelected:Int = 0;
 	var canClick:Bool = true;
 	var norbertcanIdle:Bool = false; // dumb and gay my b
 
@@ -49,7 +50,7 @@ class WeeklyMainMenuState extends MusicBeatState
 		'play' // basically story mode
 	];
 
-	var debugKeys:Array<FlxKey>;
+	//var debugKeys:Array<FlxKey>;
 	var fwlogo:FlxSprite;
 	var norbert:FlxSprite;
 
@@ -62,12 +63,14 @@ class WeeklyMainMenuState extends MusicBeatState
 	var scoreText:FlxText;
 	var newsTxt1:FlxText;
 	var newsTxt2:FlxText;
+	var tweakTxt:FlxText;
 
 	override function create()
 	{
 		FlxG.mouse.visible = true;
 
 		Conductor.changeBPM(102);
+		trace(Conductor.bpm);
 
 		#if MODS_ALLOWED
 		Paths.pushGlobalMods();
@@ -122,6 +125,13 @@ class WeeklyMainMenuState extends MusicBeatState
 		txtTracklist.antialiasing = ClientPrefs.globalAntialiasing;
 		add(txtTracklist);
 
+		tweakTxt = new FlxText(1110, 63, "TWEAK 0", 25);
+        tweakTxt.alignment = RIGHT;
+		tweakTxt.font = "VCR OSD Mono";
+		tweakTxt.color = 0xffffffff;
+		tweakTxt.antialiasing = ClientPrefs.globalAntialiasing;
+		add(tweakTxt);
+
 		scoreText = new FlxText(872, 63, "", 25);
 		scoreText.alignment = LEFT;
 		scoreText.font = "VCR OSD Mono";
@@ -146,6 +156,13 @@ class WeeklyMainMenuState extends MusicBeatState
 			{
 				norbert.visible = true;
 				norbert.animation.play('intro');
+				norbert.animation.finishCallback = (name:String = 'intro')->{
+				if(norbert.animation.curAnim.name == 'intro') //If theres a better way to handle this lmk but i think this is better than checking on every beat hit
+					{
+						norbertcanIdle = true;
+						trace('callback');
+					}	
+				}
 			});
 
 		var bar = new FlxSprite().makeGraphic(1233, 141, FlxColor.BLACK);
@@ -161,8 +178,6 @@ class WeeklyMainMenuState extends MusicBeatState
 		add(newsTxt1);
 		FlxTween.tween(newsTxt1, {x: -734}, 4.25, {type: LOOPING}); 
 
-		//40
-
 		newsTxt2 = new FlxText(40, 562, "BREAKING NEWS!!! BREAKING NEWS!!! ", 40);
 		newsTxt2.alignment = LEFT;
 		newsTxt2.font = newsTxt1.font;
@@ -170,7 +185,6 @@ class WeeklyMainMenuState extends MusicBeatState
 		newsTxt2.antialiasing = ClientPrefs.globalAntialiasing;
 		newsTxt2.color = newsTxt1.color;
 		newsTxt2.x = newsTxt1.x;
-		trace(newsTxt2.x);
 		add(newsTxt2);
 		FlxTween.tween(newsTxt2, {x: -734}, 4.25, {startDelay: 2.0, type: LOOPING}); 
 
@@ -217,10 +231,6 @@ class WeeklyMainMenuState extends MusicBeatState
 
 		fwlogo.animation.play('idle', true);
 
-		if(norbert != null && norbert.animation.curAnim != null && norbert.animation.curAnim.name == 'intro' && norbert.animation.finished)
-		{
-			norbertcanIdle = true;
-		}
 		if(norbertcanIdle)
 		{
 			norbert.offset.set(-1013, -3);
@@ -283,6 +293,7 @@ class WeeklyMainMenuState extends MusicBeatState
 				LoadingState.loadAndSwitchState(new meta.data.options.OptionsState());
 				FlxG.sound.play(Paths.sound('scrollMenu'));
 				FlxG.mouse.visible = false;
+				OptionsState.onPlayState = false;
 			case 'credits':
 				MusicBeatState.switchState(new CreditsState());
 				FlxG.sound.play(Paths.sound('scrollMenu'));
@@ -303,13 +314,12 @@ class WeeklyMainMenuState extends MusicBeatState
 	{
 		curWeek += change;
 
-		trace(curWeek);
-		trace(loadedWeeks.length);
-
 		if (curWeek >= loadedWeeks.length)
 			curWeek = 0;
 		if (curWeek < 0)
 			curWeek = loadedWeeks.length - 1;
+
+		trace(curWeek);		
 
 		var leWeek:WeekData = loadedWeeks[curWeek];
 		WeekData.setDirectoryFromWeek(leWeek);
@@ -407,6 +417,8 @@ class WeeklyMainMenuState extends MusicBeatState
 			stringThing.push(leWeek.songs[i][0]);
 		}
 
+		tweakTxt.text = 'TWEAK $curWeek';
+
 		txtTracklist.text = '';
 		for (i in 0...stringThing.length)
 		{
@@ -417,7 +429,6 @@ class WeeklyMainMenuState extends MusicBeatState
 		txtTracklist.updateHitbox();
 
 		scoreText.y = txtTracklist.height + 60;
-		//trace(txtTracklist.text);
 
 		#if !switch
 		intendedScore = Highscore.getWeekScore(loadedWeeks[curWeek].fileName, curDifficulty);

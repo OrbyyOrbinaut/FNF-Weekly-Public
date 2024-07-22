@@ -69,13 +69,6 @@ class GraphicsSettingsSubState extends BaseOptionsMenu
 		option.onChange = onChangeFramerate;
 		#end
 
-		var option:Option = new Option('RTX Mode',
-		'For all you gamers who want to experience the most realistic game possible...',
-		'realistic',
-		'bool',
-		false);
-		addOption(option);
-
 		var option:Option = new Option('Classic Mode',
 		'For all you gamers who want to experience FNF Weekly in its classic form back from the 90s.',
 		'quarterbits',

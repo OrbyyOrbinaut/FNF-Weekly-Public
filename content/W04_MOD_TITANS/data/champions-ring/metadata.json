@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Champion's Ring",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["niffirg"],
+        "chart" : ["niffirg", "lemlem_mew"],
+        "art" : ["DerpDrawz", "Flaguieug"],
+        "code" : ["DuskieWhy"],
+        "va" : null
+    }
+}

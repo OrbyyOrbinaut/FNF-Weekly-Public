@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Parched",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Crossknife"],
+        "chart" : ["OrbyyOrbinaut"],
+        "art" : ["MochaDrawss", "Pancho", "DerpDrawz"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

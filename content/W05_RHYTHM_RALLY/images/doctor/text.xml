@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="text.png" width="2048" height="128">
+  <SubTexture name="text0002" x="5" y="5"  width="330" height="46" frameX="-0" frameY="-2" frameWidth="330" frameHeight="48"/>
+  <SubTexture name="text0004" x="345" y="5"  width="329" height="46" frameX="-1" frameY="-1" frameWidth="330" frameHeight="48"/>
+  <SubTexture name="text0010" x="684" y="5"  width="286" height="21" frameX="-2" frameY="-1" frameWidth="330" frameHeight="48"/>
+  <SubTexture name="text0009" x="980" y="5"  width="284" height="47" frameX="-1" frameY="-0" frameWidth="330" frameHeight="48"/>
+  <SubTexture name="text0007" x="684" y="36"  width="269" height="47" frameX="-0" frameY="-0" frameWidth="330" frameHeight="48"/>
+  <SubTexture name="text0008" x="5" y="61"  width="267" height="47" frameX="-1" frameY="-0" frameWidth="330" frameHeight="48"/>
+  <SubTexture name="text0006" x="282" y="61"  width="242" height="45" frameX="-0" frameY="-2" frameWidth="330" frameHeight="48"/>
+  <SubTexture name="text0003" x="534" y="61"  width="76" height="45" frameX="-210" frameY="-1" frameWidth="330" frameHeight="48"/>
+  <SubTexture name="text0001" x="1274" y="5"  width="221" height="46" frameX="-1" frameY="-1" frameWidth="330" frameHeight="48"/>
+  <SubTexture name="text0005" x="1505" y="5"  width="171" height="46" frameX="-1" frameY="-1" frameWidth="330" frameHeight="48"/>
+</TextureAtlas>

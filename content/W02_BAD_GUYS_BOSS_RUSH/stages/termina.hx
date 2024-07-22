@@ -17,7 +17,6 @@ function onCreatePost(){
     game.isCameraOnForcedPos = true;
     modManager.setValue("opponentSwap", 1);
     modManager.setValue("mini", -3);
-    ClientPrefs.noteSplashes = false;
     openVid = new PsychVideoSprite();
     openVid.addCallback('onFormat',()->{
         openVid.cameras = [game.camOther];
@@ -38,7 +37,13 @@ function onCreatePost(){
     blackScreen.screenCenter();
     foreground.add(blackScreen);
     game.camHUD.alpha = 0;
-    //game.camGame.alpha = 0;
+}
+
+function onSpawnNotePost(note:Note) // No longer need to modify clientprefs for this to work.
+{
+    if (note.mustPress == true) {
+        note.noteSplashDisabled = true;
+    }
 }
 
 function onSongStart()
@@ -84,6 +89,5 @@ function onUpdate(elapsed){
 }
 
 function onDestroy(){
-    ClientPrefs.loadPrefs();
     if (openVid != null) openVid.destroy();
 }

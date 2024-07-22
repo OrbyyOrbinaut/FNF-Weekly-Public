@@ -1,0 +1,193 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle_BF",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				55,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left_BF",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				55,
+				-5
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left_BF",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				17,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down_BF",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				17,
+				-24
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "down_BF",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				6,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up_BF",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				6,
+				26
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "up_BF",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				-9,
+				-7
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right_BF"
+		},
+		{
+			"offsets": [
+				-9,
+				-7
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "right_BF"
+		},
+		{
+			"offsets": [
+				14,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"loop": false,
+			"name": "sing_BF"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chorus_bf",
+	"position": [
+		170,
+		510
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

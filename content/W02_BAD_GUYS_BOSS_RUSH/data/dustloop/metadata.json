@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Dustloop",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Biddle3"],
+        "chart" : ["Srife5"],
+        "art" : ["Ito Saihara", "ultraspicyspray", "lemlem_mew"],
+        "code" : ["Flaguieug"],
+        "va" : ["Ito Saihara", "Kloogybaboogy"]
+    }
+}

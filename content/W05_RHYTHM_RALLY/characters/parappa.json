@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "paraidle"
+		},
+		{
+			"offsets": [
+				-50,
+				-68
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "paradown"
+		},
+		{
+			"offsets": [
+				-44,
+				19
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "paraup"
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "pararight"
+		},
+		{
+			"offsets": [
+				-11,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "paraleft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/parappa_assets",
+	"position": [
+		10,
+		240
+	],
+	"healthicon": "parappa",
+	"flip_x": true,
+	"healthbar_colors": [
+		195, 
+		117, 
+		66
+	],
+	"camera_position": [
+		30,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

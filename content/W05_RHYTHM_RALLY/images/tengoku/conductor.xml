@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="conductor.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="lion_fuck0000" x="3" y="3" width="186" height="250"/>
+	<SubTexture name="lion_fuck0001" x="3" y="3" width="186" height="250"/>
+	<SubTexture name="lion_fuck0002" x="192" y="3" width="186" height="247" frameX="0" frameY="0" frameWidth="186" frameHeight="250"/>
+	<SubTexture name="lion_fuck0003" x="192" y="3" width="186" height="247" frameX="0" frameY="0" frameWidth="186" frameHeight="250"/>
+	<SubTexture name="lion_fuck0004" x="3" y="256" width="185" height="248" frameX="-1" frameY="0" frameWidth="186" frameHeight="250"/>
+	<SubTexture name="lion_fuck0005" x="3" y="256" width="185" height="248" frameX="-1" frameY="0" frameWidth="186" frameHeight="250"/>
+</TextureAtlas>

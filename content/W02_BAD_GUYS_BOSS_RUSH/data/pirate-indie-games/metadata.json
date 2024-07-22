@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Pirate Indie Games",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["maddiesmiles"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["KatAnims"],
+        "code" : ["Lethrial"],
+        "va" : ["Kloogybaboogy"]
+    }
+}

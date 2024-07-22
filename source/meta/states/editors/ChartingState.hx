@@ -115,6 +115,7 @@ class ChartingState extends MusicBeatState
 		['Camera Zoom', "Changes the Camera Zoom.\n\nValue 1: Zoom Multiplier (1 is default)\n\nIn case you want a tween, use Value 2 like this:\n\n\"3, elasticOut\"\n(Duration, Ease Type)"],
         ["Mult SV", "Changes the notes' scroll velocity via multiplication.\nValue 1: Multiplier"],
         ["Constant SV", "Uses scroll velocity to set the speed to a constant number.\nValue 1: Constant"],
+		["hello bro"]
 	];
 
 	public var variables:Map<String, Dynamic> = new Map();

@@ -80,6 +80,17 @@ class MiscSubState extends BaseOptionsMenu
 		addOption(option);
 		*/
 
+		var option:Option = new Option("AUTO-UPDATES", //Name
+			"0 = OFF, 1 = Tell me About Updates but dont download them, 2 = Download Update ingame", //Description
+			'checkForUpdates', //Save data variable name
+			'int', //Variable type
+			true
+			); //Default value
+		addOption(option);
+
+		option.minValue = 0;
+		option.maxValue = 2;
+
 		super();
 	}
 

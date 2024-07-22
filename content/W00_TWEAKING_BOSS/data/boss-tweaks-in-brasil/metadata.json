@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Boss Tweaks in Brasil",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Flaguieug"],
+        "chart" : ["Lethrial"],
+        "art" : ["DerpDrawz", "lemlem_mew", "Ito Saihara"],
+        "code" : ["Lethrial", "OrbyyOrbinaut"],
+        "va" : null
+    }
+}

@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["Chorale", "chorus", [225, 225, 225]],
+		["Funky Flow", "parappa", [195, 117, 66]],
+		["Off the Cuff", "lucky", [162, 36, 51]],
+		["Transient Tribulation", "gddude", [255, 253, 72]],
+		["Love Groove", "miku", [90, 189, 175]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Rhythm Rally",
+	"weekBefore": "",
+	"weekName": "Rhythm Rally",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weeklogo": "rhythmrally"
+}

@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Teaking",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Loggo"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["Loggo", "DerpDrawz", "lemlem_mew", "Ito Saihara"],
+        "code" : ["Loggo", "Lethrial", "OrbyyOrbinaut"],
+        "va" : null
+    }
+}

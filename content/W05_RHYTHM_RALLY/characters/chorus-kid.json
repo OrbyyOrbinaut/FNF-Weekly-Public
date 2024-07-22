@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				14,
+				37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing_C",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				14,
+				37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing_C",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				14,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing_C",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				14,
+				37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing_C",
+			"indices": []
+		},
+		{
+			"offsets": [
+				19,
+				44
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "Scream_C"
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle_C0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle_C_MAD0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chorus_kids",
+	"position": [
+		120,
+		550
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

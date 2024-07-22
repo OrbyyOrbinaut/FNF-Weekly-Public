@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Transient Tribulation",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["niffirg"],
+        "chart" : ["niffirg"],
+        "art" : ["Pancho", "alphalul1", "lemlem_mew"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

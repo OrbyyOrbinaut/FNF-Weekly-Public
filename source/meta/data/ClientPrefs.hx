@@ -43,6 +43,7 @@ class ClientPrefs {
 	public static var camZooms:Bool = true;
 	public static var hideHud:Bool = false;
 	public static var camMovement:Bool = true;
+	public static var checkForUpdates:Int = 2;
 	public static var noteOffset:Int = 0;
 	public static var arrowHSV:Array<Array<Int>> = [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]];
 	public static var quantHSV:Array<Array<Int>> = [
@@ -180,6 +181,7 @@ class ClientPrefs {
 		FlxG.save.data.noteSplashes = noteSplashes;
 		FlxG.save.data.lowQuality = lowQuality;
 		FlxG.save.data.framerate = framerate;
+		FlxG.save.data.checkForUpdates = checkForUpdates;
 		//FlxG.save.data.cursing = cursing;
 		//FlxG.save.data.violence = violence;
 		FlxG.save.data.camZooms = camZooms;
@@ -282,6 +284,9 @@ class ClientPrefs {
 		if(FlxG.save.data.lowQuality != null) {
 			lowQuality = FlxG.save.data.lowQuality;
 		}
+		if(FlxG.save.data.checkForUpdates != null) {
+			checkForUpdates = FlxG.save.data.checkForUpdates;
+		}
 		if(FlxG.save.data.framerate == null) {
 			framerate = Std.int(FlxMath.bound(FlxG.stage.application.window.displayMode.refreshRate, 60, 240));
 		}
@@ -312,7 +317,7 @@ class ClientPrefs {
 			multicoreLoading = FlxG.save.data.multicoreLoading;
 		}
 		if(FlxG.save.data.realistic != null) {
-			realistic = FlxG.save.data.realistic;
+			realistic = false;
 		}
 		if(FlxG.save.data.quarterbits != null) {
 			quarterbits = FlxG.save.data.quarterbits;

@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Joink",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Cloverderus"],
+        "chart" : ["Srife5"],
+        "art" : ["ultraspicyspray", "MochaDrawss", "alphalul1", "DerpDrawz"],
+        "code" : ["DuskieWhy"],
+        "va" : null
+    }
+}

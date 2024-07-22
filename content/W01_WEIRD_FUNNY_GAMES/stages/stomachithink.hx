@@ -7,18 +7,10 @@ var extraGuy2:Character;
 var splitStage:Int = 0;
 var distortion;
 var popStep:Null<Int> = null;
-var ogComboOffset:Array<Int> = [0, 0, 0, 0];
 
 /**
  * THIS CODE IS SO MESSY PLEASE DON'T JUDGE ME this was made at like midnight - Leth
  */
-
- function onDestroy() {
-    ClientPrefs.comboOffset[0] =  ogComboOffset[0];
-	ClientPrefs.comboOffset[1] =  ogComboOffset[1];
-    ClientPrefs.comboOffset[2] =  ogComboOffset[2];
-	ClientPrefs.comboOffset[3] =  ogComboOffset[3];
-}
 
 function onLoad() 
 {
@@ -70,10 +62,7 @@ function onCreatePost()
 		game.opponentStrums.members[i].alpha = 0.001;
 	}
 
-    ClientPrefs.comboOffset[0] =  -300;
-	ClientPrefs.comboOffset[1] =  -100;
-    ClientPrefs.comboOffset[2] =  -300;
-	ClientPrefs.comboOffset[3] =  -100;
+    game.comboOffsetCustom = [150, 300, 185, 450];
 }
 
 function onSpawnNotePost(note:Note)
