@@ -43,9 +43,8 @@ class UpdatingState extends MusicBeatState
     var cancelText:FlxText;
 	var file:File;
     var sWfolderB:String;
+    var url:String;
 
-    // Link to the github rellease / google drive
-    var url = 'https://drive.google.com/file/d/1CNm8DQN2U7_YRhzfRmyLtLu8RBG4rTly';
 	var stream:URLStream;
 	var fs:FileStream;
 	var wait2write = false;
@@ -103,6 +102,23 @@ class UpdatingState extends MusicBeatState
     
 	override function create()
 	{
+	// Heres The link to change - cross
+        var http = new haxe.Http("https://raw.githubusercontent.com/Crossknife/FNF-Weekly-Test/main/VERSION.txt");
+        // link to the Github txt that tells you the version
+        // ("https://raw.githubusercontent.com/Crossknife/FNF-Weekly-TEST/main/VERSION.txt");
+        // do rawgithub
+        
+        http.onData = function(data:String) {
+            url = data.split('\n')[1].trim();
+        }
+        http.onError = function(error) {
+            trace('error: $error');
+        }
+                
+        http.request();
+
+
+        trace('Our Download Link is: ' + url);
         // Normal Bg stuff
 		super.create();
 
