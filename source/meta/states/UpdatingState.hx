@@ -45,7 +45,7 @@ class UpdatingState extends MusicBeatState
     var sWfolderB:String;
 
     // Link to the github rellease / google drive
-    var url = 'https://drive.google.com/file/d/1Hkq-adQYKlHcjHPyA05Du-1tP0XEYF7c/view?usp=sharing';
+    var url = 'https://drive.google.com/file/d/1CNm8DQN2U7_YRhzfRmyLtLu8RBG4rTly/view?usp=sharing';
 	var stream:URLStream;
 	var fs:FileStream;
 	var wait2write = false;
