@@ -1,2 +1,2 @@
-Tweak 5.1
+Tweak 5
 https://github.com/OrbyyOrbinaut/FNF-Weekly-Public/releases/download/v5.1.0/FNF.Weekly.zip
