@@ -1,5 +1,6 @@
 package meta.data.scripts;
 
+import meta.states.substate.GameOverSubstate;
 import flixel.effects.FlxFlicker;
 import flixel.system.FlxBGSprite;
 import gameObjects.SpriteFromSheet;
@@ -346,6 +347,12 @@ class FunkinHScript extends FunkinScript
 			}
 
 			return runtime==null ? new FlxRuntimeShader() : runtime;
+		});
+
+		// hi its me lethrial adding a new and exciting function to hscript!
+		set('setGameOverVideo', function(name:String = null) {
+			if (name != null) GameOverSubstate.instance.setGameOverVideo(name);
+			else trace('No argument for game over video!');
 		});
 
 		// set("Shaders", gameObjects.shader.Shaders);

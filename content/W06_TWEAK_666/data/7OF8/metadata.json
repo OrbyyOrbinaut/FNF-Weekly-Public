@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "7 of 8",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Scrumbo", "Cloverderus"],
+        "chart" : ["Srife"],
+        "art" : ["MochaDraws", "Dollie", "lemlem_mew", "DerpDrawz"],
+        "code" : ["Crossknife"],
+        "va" : null
+    }
+}

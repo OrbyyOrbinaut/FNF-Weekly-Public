@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Devil's Ditty", "bendy", [40, 40, 40]],
+		["jeff the kill you", "jeff", [255, 255, 255]],
+		["BOX24", "makoto", [46, 195, 112]],
+		["7OF8", "slenderman", [255, 255, 255]],
+		["Good Will", "kinito", [204, 153, 204]],
+		["CAN YOU HEAR ME", "gold", [40, 40, 40]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Tweak 666",
+	"weekBefore": "",
+	"weekName": "Tweak 666",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weeklogo": "horrorhorde"
+}

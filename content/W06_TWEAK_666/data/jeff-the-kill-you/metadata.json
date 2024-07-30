@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Jeff The Kill You",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Crossknife"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["loggo", "ultraspicyspray"],
+        "code" : ["loggo"],
+        "va" : null
+    }
+}

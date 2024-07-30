@@ -198,13 +198,6 @@ function onCreatePost()
                 ease: FlxEase.sineInOut
             });
         });
-        
-    
-
-
-    GameOverSubstate.endSoundName = "empty";
-    GameOverSubstate.deathSoundName = "empty";
-    GameOverSubstate.loopSoundName = "empty";
     
     pea = new FlxSprite(game.BF_X+snoutAt[0], game.BF_Y+snoutAt[1]);
     pea.loadGraphic(Paths.image("brains/pea"));
@@ -240,19 +233,5 @@ function onGameOverStart()
     var vid = isZombieAlive ? 'pvzzombie' : 'peashooter';
     // Video on Death
     FlxG.camera.bgColor = 0xFF000000;
-    var video = new PsychVideoSprite();
-    video.addCallback('onFormat',()->{
-        video.setGraphicSize(0,FlxG.height);
-        video.updateHitbox();
-        video.screenCenter();
-        video.cameras = [game.camOther];
-        video.antialiasing = true;
-    });
-    video.addCallback('onEnd',()->{
-        FlxG.resetState();
-    });
-    video.load(Paths.video(vid));
-    video.play();
-    GameOverSubstate.instance.add(video);
-    GameOverSubstate.instance.boyfriend.alpha = 0;
+    setGameOverVideo(vid);
 }    

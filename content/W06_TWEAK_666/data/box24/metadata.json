@@ -1,0 +1,15 @@
+{
+    "card" : {
+        "name" : "BOX24",
+        "expandBeat" : 16,
+		"duration": 3,
+		"font": "goodbyeDespair.ttf"
+    },
+    "credits" : {
+        "music" : ["Kreagato"],
+        "chart" : ["Cloverderus"],
+        "art" : ["Ito Saihara", "alphalul1"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

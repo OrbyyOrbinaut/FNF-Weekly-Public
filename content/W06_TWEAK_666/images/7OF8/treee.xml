@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="treee.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="paperbg instance 10000" x="41" y="41" width="408" height="496"/>
+	<SubTexture name="paperbg instance 10001" x="41" y="41" width="408" height="496"/>
+	<SubTexture name="paperbg instance 10002" x="41" y="41" width="408" height="496"/>
+	<SubTexture name="paperbg instance 10003" x="449" y="41" width="408" height="496"/>
+	<SubTexture name="paperbg instance 10004" x="449" y="41" width="408" height="496"/>
+	<SubTexture name="paperbg instance 10005" x="449" y="41" width="408" height="496"/>
+	<SubTexture name="paperbg instance 10006" x="857" y="41" width="408" height="496"/>
+	<SubTexture name="paperbg instance 10007" x="857" y="41" width="408" height="496"/>
+	<SubTexture name="paperbg instance 10008" x="857" y="41" width="408" height="496"/>
+	<SubTexture name="paperbg instance 10009" x="1265" y="41" width="408" height="496"/>
+	<SubTexture name="paperbg instance 10010" x="1265" y="41" width="408" height="496"/>
+	<SubTexture name="paperbg instance 10011" x="1265" y="41" width="408" height="496"/>
+</TextureAtlas>

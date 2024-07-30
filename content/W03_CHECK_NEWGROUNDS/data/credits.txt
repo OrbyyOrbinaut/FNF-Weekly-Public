@@ -1,6 +1,6 @@
 TWEAK 3 - CHECK NEWGROUNDS
 niffirg::Niffrg::Composer of "Mental Temple"::https://x.com/n1ffirg::0xFFFFAF64
-ultraspicyspray::Akari::ENA + ENA BF Sprites/Icons::https://x.com/ultraspicyspray::0xFFFFAF64
+ultraspicyspray::ultra::ENA + ENA BF Sprites/Icons::https://x.com/ultraspicyspray::0xFFFFAF64
 rotkad::rotkad::ENA BF Design::https://toyhou.se/rotkad::0xFFFFAF64
 Srife5::Srife5::Charter of "Mental Temple"::https://x.com/strife55::0xFFFFAF64
 Cloverderus::Clover::Composer of "Spaceblasterz"::https://x.com/Cloverderus::0xFFFFAF64
@@ -12,5 +12,5 @@ Lethrial::Lethrial::Programmer & Charter of "Spaceblasterz"::https://x.com/lethr
 KatAnims::KatAnims::Composer of "Crimson Fog", Animated Hank Sprites::https://x.com/KatAnims::0xFFFFAF64
 Ito Saihara::ItoSaihara::Hank Sprite/Icons::https://x.com/ItoSaihara_::0xFFFFAF64
 Kye_VL::KyeVL::Charter of "Crimson Fog", Voice of Hank::https://x.com/Kye_VL::0xFFFFAF64
-Pancho::Pancho::"Mental Temple" & "Crimson Fog" Backgrounds, Hank & Pico cutouts, Helicopter Cameo in "Spaceblasterz"::https://x.com/panchonatorr::0xFFFFAF64
+Dollie::dollie::"Mental Temple" & "Crimson Fog" Backgrounds, Hank & Pico cutouts, Helicopter Cameo in "Spaceblasterz"::https://x.com/panchonatorr::0xFFFFAF64
 OrbyyOrbinaut::Orbyy::Programmer of "Mental Temple" & "Crimson Fog"::https://x.com/OrbyyNew::0xFFFFAF64

@@ -114,28 +114,9 @@ function onUpdatePost(elapsed:Float)
 
 function onCreatePost() {
     add(garbage);
-
-    GameOverSubstate.endSoundName = "empty";
-    GameOverSubstate.deathSoundName = "empty";
-    GameOverSubstate.loopSoundName = "empty";
 }
 
 function onGameOverStart() 
 {    
-    // Video on Death
-    var video = new PsychVideoSprite();
-    video.addCallback('onFormat',()->{
-        video.setGraphicSize(0,FlxG.height);
-        video.updateHitbox();
-        video.screenCenter();
-        video.cameras = [game.camOther];
-        video.antialiasing = true;
-    });
-    video.addCallback('onEnd',()->{
-        FlxG.resetState();
-    });
-    video.load(Paths.video("spam"));
-    video.play();
-    GameOverSubstate.instance.add(video);
-    GameOverSubstate.instance.boyfriend.alpha = 0;
+    setGameOverVideo('spam');
 }    

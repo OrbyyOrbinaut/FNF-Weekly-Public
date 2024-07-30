@@ -35,7 +35,7 @@ using StringTools;
 class WeeklyMainMenuState extends MusicBeatState
 {
 	// This is our current version dont forget to change it when compiling releases
-	public static var psychEngineVersion:String = 'Tweak 5.1'; //MAKE SURE THIS IS UP TO DATE SINCE IT MATTERS FOR AUTO UPDATING !!!!
+	public static var psychEngineVersion:String = 'Tweak 6'; //MAKE SURE THIS IS UP TO DATE SINCE IT MATTERS FOR AUTO UPDATING !!!!
 	//public static var curSelected:Int = 0;
 	var canClick:Bool = true;
 	var norbertcanIdle:Bool = false; // dumb and gay my b
@@ -417,7 +417,17 @@ class WeeklyMainMenuState extends MusicBeatState
 			stringThing.push(leWeek.songs[i][0]);
 		}
 
-		tweakTxt.text = 'TWEAK $curWeek';
+		if(curWeek == 6) // So it displays as "666"
+		{
+			tweakTxt.text = 'TWEAK 666';
+			tweakTxt.x = 1110 - 30;
+		}
+		else
+		{
+			tweakTxt.text = 'TWEAK $curWeek';
+			tweakTxt.x = 1110;
+		}
+		tweakTxt.updateHitbox();
 
 		txtTracklist.text = '';
 		for (i in 0...stringThing.length)

@@ -31,11 +31,6 @@ function onLoad()
     // shoutouts wingblings for da shader
     distortion = newShader('defective');
     ExUtils.addShader(distortion, game.camGame);
-
-    ogComboOffset[0] = ClientPrefs.comboOffset[0];
-    ogComboOffset[1] = ClientPrefs.comboOffset[1];
-    ogComboOffset[2] = ClientPrefs.comboOffset[2];
-    ogComboOffset[3] = ClientPrefs.comboOffset[3];
 }
 
 function onCreatePost()
@@ -199,19 +194,5 @@ function onEvent(eventName, value1, value2)
 
 function onGameOverStart() 
 {
-    var video = new PsychVideoSprite();
-    video.addCallback('onFormat',()->{
-        video.setGraphicSize(0,FlxG.height);
-        video.updateHitbox();
-        video.screenCenter();
-        video.cameras = [game.camOther];
-        video.antialiasing = true;
-    });
-    video.addCallback('onEnd',()->{
-        FlxG.resetState();
-    });
-    video.load(Paths.video("BACTERIAL_GAMEOVER"));
-    video.play();
-    GameOverSubstate.instance.add(video);
-    GameOverSubstate.instance.boyfriend.alpha = 0;
+    setGameOverVideo("BACTERIAL_GAMEOVER");
 }

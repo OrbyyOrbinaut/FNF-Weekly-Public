@@ -5,7 +5,7 @@ DerpDrawz::DrawzDerp::Menu Assets, "Chef Blasting" Intro + Sprites + Background,
 loggo::Loggo::Composer of "Pegging Aren't I Hilarious", Peggle BF, Chef Blasting/Pegging Gameovers, Programming::https://x.com/loggoman512::0xFFFFAF64
 KloogyBaboogy::KloogyBaboogy::Charter of "Pegging Aren't I Hilarious"::https://x.com/kloogybaboogy::0xFFFFAF64
 Cloverderus::Clover::Composer of "Joink"::https://x.com/Cloverderus::0xFFFFAF64
-ultraspicyspray::Akari::Conan Sprite, Farmer BF Sprite::https://x.com/ultraspicyspray::0xFFFFAF64
+ultraspicyspray::ultra::Conan Sprite, Farmer BF Sprite::https://x.com/ultraspicyspray::0xFFFFAF64
 MochaDrawss::Mocha::Farmer GF Sprite::https://x.com/MochaDrawss::0xFFFFAF64
 alphalul1::Alphalul1::"Joink" Background::https://x.com/alphautism::0xFFFFAF64
 Srife5::Srife5::Charter of "Joink"::https://x.com/strife55::0xFFFFAF64

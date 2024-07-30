@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "makotoidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				-31,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "makotoleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				8,
+				-27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "makotodown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				-28,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "makotoup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-1,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "makotoright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/makoto",
+	"position": [
+		100,
+		300
+	],
+	"healthicon": "makoto",
+	"flip_x": true,
+	"healthbar_colors": [
+		46,
+		195,
+		112
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

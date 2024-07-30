@@ -106,11 +106,6 @@ function onLoad() {
 }
 
 function onCreatePost() {
-
-    GameOverSubstate.deathSoundName = "empty";
-    GameOverSubstate.loopSoundName = "empty";
-    GameOverSubstate.endSoundName = "empty";
-
     // Wow.
     healthBarBG.alpha = 0;
     healthBar.alpha = 0;
@@ -136,24 +131,9 @@ function opponentNoteHit() {
     game.health+=0.03;
 }
 function onGameOverStart() 
-    {
-        
-        var video = new PsychVideoSprite();
-        video.addCallback('onFormat',()->{
-            video.setGraphicSize(0,FlxG.height);
-            video.updateHitbox();
-            video.screenCenter();
-            video.cameras = [game.camOther];
-        });
-        video.addCallback('onEnd',()->{
-            FlxG.resetState();
-        });
-        video.load(Paths.video("bfdeath"));
-        video.play();
-        GameOverSubstate.instance.add(video);
-        GameOverSubstate.instance.boyfriend.alpha = 0;
-        
-    }
+{
+    setGameOverVideo('bfdeath');
+}
 
 function onUpdate(elapsed){
     game.camZooming = false;

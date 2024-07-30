@@ -46,10 +46,6 @@ function onCreatePost()
     healthBarBG.updateHitbox();
     timeBar.y = -999;
     timeTxt.y = -999;
-    
-    GameOverSubstate.endSoundName = "empty";
-    GameOverSubstate.deathSoundName = "empty";
-    GameOverSubstate.loopSoundName = "empty";
 
     game.triggerEventNote('Camera Follow Pos', '640', '359'); //FUCK I'M GONNA KMS
     game.triggerEventNote('Set GF Speed', '2', ''); //FUCK I'M GONNA KMS
@@ -85,20 +81,6 @@ function onUpdatePost(elapsed){
 }
 
 function onGameOverStart() 
-{    
-    var video = new PsychVideoSprite();
-    video.addCallback('onFormat',()->{
-        video.setGraphicSize(0,FlxG.height);
-        video.updateHitbox();
-        video.screenCenter();
-        video.cameras = [game.camOther];
-        video.antialiasing = true;
-    });
-    video.addCallback('onEnd',()->{
-        FlxG.resetState();
-    });
-    video.load(Paths.video("SUIKA_GAMEOVER"));
-    video.play();
-    GameOverSubstate.instance.add(video);
-    GameOverSubstate.instance.boyfriend.alpha = 0;
+{   
+    setGameOverVideo('SUIKA_GAMEOVER');
 }    

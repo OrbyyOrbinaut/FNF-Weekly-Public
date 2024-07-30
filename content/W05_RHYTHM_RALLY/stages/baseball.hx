@@ -62,10 +62,6 @@ function onLoad()
 
 function onCreatePost()
 {
-    GameOverSubstate.endSoundName = "empty";
-    GameOverSubstate.deathSoundName = "empty";
-    GameOverSubstate.loopSoundName = "empty";
-    
     for (i in [game.iconP1, game.iconP2, game.timeTxt, game.timeBar, game.timeBarBG, game.healthBar, game.healthBarBG]) {
         i.visible = false;
     }
@@ -159,19 +155,5 @@ function onEvent(name:String, v1:String, v2:String) //Leth im gonna kill u for w
 
 function onGameOverStart() 
 {
-    var vgvideo = new PsychVideoSprite();
-    vgvideo.addCallback('onFormat',()->{
-        vgvideo.setGraphicSize(0,FlxG.height);
-        vgvideo.updateHitbox();
-        vgvideo.screenCenter();
-        vgvideo.antialiasing = true;
-        vgvideo.cameras = [game.camOther];
-    });
-    vgvideo.addCallback('onEnd',()->{
-        FlxG.resetState();
-    });
-    vgvideo.load(Paths.video("otc_gameover"));
-    vgvideo.play();
-    GameOverSubstate.instance.add(vgvideo);
-    GameOverSubstate.instance.boyfriend.alpha = 0;
+    setGameOverVideo('otc_gameover');
 }

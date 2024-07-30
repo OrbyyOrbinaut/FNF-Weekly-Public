@@ -27,10 +27,6 @@ function onLoad(){
 }
 
 function onCreatePost(){
-    GameOverSubstate.endSoundName = "empty";
-    GameOverSubstate.deathSoundName = "empty";
-    GameOverSubstate.loopSoundName = "empty";
-    
     dadPos = [game.dad.x, game.dad.y];
     ringPos = [ring.x, ring.y + 100];
 
@@ -52,19 +48,5 @@ function onUpdate(elapsed){
 
 function onGameOverStart() 
 {
-    var vgvideo = new PsychVideoSprite();
-    vgvideo.addCallback('onFormat',()->{
-        vgvideo.setGraphicSize(0,FlxG.height);
-        vgvideo.updateHitbox();
-        vgvideo.screenCenter();
-        vgvideo.antialiasing = true;
-        vgvideo.cameras = [game.camOther];
-    });
-    vgvideo.addCallback('onEnd',()->{
-        FlxG.resetState();
-    });
-    vgvideo.load(Paths.video("shaggy"));
-    vgvideo.play();
-    GameOverSubstate.instance.add(vgvideo);
-    GameOverSubstate.instance.boyfriend.alpha = 0;
+    setGameOverVideo('shaggy');
 }

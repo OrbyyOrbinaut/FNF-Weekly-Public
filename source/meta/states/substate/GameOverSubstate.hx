@@ -19,7 +19,7 @@ class GameOverSubstate extends MusicBeatSubstate
 	var camFollow:FlxPoint;
 	var camFollowPos:FlxObject;
 	var updateCamera:Bool = false;
-	var playingDeathSound:Bool = false;
+	var hasStartedDeathSound:Bool = false;
 
 	var stageSuffix:String = "";
 
@@ -28,6 +28,9 @@ class GameOverSubstate extends MusicBeatSubstate
 	public static var loopSoundName:String = 'gameOver';
 	public static var endSoundName:String = 'gameOverEnd';
 
+	public static var video:Null<PsychVideoSprite> = null;
+	public static var isVideo:Bool = false;
+
 	public static var instance:GameOverSubstate;
 
 	public static function resetVariables() {
@@ -35,6 +38,9 @@ class GameOverSubstate extends MusicBeatSubstate
 		deathSoundName = 'fnf_loss_sfx';
 		loopSoundName = 'gameOver';
 		endSoundName = 'gameOverEnd';
+
+		video = null;
+		isVideo = false;
 	}
 
 	override function create()
@@ -60,7 +66,6 @@ class GameOverSubstate extends MusicBeatSubstate
 
 		camFollow = new FlxPoint(boyfriend.getGraphicMidpoint().x, boyfriend.getGraphicMidpoint().y);
 
-		if (deathSoundName != 'empty') FlxG.sound.play(Paths.sound(deathSoundName));
 		Conductor.changeBPM(100);
 		// FlxG.camera.followLerp = 1;
 		// FlxG.camera.focusOn(FlxPoint.get(FlxG.width / 2, FlxG.height / 2));
@@ -74,6 +79,34 @@ class GameOverSubstate extends MusicBeatSubstate
 		add(camFollowPos);
 	}
 
+	public function setGameOverVideo(name:String) // called in hscript
+	{
+		isVideo = true;
+
+		endSoundName = "empty";
+		deathSoundName = "empty";
+		loopSoundName = "empty";
+
+		boyfriend.visible = false;
+
+		video = new PsychVideoSprite();
+
+		video.addCallback('onFormat',()->{
+			video.setGraphicSize(0, FlxG.height);
+			video.updateHitbox();
+			video.screenCenter();
+			video.antialiasing = true;
+			video.cameras = [PlayState.instance.camOther];
+		});
+		video.addCallback('onEnd',()->{
+			FlxG.resetState();
+		});
+
+		video.load(Paths.video(name));
+		video.play();
+		add(video);
+	}
+
 	var isFollowingAlready:Bool = false;
 	override function update(elapsed:Float)
 	{
@@ -82,6 +115,7 @@ class GameOverSubstate extends MusicBeatSubstate
 		super.update(elapsed);
 
 		PlayState.instance.callOnScripts('onUpdatePost', [elapsed]);
+
 		if(updateCamera) {
 			var lerpVal:Float = CoolUtil.boundTo(elapsed * 0.6, 0, 1);
 			camFollowPos.setPosition(FlxMath.lerp(camFollowPos.x, camFollow.x, lerpVal), FlxMath.lerp(camFollowPos.y, camFollow.y, lerpVal));
@@ -107,6 +141,11 @@ class GameOverSubstate extends MusicBeatSubstate
 
 		if (boyfriend.animation.curAnim.name == 'firstDeath')
 		{
+			if (!hasStartedDeathSound) {
+				if (deathSoundName != 'empty') FlxG.sound.play(Paths.sound(deathSoundName));
+				hasStartedDeathSound = true;
+			}
+
 			if(boyfriend.animation.curAnim.curFrame >= 12 && !isFollowingAlready)
 			{
 				FlxG.camera.follow(camFollowPos, LOCKON, 1);
@@ -114,7 +153,7 @@ class GameOverSubstate extends MusicBeatSubstate
 				isFollowingAlready = true;
 			}
 
-			if (boyfriend.animation.curAnim.finished && !playingDeathSound)
+			if (boyfriend.animation.curAnim.finished)
 			{			
 				coolStartDeath();
 				boyfriend.startedDeath = true;
@@ -153,18 +192,24 @@ class GameOverSubstate extends MusicBeatSubstate
 		if (!isEnding)
 		{
 			isEnding = true;
-			boyfriend.playAnim('deathConfirm', true);
-			FlxG.sound.music.stop();
-			if (endSoundName != 'empty')
-				FlxG.sound.play(Paths.music(endSoundName));
-			new FlxTimer().start(0.7, function(tmr:FlxTimer)
-			{
-				FlxG.camera.fade(FlxColor.BLACK, 2, false, function()
+			
+			if (isVideo) MusicBeatState.resetState();
+
+			else {
+				boyfriend.playAnim('deathConfirm', true);
+				FlxG.sound.music.stop();
+				if (endSoundName != 'empty')
+					FlxG.sound.play(Paths.music(endSoundName));
+				new FlxTimer().start(0.7, function(tmr:FlxTimer)
 				{
-					MusicBeatState.resetState();
+					FlxG.camera.fade(FlxColor.BLACK, 2, false, function()
+					{
+						MusicBeatState.resetState();
+					});
 				});
-			});
-			PlayState.instance.callOnLuas('onGameOverConfirm', [true]);
+				PlayState.instance.callOnLuas('onGameOverConfirm', [true]);
+			}
+			
 		}
 	}
 }

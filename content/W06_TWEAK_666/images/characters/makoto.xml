@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="makoto.png" width="2048" height="1024">
+  <SubTexture name="makotoup" x="2" y="2" width="560" height="238" rotated="true"  frameX="-0" frameY="-0" frameWidth="238" frameHeight="560"/>
+  <SubTexture name="makotoidle" x="566" y="2" width="537" height="285" rotated="true"  frameX="-0" frameY="-0" frameWidth="285" frameHeight="537"/>
+  <SubTexture name="makotoright" x="1107" y="2" width="534" height="296" rotated="true"  frameX="-0" frameY="-0" frameWidth="296" frameHeight="534"/>
+  <SubTexture name="makotodown" x="1645" y="2"  width="300" height="510" frameX="-0" frameY="-0" frameWidth="300" frameHeight="510"/>
+  <SubTexture name="makotoleft" x="2" y="244" width="529" height="309" rotated="true"  frameX="-0" frameY="-0" frameWidth="309" frameHeight="529"/>
+</TextureAtlas>

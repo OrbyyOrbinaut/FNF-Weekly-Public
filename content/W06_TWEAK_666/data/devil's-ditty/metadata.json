@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Devil's Ditty",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Cloverderus", "theWAHbox"],
+        "chart" : ["Cloverderus"],
+        "art" : ["DerpDrawz"],
+        "code" : ["Flaguieug", "OrbyyOrbinaut"],
+        "va" : null
+    }
+}

@@ -194,27 +194,10 @@ function onUpdatePost(elapsed) {
 function onCreatePost() {
 
     game.scoreTxt.color = 0xFFAD1919;
-    GameOverSubstate.endSoundName = "empty";
-    GameOverSubstate.deathSoundName = "empty";
-    GameOverSubstate.loopSoundName = "empty";
     
     game.snapCamFollowToPos(100, 75);
 }
 function onGameOverStart() 
     {
-        var vgvideo = new PsychVideoSprite();
-        vgvideo.addCallback('onFormat',()->{
-            vgvideo.setGraphicSize(0,FlxG.height);
-            vgvideo.updateHitbox();
-            vgvideo.screenCenter();
-            vgvideo.antialiasing = true;
-            vgvideo.cameras = [game.camOther];
-        });
-        vgvideo.addCallback('onEnd',()->{
-            FlxG.resetState();
-        });
-        vgvideo.load(Paths.video(played));
-        vgvideo.play();
-        GameOverSubstate.instance.add(vgvideo);
-        GameOverSubstate.instance.boyfriend.alpha = 0;
+        setGameOverVideo(played);
     }

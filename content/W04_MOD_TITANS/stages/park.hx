@@ -45,30 +45,8 @@ function onCountdownTick(swagCounter){
     if(swagCounter % 2 == 0) crowd.animation.play('idle', true);
 }
 
-
-function onCreatePost()
-    {
-        GameOverSubstate.endSoundName = "empty";
-        GameOverSubstate.deathSoundName = "empty";
-        GameOverSubstate.loopSoundName = "empty";
-    }
-    
 function onGameOverStart() 
 {
-    var vgvideo = new PsychVideoSprite();
-    vgvideo.addCallback('onFormat',()->{
-        vgvideo.setGraphicSize(0,FlxG.height);
-        vgvideo.updateHitbox();
-        vgvideo.screenCenter();
-        vgvideo.antialiasing = true;
-        vgvideo.cameras = [game.camOther];
-    });
-    vgvideo.addCallback('onEnd',()->{
-        FlxG.resetState();
-    });
-    vgvideo.load(Paths.video("minus"));
-    vgvideo.play();
-    GameOverSubstate.instance.add(vgvideo);
-    GameOverSubstate.instance.boyfriend.alpha = 0;
+    setGameOverVideo('minus');
 }
 

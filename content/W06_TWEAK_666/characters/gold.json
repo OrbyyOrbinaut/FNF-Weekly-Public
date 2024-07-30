@@ -1,0 +1,129 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gold_idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-57
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gold_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-106
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gold_down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				79
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gold_up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-32
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gold_right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "gold_intro0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-13
+			],
+			"anim": "no more",
+			"fps": 24,
+			"name": "gold_no more0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-13
+			],
+			"anim": "tweak",
+			"fps": 24,
+			"name": "gold_tweak0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				-13
+			],
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "tweak-loop",
+			"loop": true,
+			"name": "gold_tweak0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gold",
+	"position": [
+		110,
+		240
+	],
+	"healthicon": "gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		-140,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

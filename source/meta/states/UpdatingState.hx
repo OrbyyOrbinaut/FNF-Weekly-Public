@@ -103,7 +103,7 @@ class UpdatingState extends MusicBeatState
 	override function create()
 	{
 	// Heres The link to change - cross
-        var http = new haxe.Http("https://raw.githubusercontent.com/Crossknife/FNF-Weekly-Test/main/VERSION.txt");
+        var http = new haxe.Http("https://raw.githubusercontent.com/OrbyyOrbinaut/FNF-Weekly-Public/main/VERSION.txt");
         // link to the Github txt that tells you the version
         // ("https://raw.githubusercontent.com/Crossknife/FNF-Weekly-TEST/main/VERSION.txt");
         // do rawgithub

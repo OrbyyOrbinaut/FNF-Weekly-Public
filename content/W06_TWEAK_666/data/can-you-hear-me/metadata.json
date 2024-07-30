@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "CAN YOU HEAR ME",
+        "expandBeat" : 48,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Dollie", "kloogybaboogy"],
+        "chart" : ["kloogybaboogy", "lemlem_mew"],
+        "art" : ["KatAnims", "DerpDrawz"],
+        "code" : ["Lethrial"],
+        "va" : ["kloogybaboogy"]
+    }
+}

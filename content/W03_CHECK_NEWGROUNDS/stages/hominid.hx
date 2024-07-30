@@ -48,9 +48,6 @@ function onLoad()
 
 function onCreatePost() 
 {
-    GameOverSubstate.endSoundName = "empty";
-    GameOverSubstate.deathSoundName = "empty";
-    GameOverSubstate.loopSoundName = "empty";
     game.snapCamFollowToPos(675, 375);
 }
 
@@ -84,19 +81,5 @@ function onEvent(name, v1, v2)
 
 function onGameOverStart() 
 {
-    var vgvideo = new PsychVideoSprite();
-    vgvideo.addCallback('onFormat',()->{
-        vgvideo.setGraphicSize(0,FlxG.height);
-        vgvideo.updateHitbox();
-        vgvideo.screenCenter();
-        vgvideo.antialiasing = true;
-        vgvideo.cameras = [game.camOther];
-    });
-    vgvideo.addCallback('onEnd',()->{
-        FlxG.resetState();
-    });
-    vgvideo.load(Paths.video("alien"));
-    vgvideo.play();
-    GameOverSubstate.instance.add(vgvideo);
-    GameOverSubstate.instance.boyfriend.alpha = 0;
+    setGameOverVideo("alien");
 }

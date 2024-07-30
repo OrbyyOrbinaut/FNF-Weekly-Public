@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gold.png">
+	<!-- Created with Adobe Animate version 23.0.7.149 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gold_down0000" x="5" y="5" width="203" height="243" frameX="-2" frameY="-5" frameWidth="205" frameHeight="248"/>
+	<SubTexture name="gold_down0001" x="5" y="5" width="203" height="243" frameX="-2" frameY="-5" frameWidth="205" frameHeight="248"/>
+	<SubTexture name="gold_down0002" x="213" y="5" width="204" height="244" frameX="0" frameY="0" frameWidth="205" frameHeight="248"/>
+	<SubTexture name="gold_down0003" x="213" y="5" width="204" height="244" frameX="0" frameY="0" frameWidth="205" frameHeight="248"/>
+	<SubTexture name="gold_idle0000" x="422" y="5" width="219" height="294"/>
+	<SubTexture name="gold_idle0001" x="422" y="5" width="219" height="294"/>
+	<SubTexture name="gold_idle0002" x="646" y="5" width="219" height="294"/>
+	<SubTexture name="gold_idle0003" x="646" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0000" x="870" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0001" x="870" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0002" x="1094" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0003" x="1094" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0004" x="1318" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0005" x="1318" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0006" x="1542" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0007" x="1542" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0008" x="1766" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0009" x="1766" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0010" x="5" y="304" width="219" height="294"/>
+	<SubTexture name="gold_intro0011" x="5" y="304" width="219" height="294"/>
+	<SubTexture name="gold_intro0012" x="229" y="304" width="219" height="294"/>
+	<SubTexture name="gold_intro0013" x="229" y="304" width="219" height="294"/>
+	<SubTexture name="gold_intro0014" x="453" y="304" width="219" height="294"/>
+	<SubTexture name="gold_intro0015" x="453" y="304" width="219" height="294"/>
+	<SubTexture name="gold_intro0016" x="677" y="304" width="219" height="294"/>
+	<SubTexture name="gold_intro0017" x="677" y="304" width="219" height="294"/>
+	<SubTexture name="gold_intro0018" x="901" y="304" width="219" height="294"/>
+	<SubTexture name="gold_intro0019" x="901" y="304" width="219" height="294"/>
+	<SubTexture name="gold_intro0020" x="422" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0021" x="422" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0022" x="646" y="5" width="219" height="294"/>
+	<SubTexture name="gold_intro0023" x="646" y="5" width="219" height="294"/>
+	<SubTexture name="gold_left0000" x="1125" y="304" width="268" height="250" frameX="0" frameY="0" frameWidth="276" frameHeight="250"/>
+	<SubTexture name="gold_left0001" x="1125" y="304" width="268" height="250" frameX="0" frameY="0" frameWidth="276" frameHeight="250"/>
+	<SubTexture name="gold_left0002" x="1398" y="304" width="266" height="248" frameX="-10" frameY="-1" frameWidth="276" frameHeight="250"/>
+	<SubTexture name="gold_left0003" x="1398" y="304" width="266" height="248" frameX="-10" frameY="-1" frameWidth="276" frameHeight="250"/>
+	<SubTexture name="gold_no more0000" x="1669" y="304" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0001" x="5" y="603" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0002" x="232" y="603" width="224" height="282"/>
+	<SubTexture name="gold_no more0003" x="461" y="603" width="224" height="282"/>
+	<SubTexture name="gold_no more0004" x="690" y="603" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0005" x="917" y="603" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0006" x="1144" y="603" width="224" height="282"/>
+	<SubTexture name="gold_no more0007" x="1373" y="603" width="224" height="282"/>
+	<SubTexture name="gold_no more0008" x="1602" y="603" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0009" x="5" y="890" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0010" x="232" y="890" width="224" height="282"/>
+	<SubTexture name="gold_no more0011" x="461" y="890" width="224" height="282"/>
+	<SubTexture name="gold_no more0012" x="690" y="890" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0013" x="917" y="890" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0014" x="1144" y="890" width="224" height="282"/>
+	<SubTexture name="gold_no more0015" x="1144" y="890" width="224" height="282"/>
+	<SubTexture name="gold_no more0016" x="690" y="890" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0017" x="917" y="603" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0018" x="1373" y="890" width="224" height="282"/>
+	<SubTexture name="gold_no more0019" x="1373" y="890" width="224" height="282"/>
+	<SubTexture name="gold_no more0020" x="917" y="603" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0021" x="917" y="603" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0022" x="1373" y="890" width="224" height="282"/>
+	<SubTexture name="gold_no more0023" x="1373" y="890" width="224" height="282"/>
+	<SubTexture name="gold_no more0024" x="917" y="603" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0025" x="917" y="603" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0026" x="1373" y="603" width="224" height="282"/>
+	<SubTexture name="gold_no more0027" x="1373" y="603" width="224" height="282"/>
+	<SubTexture name="gold_no more0028" x="5" y="890" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0029" x="5" y="890" width="222" height="282" frameX="-1" frameY="0" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="gold_no more0030" x="1602" y="890" width="224" height="282"/>
+	<SubTexture name="gold_no more0031" x="1602" y="890" width="224" height="282"/>
+	<SubTexture name="gold_right0000" x="5" y="1177" width="224" height="269" frameX="-10" frameY="-6" frameWidth="234" frameHeight="275"/>
+	<SubTexture name="gold_right0001" x="5" y="1177" width="224" height="269" frameX="-10" frameY="-6" frameWidth="234" frameHeight="275"/>
+	<SubTexture name="gold_right0002" x="234" y="1177" width="227" height="275" frameX="0" frameY="0" frameWidth="234" frameHeight="275"/>
+	<SubTexture name="gold_right0003" x="234" y="1177" width="227" height="275" frameX="0" frameY="0" frameWidth="234" frameHeight="275"/>
+	<SubTexture name="gold_tweak0000" x="466" y="1177" width="217" height="282" frameX="-7" frameY="0" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0001" x="466" y="1177" width="217" height="282" frameX="-7" frameY="0" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0002" x="688" y="1177" width="225" height="278" frameX="0" frameY="-4" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0003" x="688" y="1177" width="225" height="278" frameX="0" frameY="-4" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0004" x="918" y="1177" width="223" height="279" frameX="-1" frameY="-3" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0005" x="918" y="1177" width="223" height="279" frameX="-1" frameY="-3" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0006" x="1146" y="1177" width="225" height="281" frameX="0" frameY="-1" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0007" x="1146" y="1177" width="225" height="281" frameX="0" frameY="-1" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0008" x="1376" y="1177" width="222" height="282" frameX="-2" frameY="0" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0009" x="1376" y="1177" width="222" height="282" frameX="-2" frameY="0" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0010" x="1603" y="1177" width="224" height="282" frameX="-1" frameY="0" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0011" x="1603" y="1177" width="224" height="282" frameX="-1" frameY="0" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0012" x="1376" y="1177" width="222" height="282" frameX="-2" frameY="0" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0013" x="1376" y="1177" width="222" height="282" frameX="-2" frameY="0" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0014" x="1603" y="1177" width="224" height="282" frameX="-1" frameY="0" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_tweak0015" x="1603" y="1177" width="224" height="282" frameX="-1" frameY="0" frameWidth="225" frameHeight="282"/>
+	<SubTexture name="gold_up0000" x="5" y="1464" width="244" height="346" frameX="-4" frameY="0" frameWidth="248" frameHeight="351"/>
+	<SubTexture name="gold_up0001" x="5" y="1464" width="244" height="346" frameX="-4" frameY="0" frameWidth="248" frameHeight="351"/>
+	<SubTexture name="gold_up0002" x="254" y="1464" width="243" height="342" frameX="0" frameY="-9" frameWidth="248" frameHeight="351"/>
+	<SubTexture name="gold_up0003" x="254" y="1464" width="243" height="342" frameX="0" frameY="-9" frameWidth="248" frameHeight="351"/>
+</TextureAtlas>

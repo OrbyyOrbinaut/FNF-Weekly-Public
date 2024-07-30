@@ -10,9 +10,6 @@ function onLoad() {
 }   
 
 function onCreatePost(){
-    GameOverSubstate.endSoundName = "empty";
-    GameOverSubstate.deathSoundName = "empty";
-    GameOverSubstate.loopSoundName = "empty";
     game.snapCamFollowToPos(790, 509);
     game.isCameraOnForcedPos = true;
     modManager.setValue("opponentSwap", 1);
@@ -64,21 +61,7 @@ function onEvent(eventName, value1, value2){
 
 function onGameOverStart() 
     {
-        var vgvideo = new PsychVideoSprite();
-        vgvideo.addCallback('onFormat',()->{
-            vgvideo.setGraphicSize(0,FlxG.height);
-            vgvideo.updateHitbox();
-            vgvideo.screenCenter();
-            vgvideo.antialiasing = true;
-            vgvideo.cameras = [game.camOther];
-        });
-        vgvideo.addCallback('onEnd',()->{
-            FlxG.resetState();
-        });
-        vgvideo.load(Paths.video("termina_gameover"));
-        vgvideo.play();
-        GameOverSubstate.instance.add(vgvideo);
-        GameOverSubstate.instance.boyfriend.alpha = 0;
+        setGameOverVideo("termina_gameover");
     }
 
 var s:Float = 1;

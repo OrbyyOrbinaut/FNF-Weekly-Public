@@ -28,10 +28,6 @@ function onLoad() {
 }
 
 function onCreatePost(){
-    GameOverSubstate.endSoundName = "empty";
-    GameOverSubstate.deathSoundName = "empty";
-    GameOverSubstate.loopSoundName = "empty";
-
     game.snapCamFollowToPos(3475, 1000);
 }
 
@@ -62,19 +58,5 @@ function onEvent(name:String, v1:String, v2:String)
 
 function onGameOverStart() 
 {
-    var vgvideo = new PsychVideoSprite();
-    vgvideo.addCallback('onFormat',()->{
-        vgvideo.setGraphicSize(0,FlxG.height);
-        vgvideo.updateHitbox();
-        vgvideo.screenCenter();
-        vgvideo.antialiasing = true;
-        vgvideo.cameras = [game.camOther];
-    });
-    vgvideo.addCallback('onEnd',()->{
-        FlxG.resetState();
-    });
-    vgvideo.load(Paths.video("parappa_gameover"));
-    vgvideo.play();
-    GameOverSubstate.instance.add(vgvideo);
-    GameOverSubstate.instance.boyfriend.alpha = 0;
+    setGameOverVideo("parappa_gameover");
 }

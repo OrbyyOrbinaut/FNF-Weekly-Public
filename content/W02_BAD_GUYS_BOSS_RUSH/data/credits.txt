@@ -1,10 +1,10 @@
 TWEAK 2 - BAD GUYS BOSS RUSH
-Biddle3::Biddle3::Composer of "Dustloop"::https://x.com/thedawg3_
+Biddle3::Biddle3::Composer of "Dustloop"::https://x.com/thedawg3_::0xFFFFAF64
 Ito Saihara::ItoSaihara::All Visuals of "Dustloop", Voice of Spiderman::https://x.com/ItoSaihara_::0xFFFFAF64
-ultraspicyspray::Akari::Spiderman Victory Screen Render, Boswer JR Concepts::https://x.com/ultraspicyspray::0xFFFFAF64
+ultraspicyspray::ultra::Spiderman Victory Screen Render, Boswer JR Concepts::https://x.com/ultraspicyspray::0xFFFFAF64
 Flaguieug::Flaguieug::Programmer of "Dustloop"::https://x.com/Flaguieug::0xFFFFAF64
 Srife5::Srife5::Charter of "Dustloop"::https://x.com/strife55::0xFFFFAF64
-maddiesmiles::MaddieSmiles::Composer of "Pirate Indie Games"::https://x.com/maddiesmiles_
+maddiesmiles::MaddieSmiles::Composer of "Pirate Indie Games"::https://x.com/maddiesmiles_::0xFFFFAF64
 KloogyBaboogy::KloogyBaboogy::"Lyricist of "Pirate Indie Games", Voice of Spamton, Venom, Mithrix & PVZ Zombie::https://x.com/kloogybaboogy::0xFFFFAF64
 KatAnims::KatAnims::All Visuals of "Pirate Indie Games"::https://x.com/KatAnims::0xFFFFAF64
 Lethrial::Lethrial::Programmer of "Pirate Indie Games"::https://x.com/lethrial::0xFFFFAF64

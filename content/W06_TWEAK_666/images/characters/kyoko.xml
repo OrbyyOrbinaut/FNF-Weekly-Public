@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="kyoko.png" width="2048" height="1024">
+  <SubTexture name="kyokodown" x="2" y="2" width="568" height="319" rotated="true"  frameX="-0" frameY="-0" frameWidth="319" frameHeight="568"/>
+  <SubTexture name="kyokoidle" x="574" y="2" width="568" height="319" rotated="true"  frameX="-0" frameY="-0" frameWidth="319" frameHeight="568"/>
+  <SubTexture name="kyokoleft" x="1146" y="2" width="568" height="319" rotated="true"  frameX="-0" frameY="-0" frameWidth="319" frameHeight="568"/>
+  <SubTexture name="kyokoright" x="1718" y="2"  width="319" height="568" frameX="-0" frameY="-0" frameWidth="319" frameHeight="568"/>
+  <SubTexture name="kyokoup" x="2" y="325" width="568" height="319" rotated="true"  frameX="-0" frameY="-0" frameWidth="319" frameHeight="568"/>
+</TextureAtlas>

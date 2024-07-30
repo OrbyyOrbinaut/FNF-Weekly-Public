@@ -1,0 +1,121 @@
+{
+	"song": {
+		"events": [
+			[
+				6589.59537572254,
+				[
+					[
+						"Spawn Popup Window",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				44393.063583815,
+				[
+					[
+						"Black",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				47167.6300578034,
+				[
+					[
+						"Black",
+						"off",
+						""
+					],
+					[
+						"Kinito Phase",
+						"scary",
+						""
+					]
+				]
+			],
+			[
+				69364.161849711,
+				[
+					[
+						"Black",
+						"on",
+						"camgame"
+					],
+					[
+						"Kinito Phase",
+						"tsf7",
+						""
+					]
+				]
+			],
+			[
+				90173.4104046242,
+				[
+					[
+						"Kinito Phase",
+						"move tweakfan",
+						""
+					]
+				]
+			],
+			[
+				91560.6936416185,
+				[
+					[
+						"Kinito Phase",
+						"normal",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"kinito-3d"
+					],
+					[
+						"Black",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				98150.289017341,
+				[
+					[
+						"Spawn Popup Window",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				113757.225433526,
+				[
+					[
+						"Kinito Phase",
+						"lights out",
+						""
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				114710.982658959,
+				[
+					[
+						"Kinito Phase",
+						"bye",
+						""
+					]
+				]
+			]
+		]
+	}
+}

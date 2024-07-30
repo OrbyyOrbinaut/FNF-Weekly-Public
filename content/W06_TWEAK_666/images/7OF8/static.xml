@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="static.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="static0000" x="5" y="5" width="3000" height="1688"/>
+	<SubTexture name="static0001" x="5" y="5" width="3000" height="1688"/>
+	<SubTexture name="static0002" x="5" y="5" width="3000" height="1688"/>
+	<SubTexture name="static0003" x="5" y="5" width="3000" height="1688"/>
+	<SubTexture name="static0004" x="3010" y="5" width="3000" height="1688"/>
+	<SubTexture name="static0005" x="3010" y="5" width="3000" height="1688"/>
+	<SubTexture name="static0006" x="3010" y="5" width="3000" height="1688"/>
+	<SubTexture name="static0007" x="3010" y="5" width="3000" height="1688"/>
+	<SubTexture name="static0008" x="5" y="1698" width="3000" height="1688"/>
+	<SubTexture name="static0009" x="5" y="1698" width="3000" height="1688"/>
+	<SubTexture name="static0010" x="5" y="1698" width="3000" height="1688"/>
+	<SubTexture name="static0011" x="5" y="1698" width="3000" height="1688"/>
+	<SubTexture name="static0012" x="3010" y="1698" width="3000" height="1688"/>
+	<SubTexture name="static0013" x="3010" y="1698" width="3000" height="1688"/>
+	<SubTexture name="static0014" x="3010" y="1698" width="3000" height="1688"/>
+	<SubTexture name="static0015" x="3010" y="1698" width="3000" height="1688"/>
+</TextureAtlas>

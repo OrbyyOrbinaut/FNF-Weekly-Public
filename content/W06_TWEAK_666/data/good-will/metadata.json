@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Good Will",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["niffirg"],
+        "chart" : ["Kye_VL"],
+        "art" : ["Dollie", "OrbyyOrbinaut", "KatAnims", "lemlem_mew"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}
