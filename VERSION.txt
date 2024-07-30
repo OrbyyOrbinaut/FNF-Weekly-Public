@@ -1,2 +1,2 @@
 Tweak 6
-https://github.com/OrbyyOrbinaut/FNF-Weekly-Public/releases/download/v6.0.0/FNF.Weekly.zip
+https://github.com/OrbyyOrbinaut/FNF-Weekly-Public/releases/download/6.0.0/FNF.Weekly.zip
