@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="domo.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="domo0000" x="5" y="5" width="278" height="388" pivotX="141.45" pivotY="196.5"/>
+	<SubTexture name="domo0001" x="5" y="5" width="278" height="388"/>
+	<SubTexture name="domo0002" x="5" y="5" width="278" height="388"/>
+	<SubTexture name="domo0003" x="5" y="5" width="278" height="388"/>
+	<SubTexture name="domo0004" x="283" y="5" width="278" height="388"/>
+	<SubTexture name="domo0005" x="283" y="5" width="278" height="388"/>
+	<SubTexture name="domo0006" x="283" y="5" width="278" height="388"/>
+	<SubTexture name="domo0007" x="283" y="5" width="278" height="388"/>
+</TextureAtlas>

@@ -57,8 +57,14 @@ class UpdatingState extends MusicBeatState
 
     public function install() {
         //deleteDirRecursively(sWfolderB + 'content');
+        var sWfolder = Sys.programPath();
+        sWfolder = sWfolder.split("FNFWeekly.exe")[0];
+        sWfolderB = '"' + Std.string(sWfolder);
+        sWfolderB = sWfolderB + 'assets\\cmdpostupdate\\closeGM.bat"';
         Paths.clearUnusedMemory();
-        Sys.command(sWfolderB + 'assets\\cmdpostupdate\\closeGM.bat');
+        trace('syscommand : ' + sWfolderB);
+        Sys.command(sWfolderB);
+        trace('here im command');
         Sys.exit(0);
     }
 

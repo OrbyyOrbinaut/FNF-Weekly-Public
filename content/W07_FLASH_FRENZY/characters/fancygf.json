@@ -1,0 +1,38 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fancygf",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "fancypants",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		200,
+		200
+	],
+	"camera_position": [
+		30,
+		90
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alucard_assets.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downALU0000" x="5" y="5" width="114" height="108" frameX="0" frameY="-2" frameWidth="114" frameHeight="110"/>
+	<SubTexture name="downALU0001" x="5" y="5" width="114" height="108" frameX="0" frameY="-2" frameWidth="114" frameHeight="110"/>
+	<SubTexture name="downALU0002" x="124" y="5" width="111" height="110" frameX="-1" frameY="0" frameWidth="114" frameHeight="110"/>
+	<SubTexture name="downALU0003" x="124" y="5" width="111" height="110" frameX="-1" frameY="0" frameWidth="114" frameHeight="110"/>
+	<SubTexture name="downALU0004" x="124" y="5" width="111" height="110" frameX="-1" frameY="0" frameWidth="114" frameHeight="110"/>
+	<SubTexture name="downALU0005" x="124" y="5" width="111" height="110" frameX="-1" frameY="0" frameWidth="114" frameHeight="110"/>
+	<SubTexture name="downALU0006" x="124" y="5" width="111" height="110" frameX="-1" frameY="0" frameWidth="114" frameHeight="110"/>
+	<SubTexture name="downALU0007" x="124" y="5" width="111" height="110" frameX="-1" frameY="0" frameWidth="114" frameHeight="110"/>
+	<SubTexture name="downALU0008" x="124" y="5" width="111" height="110" frameX="-1" frameY="0" frameWidth="114" frameHeight="110"/>
+	<SubTexture name="downALU0009" x="124" y="5" width="111" height="110" frameX="-1" frameY="0" frameWidth="114" frameHeight="110"/>
+	<SubTexture name="downALU0010" x="124" y="5" width="111" height="110" frameX="-1" frameY="0" frameWidth="114" frameHeight="110"/>
+	<SubTexture name="idleALU0000" x="240" y="5" width="102" height="113" frameX="-7" frameY="-5" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0001" x="240" y="5" width="102" height="113" frameX="-7" frameY="-5" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0002" x="347" y="5" width="100" height="115" frameX="-8" frameY="-3" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0003" x="347" y="5" width="100" height="115" frameX="-8" frameY="-3" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0004" x="5" y="125" width="98" height="116" frameX="-9" frameY="-1" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0005" x="5" y="125" width="98" height="116" frameX="-9" frameY="-1" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0006" x="108" y="125" width="100" height="117" frameX="-7" frameY="0" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0007" x="108" y="125" width="100" height="117" frameX="-7" frameY="0" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0008" x="213" y="125" width="112" height="117" frameX="0" frameY="0" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0009" x="213" y="125" width="112" height="117" frameX="0" frameY="0" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0010" x="330" y="125" width="98" height="117" frameX="-9" frameY="0" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0011" x="330" y="125" width="98" height="117" frameX="-9" frameY="0" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0012" x="5" y="247" width="98" height="117" frameX="-9" frameY="0" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0013" x="5" y="247" width="98" height="117" frameX="-9" frameY="0" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0014" x="108" y="247" width="98" height="117" frameX="-9" frameY="0" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="idleALU0015" x="108" y="247" width="98" height="117" frameX="-9" frameY="0" frameWidth="112" frameHeight="118"/>
+	<SubTexture name="leftALU0000" x="211" y="247" width="112" height="124"/>
+	<SubTexture name="leftALU0001" x="211" y="247" width="112" height="124"/>
+	<SubTexture name="leftALU0002" x="328" y="247" width="109" height="121" frameX="-3" frameY="-3" frameWidth="112" frameHeight="124"/>
+	<SubTexture name="leftALU0003" x="328" y="247" width="109" height="121" frameX="-3" frameY="-3" frameWidth="112" frameHeight="124"/>
+	<SubTexture name="leftALU0004" x="328" y="247" width="109" height="121" frameX="-3" frameY="-3" frameWidth="112" frameHeight="124"/>
+	<SubTexture name="leftALU0005" x="328" y="247" width="109" height="121" frameX="-3" frameY="-3" frameWidth="112" frameHeight="124"/>
+	<SubTexture name="leftALU0006" x="328" y="247" width="109" height="121" frameX="-3" frameY="-3" frameWidth="112" frameHeight="124"/>
+	<SubTexture name="leftALU0007" x="328" y="247" width="109" height="121" frameX="-3" frameY="-3" frameWidth="112" frameHeight="124"/>
+	<SubTexture name="leftALU0008" x="328" y="247" width="109" height="121" frameX="-3" frameY="-3" frameWidth="112" frameHeight="124"/>
+	<SubTexture name="leftALU0009" x="328" y="247" width="109" height="121" frameX="-3" frameY="-3" frameWidth="112" frameHeight="124"/>
+	<SubTexture name="leftALU0010" x="328" y="247" width="109" height="121" frameX="-3" frameY="-3" frameWidth="112" frameHeight="124"/>
+	<SubTexture name="rightALU0000" x="5" y="376" width="112" height="126"/>
+	<SubTexture name="rightALU0001" x="5" y="376" width="112" height="126"/>
+	<SubTexture name="rightALU0002" x="122" y="376" width="109" height="123" frameX="-1" frameY="-3" frameWidth="112" frameHeight="126"/>
+	<SubTexture name="rightALU0003" x="122" y="376" width="109" height="123" frameX="-1" frameY="-3" frameWidth="112" frameHeight="126"/>
+	<SubTexture name="rightALU0004" x="122" y="376" width="109" height="123" frameX="-1" frameY="-3" frameWidth="112" frameHeight="126"/>
+	<SubTexture name="rightALU0005" x="122" y="376" width="109" height="123" frameX="-1" frameY="-3" frameWidth="112" frameHeight="126"/>
+	<SubTexture name="rightALU0006" x="122" y="376" width="109" height="123" frameX="-1" frameY="-3" frameWidth="112" frameHeight="126"/>
+	<SubTexture name="rightALU0007" x="122" y="376" width="109" height="123" frameX="-1" frameY="-3" frameWidth="112" frameHeight="126"/>
+	<SubTexture name="rightALU0008" x="122" y="376" width="109" height="123" frameX="-1" frameY="-3" frameWidth="112" frameHeight="126"/>
+	<SubTexture name="rightALU0009" x="122" y="376" width="109" height="123" frameX="-1" frameY="-3" frameWidth="112" frameHeight="126"/>
+	<SubTexture name="rightALU0010" x="122" y="376" width="109" height="123" frameX="-1" frameY="-3" frameWidth="112" frameHeight="126"/>
+	<SubTexture name="upALU0000" x="236" y="376" width="103" height="124" frameX="-1" frameY="0" frameWidth="105" frameHeight="124"/>
+	<SubTexture name="upALU0001" x="236" y="376" width="103" height="124" frameX="-1" frameY="0" frameWidth="105" frameHeight="124"/>
+	<SubTexture name="upALU0002" x="344" y="376" width="105" height="117" frameX="0" frameY="-6" frameWidth="105" frameHeight="124"/>
+	<SubTexture name="upALU0003" x="344" y="376" width="105" height="117" frameX="0" frameY="-6" frameWidth="105" frameHeight="124"/>
+	<SubTexture name="upALU0004" x="344" y="376" width="105" height="117" frameX="0" frameY="-6" frameWidth="105" frameHeight="124"/>
+	<SubTexture name="upALU0005" x="344" y="376" width="105" height="117" frameX="0" frameY="-6" frameWidth="105" frameHeight="124"/>
+	<SubTexture name="upALU0006" x="344" y="376" width="105" height="117" frameX="0" frameY="-6" frameWidth="105" frameHeight="124"/>
+	<SubTexture name="upALU0007" x="344" y="376" width="105" height="117" frameX="0" frameY="-6" frameWidth="105" frameHeight="124"/>
+	<SubTexture name="upALU0008" x="344" y="376" width="105" height="117" frameX="0" frameY="-6" frameWidth="105" frameHeight="124"/>
+	<SubTexture name="upALU0009" x="344" y="376" width="105" height="117" frameX="0" frameY="-6" frameWidth="105" frameHeight="124"/>
+	<SubTexture name="upALU0010" x="344" y="376" width="105" height="117" frameX="0" frameY="-6" frameWidth="105" frameHeight="124"/>
+</TextureAtlas>

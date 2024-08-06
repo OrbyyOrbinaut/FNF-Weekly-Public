@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Evolution",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Kreagato"],
+        "chart" : ["Srife5"],
+        "art" : ["DerpDrawz", "Alphalul1"],
+        "code" : ["Srife5"],
+        "va" : null
+    }
+}

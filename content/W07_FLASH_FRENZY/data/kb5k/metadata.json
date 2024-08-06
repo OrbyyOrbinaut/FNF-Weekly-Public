@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "KB5K",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["CrossKnife", "MaimyMayo"],
+        "chart" : ["Cloverderus"],
+        "art" : ["OrbyyOrbinaut", "TGG"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

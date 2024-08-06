@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Brilliance", "alucard", [51, 48, 86]],
+		["Lifeless", "bluebaby", [72, 85, 109]],
+		["Doodlequest", "pants", [255, 153, 0]],
+		["KB5K", "aeon", [0, 255, 77]],
+		["Evolution", "duckb", [79, 79, 79]],
+		["Legend", "herobrine", [34, 186, 221]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Tweak 7",
+	"weekBefore": "",
+	"weekName": "Tweak 7",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weeklogo": "Y2Krazy"
+}

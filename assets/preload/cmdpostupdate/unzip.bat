@@ -7,3 +7,4 @@ tar.exe -xf FNF.Weekly.zip
 DEL FNF.Weekly.zip
 echo Now Open Your Game
 pause
+exit

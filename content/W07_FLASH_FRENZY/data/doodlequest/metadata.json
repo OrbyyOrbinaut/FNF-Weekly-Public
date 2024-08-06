@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Doodlequest",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["niffirg"],
+        "chart" : ["niffirg"],
+        "art" : ["kloogybaboogy", "Jam"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

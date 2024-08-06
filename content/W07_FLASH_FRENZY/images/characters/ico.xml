@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ico.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downMISS0000" x="5" y="5" width="139" height="116" frameX="0" frameY="-3" frameWidth="139" frameHeight="119"/>
+	<SubTexture name="downMISS0001" x="149" y="5" width="136" height="110" frameX="-2" frameY="0" frameWidth="139" frameHeight="119"/>
+	<SubTexture name="downMISS0002" x="149" y="5" width="136" height="110" frameX="-2" frameY="0" frameWidth="139" frameHeight="119"/>
+	<SubTexture name="downMISS0003" x="149" y="5" width="136" height="110" frameX="-2" frameY="0" frameWidth="139" frameHeight="119"/>
+	<SubTexture name="downMISS0004" x="149" y="5" width="136" height="110" frameX="-2" frameY="0" frameWidth="139" frameHeight="119"/>
+	<SubTexture name="downMISS0005" x="149" y="5" width="136" height="110" frameX="-2" frameY="0" frameWidth="139" frameHeight="119"/>
+	<SubTexture name="downMISS0006" x="149" y="5" width="136" height="110" frameX="-2" frameY="0" frameWidth="139" frameHeight="119"/>
+	<SubTexture name="downMISS0007" x="149" y="5" width="136" height="110" frameX="-2" frameY="0" frameWidth="139" frameHeight="119"/>
+	<SubTexture name="downMISS0008" x="149" y="5" width="136" height="110" frameX="-2" frameY="0" frameWidth="139" frameHeight="119"/>
+	<SubTexture name="downMISS0009" x="149" y="5" width="136" height="110" frameX="-2" frameY="0" frameWidth="139" frameHeight="119"/>
+	<SubTexture name="down_ico0000" x="290" y="5" width="139" height="116" frameX="-1" frameY="-3" frameWidth="142" frameHeight="119"/>
+	<SubTexture name="down_ico0001" x="290" y="5" width="139" height="116" frameX="-1" frameY="-3" frameWidth="142" frameHeight="119"/>
+	<SubTexture name="down_ico0002" x="434" y="5" width="142" height="117" frameX="0" frameY="0" frameWidth="142" frameHeight="119"/>
+	<SubTexture name="down_ico0003" x="434" y="5" width="142" height="117" frameX="0" frameY="0" frameWidth="142" frameHeight="119"/>
+	<SubTexture name="down_ico0004" x="434" y="5" width="142" height="117" frameX="0" frameY="0" frameWidth="142" frameHeight="119"/>
+	<SubTexture name="down_ico0005" x="434" y="5" width="142" height="117" frameX="0" frameY="0" frameWidth="142" frameHeight="119"/>
+	<SubTexture name="down_ico0006" x="434" y="5" width="142" height="117" frameX="0" frameY="0" frameWidth="142" frameHeight="119"/>
+	<SubTexture name="down_ico0007" x="434" y="5" width="142" height="117" frameX="0" frameY="0" frameWidth="142" frameHeight="119"/>
+	<SubTexture name="down_ico0008" x="434" y="5" width="142" height="117" frameX="0" frameY="0" frameWidth="142" frameHeight="119"/>
+	<SubTexture name="down_ico0009" x="434" y="5" width="142" height="117" frameX="0" frameY="0" frameWidth="142" frameHeight="119"/>
+	<SubTexture name="down_ico0010" x="434" y="5" width="142" height="117" frameX="0" frameY="0" frameWidth="142" frameHeight="119"/>
+	<SubTexture name="idle0000" x="581" y="5" width="92" height="111" frameX="0" frameY="-6" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0001" x="581" y="5" width="92" height="111" frameX="0" frameY="-6" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0002" x="678" y="5" width="92" height="111" frameX="0" frameY="-6" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0003" x="678" y="5" width="92" height="111" frameX="0" frameY="-6" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0004" x="775" y="5" width="88" height="114" frameX="-1" frameY="-2" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0005" x="775" y="5" width="88" height="114" frameX="-1" frameY="-2" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0006" x="868" y="5" width="88" height="116" frameX="-1" frameY="0" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0007" x="868" y="5" width="88" height="116" frameX="-1" frameY="0" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0008" x="5" y="127" width="88" height="116" frameX="-1" frameY="0" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0009" x="5" y="127" width="88" height="116" frameX="-1" frameY="0" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0010" x="98" y="127" width="88" height="116" frameX="-1" frameY="0" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0011" x="98" y="127" width="88" height="116" frameX="-1" frameY="0" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0012" x="191" y="127" width="88" height="116" frameX="-1" frameY="0" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0013" x="191" y="127" width="88" height="116" frameX="-1" frameY="0" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0014" x="191" y="127" width="88" height="116" frameX="-1" frameY="0" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="idle0015" x="191" y="127" width="88" height="116" frameX="-1" frameY="0" frameWidth="92" frameHeight="117"/>
+	<SubTexture name="leftMISS0000" x="284" y="127" width="109" height="125" frameX="-1" frameY="0" frameWidth="110" frameHeight="125"/>
+	<SubTexture name="leftMISS0001" x="398" y="127" width="108" height="117" frameX="0" frameY="-8" frameWidth="110" frameHeight="125"/>
+	<SubTexture name="leftMISS0002" x="398" y="127" width="108" height="117" frameX="0" frameY="-8" frameWidth="110" frameHeight="125"/>
+	<SubTexture name="leftMISS0003" x="398" y="127" width="108" height="117" frameX="0" frameY="-8" frameWidth="110" frameHeight="125"/>
+	<SubTexture name="leftMISS0004" x="398" y="127" width="108" height="117" frameX="0" frameY="-8" frameWidth="110" frameHeight="125"/>
+	<SubTexture name="leftMISS0005" x="398" y="127" width="108" height="117" frameX="0" frameY="-8" frameWidth="110" frameHeight="125"/>
+	<SubTexture name="leftMISS0006" x="398" y="127" width="108" height="117" frameX="0" frameY="-8" frameWidth="110" frameHeight="125"/>
+	<SubTexture name="leftMISS0007" x="398" y="127" width="108" height="117" frameX="0" frameY="-8" frameWidth="110" frameHeight="125"/>
+	<SubTexture name="leftMISS0008" x="398" y="127" width="108" height="117" frameX="0" frameY="-8" frameWidth="110" frameHeight="125"/>
+	<SubTexture name="leftMISS0009" x="398" y="127" width="108" height="117" frameX="0" frameY="-8" frameWidth="110" frameHeight="125"/>
+	<SubTexture name="left_ico0000" x="511" y="127" width="109" height="125"/>
+	<SubTexture name="left_ico0001" x="511" y="127" width="109" height="125"/>
+	<SubTexture name="left_ico0002" x="625" y="127" width="109" height="120" frameX="0" frameY="-5" frameWidth="109" frameHeight="125"/>
+	<SubTexture name="left_ico0003" x="625" y="127" width="109" height="120" frameX="0" frameY="-5" frameWidth="109" frameHeight="125"/>
+	<SubTexture name="left_ico0004" x="625" y="127" width="109" height="120" frameX="0" frameY="-5" frameWidth="109" frameHeight="125"/>
+	<SubTexture name="left_ico0005" x="625" y="127" width="109" height="120" frameX="0" frameY="-5" frameWidth="109" frameHeight="125"/>
+	<SubTexture name="left_ico0006" x="625" y="127" width="109" height="120" frameX="0" frameY="-5" frameWidth="109" frameHeight="125"/>
+	<SubTexture name="left_ico0007" x="625" y="127" width="109" height="120" frameX="0" frameY="-5" frameWidth="109" frameHeight="125"/>
+	<SubTexture name="left_ico0008" x="625" y="127" width="109" height="120" frameX="0" frameY="-5" frameWidth="109" frameHeight="125"/>
+	<SubTexture name="left_ico0009" x="625" y="127" width="109" height="120" frameX="0" frameY="-5" frameWidth="109" frameHeight="125"/>
+	<SubTexture name="left_ico0010" x="625" y="127" width="109" height="120" frameX="0" frameY="-5" frameWidth="109" frameHeight="125"/>
+	<SubTexture name="rightMISS0000" x="739" y="127" width="110" height="125" frameX="-7" frameY="0" frameWidth="117" frameHeight="125"/>
+	<SubTexture name="rightMISS0001" x="854" y="127" width="110" height="118" frameX="0" frameY="-6" frameWidth="117" frameHeight="125"/>
+	<SubTexture name="rightMISS0002" x="854" y="127" width="110" height="118" frameX="0" frameY="-6" frameWidth="117" frameHeight="125"/>
+	<SubTexture name="rightMISS0003" x="854" y="127" width="110" height="118" frameX="0" frameY="-6" frameWidth="117" frameHeight="125"/>
+	<SubTexture name="rightMISS0004" x="854" y="127" width="110" height="118" frameX="0" frameY="-6" frameWidth="117" frameHeight="125"/>
+	<SubTexture name="rightMISS0005" x="854" y="127" width="110" height="118" frameX="0" frameY="-6" frameWidth="117" frameHeight="125"/>
+	<SubTexture name="rightMISS0006" x="854" y="127" width="110" height="118" frameX="0" frameY="-6" frameWidth="117" frameHeight="125"/>
+	<SubTexture name="rightMISS0007" x="854" y="127" width="110" height="118" frameX="0" frameY="-6" frameWidth="117" frameHeight="125"/>
+	<SubTexture name="rightMISS0008" x="854" y="127" width="110" height="118" frameX="0" frameY="-6" frameWidth="117" frameHeight="125"/>
+	<SubTexture name="rightMISS0009" x="854" y="127" width="110" height="118" frameX="0" frameY="-6" frameWidth="117" frameHeight="125"/>
+	<SubTexture name="right_ico0000" x="5" y="257" width="110" height="125" frameX="-1" frameY="0" frameWidth="111" frameHeight="126"/>
+	<SubTexture name="right_ico0001" x="5" y="257" width="110" height="125" frameX="-1" frameY="0" frameWidth="111" frameHeight="126"/>
+	<SubTexture name="right_ico0002" x="120" y="257" width="109" height="124" frameX="0" frameY="-2" frameWidth="111" frameHeight="126"/>
+	<SubTexture name="right_ico0003" x="120" y="257" width="109" height="124" frameX="0" frameY="-2" frameWidth="111" frameHeight="126"/>
+	<SubTexture name="right_ico0004" x="120" y="257" width="109" height="124" frameX="0" frameY="-2" frameWidth="111" frameHeight="126"/>
+	<SubTexture name="right_ico0005" x="120" y="257" width="109" height="124" frameX="0" frameY="-2" frameWidth="111" frameHeight="126"/>
+	<SubTexture name="right_ico0006" x="120" y="257" width="109" height="124" frameX="0" frameY="-2" frameWidth="111" frameHeight="126"/>
+	<SubTexture name="right_ico0007" x="120" y="257" width="109" height="124" frameX="0" frameY="-2" frameWidth="111" frameHeight="126"/>
+	<SubTexture name="right_ico0008" x="120" y="257" width="109" height="124" frameX="0" frameY="-2" frameWidth="111" frameHeight="126"/>
+	<SubTexture name="right_ico0009" x="120" y="257" width="109" height="124" frameX="0" frameY="-2" frameWidth="111" frameHeight="126"/>
+	<SubTexture name="right_ico0010" x="120" y="257" width="109" height="124" frameX="0" frameY="-2" frameWidth="111" frameHeight="126"/>
+	<SubTexture name="upMISS0000" x="234" y="257" width="143" height="122"/>
+	<SubTexture name="upMISS0001" x="382" y="257" width="136" height="116" frameX="0" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="upMISS0002" x="382" y="257" width="136" height="116" frameX="0" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="upMISS0003" x="382" y="257" width="136" height="116" frameX="0" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="upMISS0004" x="382" y="257" width="136" height="116" frameX="0" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="upMISS0005" x="382" y="257" width="136" height="116" frameX="0" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="upMISS0006" x="382" y="257" width="136" height="116" frameX="0" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="upMISS0007" x="382" y="257" width="136" height="116" frameX="0" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="upMISS0008" x="382" y="257" width="136" height="116" frameX="0" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="upMISS0009" x="382" y="257" width="136" height="116" frameX="0" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="up_ico0000" x="523" y="257" width="143" height="122"/>
+	<SubTexture name="up_ico0001" x="523" y="257" width="143" height="122"/>
+	<SubTexture name="up_ico0002" x="671" y="257" width="138" height="117" frameX="-3" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="up_ico0003" x="671" y="257" width="138" height="117" frameX="-3" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="up_ico0004" x="671" y="257" width="138" height="117" frameX="-3" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="up_ico0005" x="671" y="257" width="138" height="117" frameX="-3" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="up_ico0006" x="671" y="257" width="138" height="117" frameX="-3" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="up_ico0007" x="671" y="257" width="138" height="117" frameX="-3" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="up_ico0008" x="671" y="257" width="138" height="117" frameX="-3" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="up_ico0009" x="671" y="257" width="138" height="117" frameX="-3" frameY="-5" frameWidth="143" frameHeight="122"/>
+	<SubTexture name="up_ico0010" x="671" y="257" width="138" height="117" frameX="-3" frameY="-5" frameWidth="143" frameHeight="122"/>
+</TextureAtlas>

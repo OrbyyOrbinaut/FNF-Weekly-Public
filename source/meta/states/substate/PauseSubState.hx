@@ -115,11 +115,14 @@ class PauseSubState extends MusicBeatSubstate
 		FlxTween.tween(bg, {alpha: 0.75}, 0.4, {ease: FlxEase.quartInOut});
 
 		data = Metadata.get(PlayState.SONG.song);
-		texts.push(data.credits.music.join(', ') + ' - ' + data.card.name);
-		if (data.credits.chart != null) texts.push('Chart: ' + data.credits.chart.join(', '));
-		if (data.credits.art != null) texts.push('Art: ' + data.credits.art.join(', '));
-		if (data.credits.code != null) texts.push('Code: ' + data.credits.code.join(', '));
-		if (data.credits.va != null) texts.push('Voice Acting: ' + data.credits.va.join(', '));
+		if (data != null) {
+			texts.push(data.credits.music.join(', ') + ' - ' + data.card.name);
+			if (data.credits.chart != null) texts.push('Chart: ' + data.credits.chart.join(', '));
+			if (data.credits.art != null) texts.push('Art: ' + data.credits.art.join(', '));
+			if (data.credits.code != null) texts.push('Code: ' + data.credits.code.join(', '));
+			if (data.credits.va != null) texts.push('Voice Acting: ' + data.credits.va.join(', '));
+		}
+		
 		texts.push('\nBlueballed: ' + PlayState.deathCounter);
 
 		var index:Int = 0;

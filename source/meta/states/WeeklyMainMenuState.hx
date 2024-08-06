@@ -35,7 +35,7 @@ using StringTools;
 class WeeklyMainMenuState extends MusicBeatState
 {
 	// This is our current version dont forget to change it when compiling releases
-	public static var psychEngineVersion:String = 'Tweak 6'; //MAKE SURE THIS IS UP TO DATE SINCE IT MATTERS FOR AUTO UPDATING !!!!
+	public static var psychEngineVersion:String = 'Tweak 7'; //MAKE SURE THIS IS UP TO DATE SINCE IT MATTERS FOR AUTO UPDATING !!!!
 	//public static var curSelected:Int = 0;
 	var canClick:Bool = true;
 	var norbertcanIdle:Bool = false; // dumb and gay my b
@@ -265,6 +265,19 @@ class WeeklyMainMenuState extends MusicBeatState
 					i.animation.play('idle');
 				}
 			}
+
+			// if(controls.UI_LEFT_P)
+			// {
+			// 	if(canClick) selectOption(optionGrp.members[3].ID);
+			// }
+			// if(controls.UI_RIGHT_P)
+			// {
+			// 	if(canClick) selectOption(optionGrp.members[4].ID);
+			// }
+			// if(controls.ACCEPT)
+			// {
+			// 	if(canClick) selectOption(optionGrp.members[5].ID);
+			// }
 		}
 
 		if (controls.BACK)

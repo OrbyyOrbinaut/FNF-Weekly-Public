@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Legend",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Biddle3"],
+        "chart" : ["Kye_VL"],
+        "art" : ["Flaguieug", "Ito Saihara"],
+        "code" : ["Flaguieug"],
+        "va" : null
+    }
+}

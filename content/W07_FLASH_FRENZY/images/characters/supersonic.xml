@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="supersonic.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="124" height="174"/>
+	<SubTexture name="down0001" x="0" y="0" width="124" height="174"/>
+	<SubTexture name="down0002" x="126" y="0" width="124" height="174"/>
+	<SubTexture name="down0003" x="126" y="0" width="124" height="174"/>
+	<SubTexture name="down0004" x="252" y="0" width="124" height="174"/>
+	<SubTexture name="down0005" x="378" y="0" width="124" height="174"/>
+	<SubTexture name="down0006" x="252" y="0" width="124" height="174"/>
+	<SubTexture name="down0007" x="378" y="0" width="124" height="174"/>
+	<SubTexture name="idle0000" x="504" y="0" width="124" height="174"/>
+	<SubTexture name="idle0001" x="630" y="0" width="124" height="174"/>
+	<SubTexture name="idle0002" x="756" y="0" width="124" height="174"/>
+	<SubTexture name="idle0003" x="882" y="0" width="124" height="174"/>
+	<SubTexture name="left0000" x="0" y="176" width="124" height="174"/>
+	<SubTexture name="left0001" x="0" y="176" width="124" height="174"/>
+	<SubTexture name="left0002" x="126" y="176" width="124" height="174"/>
+	<SubTexture name="left0003" x="126" y="176" width="124" height="174"/>
+	<SubTexture name="left0004" x="252" y="176" width="124" height="174"/>
+	<SubTexture name="left0005" x="378" y="176" width="124" height="174"/>
+	<SubTexture name="left0006" x="252" y="176" width="124" height="174"/>
+	<SubTexture name="left0007" x="378" y="176" width="124" height="174"/>
+	<SubTexture name="right0000" x="504" y="176" width="124" height="174"/>
+	<SubTexture name="right0001" x="504" y="176" width="124" height="174"/>
+	<SubTexture name="right0002" x="630" y="176" width="124" height="174"/>
+	<SubTexture name="right0003" x="630" y="176" width="124" height="174"/>
+	<SubTexture name="right0004" x="756" y="176" width="124" height="174"/>
+	<SubTexture name="right0005" x="882" y="176" width="124" height="174"/>
+	<SubTexture name="right0006" x="756" y="176" width="124" height="174"/>
+	<SubTexture name="right0007" x="882" y="176" width="124" height="174"/>
+	<SubTexture name="up0000" x="0" y="352" width="124" height="174"/>
+	<SubTexture name="up0001" x="0" y="352" width="124" height="174"/>
+	<SubTexture name="up0002" x="126" y="352" width="124" height="174"/>
+	<SubTexture name="up0003" x="126" y="352" width="124" height="174"/>
+	<SubTexture name="up0004" x="252" y="352" width="124" height="174"/>
+	<SubTexture name="up0005" x="378" y="352" width="124" height="174"/>
+	<SubTexture name="up0006" x="252" y="352" width="124" height="174"/>
+	<SubTexture name="up0007" x="378" y="352" width="124" height="174"/>
+</TextureAtlas>

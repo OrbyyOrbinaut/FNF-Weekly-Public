@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="fancygf.png" width="2048" height="1024">
+  <SubTexture name="idle0001" x="2" y="2" width="670" height="643" rotated="true"  frameX="-0" frameY="-0" frameWidth="643" frameHeight="670"/>
+  <SubTexture name="idle0002" x="676" y="2" width="670" height="643" rotated="true"  frameX="-0" frameY="-0" frameWidth="643" frameHeight="670"/>
+</TextureAtlas>

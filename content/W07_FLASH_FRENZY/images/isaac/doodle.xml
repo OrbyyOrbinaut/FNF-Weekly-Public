@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="doodle.png" width="4096" height="2048">
+  <SubTexture name="doodle0017" x="5" y="5"  width="1718" height="905" frameX="-0" frameY="-0" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0009" x="1733" y="5"  width="1630" height="843" frameX="-26" frameY="-40" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0001" x="1733" y="858"  width="1489" height="845" frameX="-29" frameY="-11" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0002" x="1733" y="858"  width="1489" height="845" frameX="-29" frameY="-11" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0003" x="1733" y="858"  width="1489" height="845" frameX="-29" frameY="-11" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0004" x="1733" y="858"  width="1489" height="845" frameX="-29" frameY="-11" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0005" x="1733" y="858"  width="1489" height="845" frameX="-29" frameY="-11" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0006" x="1733" y="858"  width="1489" height="845" frameX="-29" frameY="-11" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0007" x="1733" y="858"  width="1489" height="845" frameX="-29" frameY="-11" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0008" x="1733" y="858"  width="1489" height="845" frameX="-29" frameY="-11" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0010" x="1733" y="5"  width="1630" height="843" frameX="-26" frameY="-40" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0011" x="1733" y="5"  width="1630" height="843" frameX="-26" frameY="-40" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0012" x="1733" y="5"  width="1630" height="843" frameX="-26" frameY="-40" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0013" x="1733" y="5"  width="1630" height="843" frameX="-26" frameY="-40" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0014" x="1733" y="5"  width="1630" height="843" frameX="-26" frameY="-40" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0015" x="1733" y="5"  width="1630" height="843" frameX="-26" frameY="-40" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0016" x="1733" y="5"  width="1630" height="843" frameX="-26" frameY="-40" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0018" x="5" y="5"  width="1718" height="905" frameX="-0" frameY="-0" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0019" x="5" y="5"  width="1718" height="905" frameX="-0" frameY="-0" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0020" x="5" y="5"  width="1718" height="905" frameX="-0" frameY="-0" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0021" x="5" y="5"  width="1718" height="905" frameX="-0" frameY="-0" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0022" x="5" y="5"  width="1718" height="905" frameX="-0" frameY="-0" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0023" x="5" y="5"  width="1718" height="905" frameX="-0" frameY="-0" frameWidth="1718" frameHeight="905"/>
+  <SubTexture name="doodle0024" x="5" y="5"  width="1718" height="905" frameX="-0" frameY="-0" frameWidth="1718" frameHeight="905"/>
+</TextureAtlas>

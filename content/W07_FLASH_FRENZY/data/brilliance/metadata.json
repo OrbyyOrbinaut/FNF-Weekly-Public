@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Brilliance",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Cloverderus", "Dollie"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["lemlem_mew"],
+        "code" : ["Loggo", "OrbyyOrbinaut"],
+        "va" : null
+    }
+}

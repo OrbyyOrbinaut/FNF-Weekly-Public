@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="domoflying.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flyingdomo0000" x="5" y="5" width="342" height="427" pivotX="171.5" pivotY="214.45"/>
+	<SubTexture name="flyingdomo0001" x="5" y="5" width="342" height="427"/>
+	<SubTexture name="flyingdomo0002" x="347" y="5" width="342" height="427"/>
+	<SubTexture name="flyingdomo0003" x="347" y="5" width="342" height="427"/>
+</TextureAtlas>

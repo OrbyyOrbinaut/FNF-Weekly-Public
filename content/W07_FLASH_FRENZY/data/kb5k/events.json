@@ -1,0 +1,166 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Sonic Events",
+						"blackscreen fade",
+						""
+					]
+				]
+			],
+			[
+				20869.5652173913,
+				[
+					[
+						"Sonic Events",
+						"middle",
+						"on"
+					]
+				]
+			],
+			[
+				23478.2608695652,
+				[
+					[
+						"Sonic Events",
+						"middle",
+						"off"
+					]
+				]
+			],
+			[
+				23804.347826087,
+				[
+					[
+						"Play Animation",
+						"heh",
+						"BF"
+					],
+					[
+						"lyric",
+						"Sonic: I know I can beat you!",
+						""
+					]
+				]
+			],
+			[
+				25760.8695652174,
+				[
+					[
+						"Sonic Events",
+						"blackscreen in",
+						""
+					],
+					[
+						"lyric",
+						"Both: Hmph!",
+						""
+					]
+				]
+			],
+			[
+				27391.3043478261,
+				[
+					[
+						"Sonic Events",
+						"blackscreen out",
+						""
+					],
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63586.9565217392,
+				[
+					[
+						"Sonic Events",
+						"transform",
+						""
+					]
+				]
+			],
+			[
+				64239.1304347826,
+				[
+					[
+						"Sonic Events",
+						"super sonic",
+						""
+					],
+					[
+						"lyric",
+						"Sonic: Hah!",
+						""
+					]
+				]
+			],
+			[
+				65217.3913043479,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93913.043478261,
+				[
+					[
+						"Sonic Events",
+						"middle",
+						"on"
+					]
+				]
+			],
+			[
+				96521.7391304349,
+				[
+					[
+						"Sonic Events",
+						"middle",
+						"off"
+					]
+				]
+			],
+			[
+				106956.521739131,
+				[
+					[
+						"Sonic Events",
+						"middle",
+						"on"
+					]
+				]
+			],
+			[
+				117391.304347826,
+				[
+					[
+						"Sonic Events",
+						"middle",
+						"off"
+					]
+				]
+			],
+			[
+				127826.086956522,
+				[
+					[
+						"Sonic Events",
+						"middle",
+						"on"
+					]
+				]
+			]
+		]
+	}
+}

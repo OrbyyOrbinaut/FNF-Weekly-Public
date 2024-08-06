@@ -27,3 +27,5 @@
 	<SubTexture name="up confirm0000" x="34" y="102" width="32" height="32"/>
 	<SubTexture name="up press0000" x="68" y="102" width="32" height="32"/>
 </TextureAtlas>
+
+

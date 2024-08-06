@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tazercraft_NOTE_assets.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowDOWN0000" x="0" y="0" width="159" height="155"/>
+	<SubTexture name="arrowLEFT0000" x="160" y="0" width="155" height="158"/>
+	<SubTexture name="arrowRIGHT0000" x="316" y="0" width="155" height="158"/>
+	<SubTexture name="arrowUP0000" x="472" y="0" width="158" height="154"/>
+	<SubTexture name="blue hold end0000" x="631" y="0" width="51" height="65"/>
+	<SubTexture name="blue hold piece0000" x="683" y="0" width="51" height="44"/>
+	<SubTexture name="blue0000" x="735" y="0" width="157" height="155"/>
+	<SubTexture name="down confirm0000" x="0" y="159" width="207" height="206"/>
+	<SubTexture name="down press0000" x="208" y="159" width="143" height="140"/>
+	<SubTexture name="green hold end0000" x="352" y="159" width="51" height="65"/>
+	<SubTexture name="green hold piece0000" x="404" y="159" width="51" height="44"/>
+	<SubTexture name="green0000" x="456" y="159" width="158" height="155"/>
+	<SubTexture name="left confirm0000" x="615" y="159" width="198" height="199"/>
+	<SubTexture name="left press0000" x="814" y="159" width="147" height="150"/>
+	<SubTexture name="pruple end hold0000" x="962" y="159" width="51" height="64"/>
+	<SubTexture name="purple hold piece0000" x="0" y="366" width="51" height="45"/>
+	<SubTexture name="purple0000" x="52" y="366" width="155" height="158"/>
+	<SubTexture name="red hold end0000" x="208" y="366" width="51" height="65"/>
+	<SubTexture name="red hold piece0000" x="260" y="366" width="51" height="44"/>
+	<SubTexture name="red0000" x="312" y="366" width="154" height="158"/>
+	<SubTexture name="right confirm0000" x="467" y="366" width="191" height="192"/>
+	<SubTexture name="right press0000" x="659" y="366" width="149" height="152"/>
+	<SubTexture name="up confirm0000" x="809" y="366" width="189" height="190"/>
+	<SubTexture name="up press0000" x="0" y="559" width="153" height="150"/>
+</TextureAtlas>
