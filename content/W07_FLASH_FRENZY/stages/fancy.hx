@@ -29,5 +29,5 @@ function onCreatePost(){
 
 function onGameOverStart() 
 {
-    setGameOverVideo('annie');
+    setGameOverVideo('fancy_gameover');
 }
