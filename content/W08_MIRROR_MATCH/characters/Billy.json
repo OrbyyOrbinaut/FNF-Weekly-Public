@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				68,
+				-347
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "manL"
+		},
+		{
+			"offsets": [
+				59,
+				-355
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "blehR"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				20,
+				0
+			],
+			"offsets": [
+				107,
+				-357
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				20
+			],
+			"offsets": [
+				59,
+				-385
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-20
+			],
+			"offsets": [
+				46,
+				-340
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-20,
+				0
+			],
+			"offsets": [
+				43,
+				-354
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Billy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Billy",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		220,
+		220
+	],
+	"camera_position": [
+		-140,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

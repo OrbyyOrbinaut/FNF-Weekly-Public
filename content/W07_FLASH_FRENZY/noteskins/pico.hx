@@ -12,8 +12,10 @@ function quants(){
 function offset(note, strum, sus){
     for(s in note){
         s.x += 20;
+        s.y += 20;
     }
     for(s in sus){
         s.x -= 15;
+        s.y -= 20;
     }
 }

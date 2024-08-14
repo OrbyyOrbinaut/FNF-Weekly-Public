@@ -1,0 +1,16 @@
+{
+    "card" : {
+        "name" : "Silence is Death",
+        "expandBeat" : 16,
+		"duration": 5,
+        "font": "Boblox.ttf",
+        "fontSize": 20
+    },
+    "credits" : {
+        "music" : ["niffirg"],
+        "chart" : ["niffirg"],
+        "art" : ["Flaguieug, SN0WYDREAMS"],
+        "code" : ["Flaguieug"],
+        "va" : null
+    }
+}

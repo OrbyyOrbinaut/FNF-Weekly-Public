@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="fake_speakers.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="speaker bro0000" x="3" y="3" width="561" height="579" frameX="0" frameY="-17" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0001" x="567" y="3" width="561" height="579" frameX="0" frameY="-17" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0002" x="1131" y="3" width="561" height="579" frameX="0" frameY="-17" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0003" x="1695" y="3" width="558" height="580" frameX="-4" frameY="-16" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0004" x="2256" y="3" width="558" height="580" frameX="-4" frameY="-16" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0005" x="2817" y="3" width="562" height="586" frameX="-8" frameY="-10" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0006" x="3382" y="3" width="562" height="586" frameX="-8" frameY="-10" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0007" x="3" y="592" width="571" height="589" frameX="-8" frameY="-7" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0008" x="577" y="592" width="571" height="589" frameX="-8" frameY="-7" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0009" x="1151" y="592" width="570" height="589" frameX="-8" frameY="-7" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0010" x="1724" y="592" width="570" height="589" frameX="-8" frameY="-7" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0011" x="1724" y="592" width="570" height="589" frameX="-8" frameY="-7" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0012" x="1151" y="592" width="570" height="589" frameX="-8" frameY="-7" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0013" x="2297" y="592" width="570" height="593" frameX="-8" frameY="-3" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0014" x="2870" y="592" width="572" height="592" frameX="-8" frameY="-4" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0015" x="3445" y="592" width="587" height="579" frameX="0" frameY="-17" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0016" x="3" y="1188" width="587" height="579" frameX="0" frameY="-17" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0017" x="593" y="1188" width="587" height="580" frameX="0" frameY="-16" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0018" x="1183" y="1188" width="586" height="586" frameX="-4" frameY="-10" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0019" x="1183" y="1188" width="586" height="586" frameX="-4" frameY="-10" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0020" x="1772" y="1188" width="578" height="593" frameX="-8" frameY="-3" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0021" x="1772" y="1188" width="578" height="593" frameX="-8" frameY="-3" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0022" x="2353" y="1188" width="570" height="596" frameX="-8" frameY="0" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0023" x="2353" y="1188" width="570" height="596" frameX="-8" frameY="0" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0024" x="2926" y="1188" width="572" height="595" frameX="-8" frameY="-1" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0025" x="2926" y="1188" width="572" height="595" frameX="-8" frameY="-1" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0026" x="3501" y="1188" width="572" height="595" frameX="-8" frameY="-1" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0027" x="3501" y="1188" width="572" height="595" frameX="-8" frameY="-1" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0028" x="3" y="1787" width="572" height="595" frameX="-8" frameY="-1" frameWidth="590" frameHeight="596"/>
+	<SubTexture name="speaker bro0029" x="578" y="1787" width="572" height="593" frameX="-8" frameY="-3" frameWidth="590" frameHeight="596"/>
+</TextureAtlas>

@@ -1,0 +1,77 @@
+{
+	"song": {
+		"events": [
+			[
+				96093.7500000001,
+				[
+					[
+						"Play Animation",
+						"dashprep",
+						"bf"
+					]
+				]
+			],
+			[
+				96375.0000000001,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"200"
+					]
+				],
+				null,
+				""
+			],
+			[
+				96468.7500000001,
+				[
+					[
+						"Play Animation",
+						"dash",
+						"bf"
+					],
+					[
+						"Pink",
+						"dash",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				96843.7500000001,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				97593.7500000001,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

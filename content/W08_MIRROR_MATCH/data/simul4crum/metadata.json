@@ -1,0 +1,15 @@
+{
+    "card" : {
+        "name" : "SIMUL4CRUM",
+        "expandBeat" : 32,
+		"duration": 3,
+		"font": "BlitzMain.otf"
+    },
+    "credits" : {
+        "music" : ["Kreagato"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["alphalul1", "Ito Saihara", "Dollie"],
+        "code" : ["Lethrial", "OrbyyOrbinaut"],
+        "va" : null
+    }
+}

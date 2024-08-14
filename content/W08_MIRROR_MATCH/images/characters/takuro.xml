@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="takuro.png" width="64" height="512">
+  <SubTexture name="up0" x="2" y="2"  width="29" height="47" frameX="-4" frameY="-0" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="up2" x="2" y="53"  width="31" height="46" frameX="-3" frameY="-1" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="right0" x="35" y="2"  width="25" height="44" frameX="-12" frameY="-3" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="right2" x="2" y="103"  width="25" height="44" frameX="-11" frameY="-3" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="left2" x="2" y="151"  width="23" height="44" frameX="-3" frameY="-3" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="idle0" x="2" y="199"  width="21" height="44" frameX="-8" frameY="-3" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="down2" x="2" y="247"  width="19" height="44" frameX="-9" frameY="-6" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="left0" x="2" y="295"  width="25" height="43" frameX="-0" frameY="-4" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="down0" x="25" y="247"  width="19" height="41" frameX="-9" frameY="-10" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="down1" x="25" y="247"  width="19" height="41" frameX="-9" frameY="-10" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="down3" x="2" y="247"  width="19" height="44" frameX="-9" frameY="-6" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="down4" x="2" y="247"  width="19" height="44" frameX="-9" frameY="-6" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="down5" x="2" y="247"  width="19" height="44" frameX="-9" frameY="-6" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="left1" x="2" y="295"  width="25" height="43" frameX="-0" frameY="-4" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="left3" x="2" y="151"  width="23" height="44" frameX="-3" frameY="-3" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="left4" x="2" y="151"  width="23" height="44" frameX="-3" frameY="-3" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="left5" x="2" y="151"  width="23" height="44" frameX="-3" frameY="-3" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="right1" x="35" y="2"  width="25" height="44" frameX="-12" frameY="-3" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="right3" x="2" y="103"  width="25" height="44" frameX="-11" frameY="-3" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="right4" x="2" y="103"  width="25" height="44" frameX="-11" frameY="-3" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="right5" x="2" y="103"  width="25" height="44" frameX="-11" frameY="-3" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="up1" x="2" y="2"  width="29" height="47" frameX="-4" frameY="-0" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="up3" x="2" y="53"  width="31" height="46" frameX="-3" frameY="-1" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="up4" x="2" y="53"  width="31" height="46" frameX="-3" frameY="-1" frameWidth="37" frameHeight="51"/>
+  <SubTexture name="up5" x="2" y="53"  width="31" height="46" frameX="-3" frameY="-1" frameWidth="37" frameHeight="51"/>
+</TextureAtlas>

@@ -1,0 +1,184 @@
+{
+	"animations": [
+		{
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"offsets": [
+				-13,
+				134
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "specialIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				168
+			],
+			"anim": "specialget",
+			"fps": 24,
+			"name": "getspecial",
+			"indices": []
+		},
+		{
+			"offsets": [
+				52,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				38,
+				-29
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-12,
+				86
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-35,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				31,
+				156
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "specialLeft"
+		},
+		{
+			"offsets": [
+				22,
+				99
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "specialDown"
+		},
+		{
+			"offsets": [
+				-17,
+				186
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "specialUp"
+		},
+		{
+			"offsets": [
+				-25,
+				166
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "specialRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eight",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "eight",
+	"flip_x": true,
+	"healthbar_colors": [
+		163,
+		130,
+		123
+	],
+	"camera_position": [
+		-280,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,16 @@
+{
+	"directory": "images/guest",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [720, 90],
+	"girlfriend": [450, 60],
+	"opponent": [-50, 155],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [-250, 80],
+	"camera_opponent": [0, 40],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1,
+	"comboPrefix": "guest/"
+}

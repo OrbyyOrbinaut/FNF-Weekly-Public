@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Dangerous To Go Alone",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Scrumbo", "Cloverderus"],
+        "chart" : ["Cloverderus"],
+        "art" : ["OrbyyOrbinaut", "TGG"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Dangerous To Go Alone", "onitakoru", [174, 120, 238]],
+		["Frauduccine", "fakepep", [136, 168, 200]],
+		["Circus (Weekly Mix)", "siiva", [70, 70, 70]],
+		["Rock Bottom", "badeline", [122, 71, 114]],
+		["Silence Is Death", "doppelbloxxers", [175, 6, 46]],
+		["SIMUL4CRUM", "four", [107, 105, 133]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Tweak 8",
+	"weekBefore": "",
+	"weekName": "Tweak 8",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weeklogo": "MirrorMatch"
+}

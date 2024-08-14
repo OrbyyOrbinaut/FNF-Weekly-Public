@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				63,
+				-327
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "blehL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				69,
+				-330
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "manR",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				78,
+				-325
+			],
+			"anim": "Walk",
+			"fps": 24,
+			"name": "Walk",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				-331
+			],
+			"cameraOffset": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				42,
+				-333
+			],
+			"cameraOffset": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				100,
+				-339
+			],
+			"cameraOffset": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				24,
+				-339
+			],
+			"cameraOffset": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Betty",
+	"position": [
+		1000,
+		0
+	],
+	"healthicon": "Betty",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-310,
+		320
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

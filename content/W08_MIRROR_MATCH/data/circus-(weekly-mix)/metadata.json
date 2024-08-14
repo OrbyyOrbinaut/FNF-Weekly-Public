@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Circus (Weekly Mix)",
+        "expandBeat" : 16,
+		"duration": 5
+    },
+    "credits" : {
+        "music" : ["maddiesmiles", "Lethrial"],
+        "chart" : ["Lethrial"],
+        "art" : ["DerpDrawz"],
+        "code" : ["Lethrial"],
+        "va" : null
+    }
+}

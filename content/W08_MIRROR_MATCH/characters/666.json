@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				20,
+				-290
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				49,
+				-299
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				23,
+				-297
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				38,
+				-288
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				24,
+				-290
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIght",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				46,
+				-287
+			],
+			"anim": "scary",
+			"fps": 24,
+			"name": "Scary",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				39,
+				-295
+			],
+			"anim": "scarystart",
+			"fps": 24,
+			"name": "JSJcary",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/666",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "666",
+	"flip_x": false,
+	"healthbar_colors": [
+		220,
+		0,
+		10
+	],
+	"camera_position": [
+		-20,
+		250
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

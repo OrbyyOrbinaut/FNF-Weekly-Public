@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				-110
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "madeline_idle"
+		},
+		{
+			"offsets": [
+				103,
+				-120
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "madeline_left"
+		},
+		{
+			"offsets": [
+				36,
+				-181
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "madeline_down"
+		},
+		{
+			"offsets": [
+				73,
+				-60
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "madeline_up"
+		},
+		{
+			"offsets": [
+				6,
+				-109
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "madeline_right"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				42,
+				-109
+			],
+			"anim": "dashprep",
+			"fps": 24,
+			"name": "madeline_dashprep0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				52,
+				155
+			],
+			"anim": "dash",
+			"fps": 24,
+			"name": "madeline_dash0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/madeline",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "madeline",
+	"flip_x": true,
+	"healthbar_colors": [
+		187,
+		68,
+		70
+	],
+	"camera_position": [
+		-340,
+		-20
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

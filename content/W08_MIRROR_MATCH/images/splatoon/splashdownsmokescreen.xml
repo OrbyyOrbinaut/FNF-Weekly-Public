@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="splashdownsmokescreen.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="inkscreen0000" x="4" y="4" width="1290" height="785" pivotX="643.55" pivotY="361.25"/>
+	<SubTexture name="inkscreen0001" x="4" y="4" width="1290" height="785"/>
+	<SubTexture name="inkscreen0002" x="1309" y="4" width="1290" height="785"/>
+	<SubTexture name="inkscreen0003" x="1309" y="4" width="1290" height="785"/>
+	<SubTexture name="inkscreen0004" x="2614" y="4" width="1290" height="785"/>
+	<SubTexture name="inkscreen0005" x="2614" y="4" width="1290" height="785"/>
+</TextureAtlas>

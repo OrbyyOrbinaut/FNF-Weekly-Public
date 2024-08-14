@@ -1,0 +1,15 @@
+{
+    "card" : {
+        "name" : "Rock Bottom",
+        "expandBeat" : 2,
+		"duration": 3,
+        "font": "Renogare.ttf"
+    },
+    "credits" : {
+        "music" : ["Biddle3"],
+        "chart" : ["lemlem_mew", "Srife5"],
+        "art" : ["KatAnims", "DerpDrawz"],
+        "code" : ["Flaguieug"],
+        "va" : null
+    }
+}

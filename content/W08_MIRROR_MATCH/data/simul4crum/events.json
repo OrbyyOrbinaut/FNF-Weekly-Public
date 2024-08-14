@@ -1,0 +1,116 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Splatoon Events",
+						"intro",
+						""
+					]
+				]
+			],
+			[
+				9750,
+				[
+					[
+						"Splatoon Events",
+						"Next Wave",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Splatoon Events",
+						"Kill",
+						""
+					]
+				]
+			],
+			[
+				72750,
+				[
+					[
+						"Splatoon Events",
+						"Next Wave",
+						""
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"Splatoon Events",
+						"Kill",
+						""
+					]
+				]
+			],
+			[
+				141750,
+				[
+					[
+						"Splatoon Events",
+						"Next Wave",
+						""
+					]
+				]
+			],
+			[
+				168281.25,
+				[
+					[
+						"Splatoon Events",
+						"Gauge Full",
+						""
+					]
+				]
+			],
+			[
+				168375,
+				[
+					[
+						"Play Animation",
+						"specialget",
+						"bf"
+					]
+				]
+			],
+			[
+				168468.75,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					]
+				]
+			],
+			[
+				169125,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.5"
+					]
+				]
+			],
+			[
+				205125,
+				[
+					[
+						"Splatoon Events",
+						"Pop Ult",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "drop-four",
+			"loop": true,
+			"name": "FourDrop0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "drop",
+			"loop": true,
+			"name": "drop0"
+		},
+		{
+			"offsets": [
+				-30,
+				-53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fall",
+			"loop": true,
+			"name": "fall0"
+		},
+		{
+			"offsets": [
+				-30,
+				-53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fall-four",
+			"loop": true,
+			"name": "FourFall0"
+		},
+		{
+			"offsets": [
+				-21,
+				-241
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "splash",
+			"loop": false,
+			"name": "splash0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dropin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

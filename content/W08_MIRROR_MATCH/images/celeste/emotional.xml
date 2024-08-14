@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="emotional.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="emotional0000" x="5" y="5" width="5506" height="1198" frameX="-3228" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0001" x="5" y="5" width="5506" height="1198" frameX="-2980" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0002" x="5" y="5" width="5506" height="1198" frameX="-2732" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0003" x="5" y="5" width="5506" height="1198" frameX="-2483" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0004" x="5" y="5" width="5506" height="1198" frameX="-2235" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0005" x="5" y="5" width="5506" height="1198" frameX="-1986" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0006" x="5" y="5" width="5506" height="1198" frameX="-1738" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0007" x="5" y="5" width="5506" height="1198" frameX="-1490" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0008" x="5" y="5" width="5506" height="1198" frameX="-1241" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0009" x="5" y="5" width="5506" height="1198" frameX="-994" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0010" x="5" y="5" width="5506" height="1198" frameX="-746" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0011" x="5" y="5" width="5506" height="1198" frameX="-497" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0012" x="5" y="5" width="5506" height="1198" frameX="-249" frameY="0" frameWidth="8734" frameHeight="1198"/>
+	<SubTexture name="emotional0013" x="5" y="5" width="5506" height="1198" frameX="0" frameY="0" frameWidth="8734" frameHeight="1198"/>
+</TextureAtlas>

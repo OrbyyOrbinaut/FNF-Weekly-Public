@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Frauduccine",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Cloverderus", "theWAHbox"],
+        "chart" : ["Cloverderus"],
+        "art" : ["MochaDrawss", "Dollie", "Jam", "DerpDrawz"],
+        "code" : ["Crossknife", "OrbyyOrbinaut"],
+        "va" : null
+    }
+}
