@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Perfect Girl",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Kreagato"],
+        "chart" : ["Kye_VL"],
+        "art" : ["SWAG", "Ito Saihara"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

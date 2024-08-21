@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, -62],
+			"anim": "idle",
+			"fps": 24,
+			"name": "altidle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [175, -91],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "altleft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [63, -210],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "altdown0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-20, 71],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "altup0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-120, -87],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "altright0",
+			"indices": []
+		},
+		{
+			"offsets": [0, -62],
+			"indices": [],
+			"fps": 24,
+			"anim": "sleepyhead",
+			"loop": false,
+			"name": "spoilerhedies0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/goku",
+	"position": [0, -160],
+	"healthicon": "godku",
+	"flip_x": true,
+	"healthbar_colors": [255, 13, 65],
+	"camera_position": [150, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

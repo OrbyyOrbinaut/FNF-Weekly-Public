@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Motivation",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Cloverderus"],
+        "chart" : ["Cloverderus"],
+        "art" : ["Dollie", "lemlem_mew"],
+        "code" : ["Lethrial", "OrbyyOrbinaut"],
+        "va" : null
+    }
+}

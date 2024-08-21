@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["Perfect Girl", "kita", [227, 122, 122]],
+		["Busy Work", "retsuko", [255, 122, 73]],
+		["Motivation", "yuuko", [231, 148, 89]],
+		["Popular", "tomoko", [66, 66, 86]],
+		["Beyond", "beyond", [190, 82, 220]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Tweak 9",
+	"weekBefore": "",
+	"weekName": "Tweak 9",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weeklogo": "PlotArmor"
+}

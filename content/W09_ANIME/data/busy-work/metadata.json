@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Busy Work",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Biddle3", "niffirg"],
+        "chart" : ["Kloogybaboogy"],
+        "art" : ["KatAnims", "Kloogybaboogy", "SN0WYDREAMS"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

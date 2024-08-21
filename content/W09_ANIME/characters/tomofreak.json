@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tomokoFREAK",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/tomofreak",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "tomoko",
+	"flip_x": true,
+	"healthbar_colors": [
+		66,
+		66,
+		86
+	],
+	"camera_position": [
+		-70,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

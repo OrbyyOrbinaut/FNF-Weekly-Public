@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Popular",
+        "expandBeat" : 64,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Dollie"],
+        "chart" : ["lemlem_mew", "Flaguieug"],
+        "art" : ["Dollie", "Jam", "ultraspicyspray"],
+        "code" : ["DuskieWhy"],
+        "va" : null
+    }
+}

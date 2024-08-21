@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="haida.png">
+	<!-- Created with Adobe Animate version 23.0.7.149 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="haida0000" x="5" y="5" width="216" height="437"/>
+	<SubTexture name="haida0001" x="5" y="5" width="216" height="437"/>
+	<SubTexture name="haida0002" x="226" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0003" x="226" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0004" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0005" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0006" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0007" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0008" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0009" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0010" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0011" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0012" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0013" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0014" x="666" y="5" width="216" height="437"/>
+	<SubTexture name="haida0015" x="5" y="5" width="216" height="437"/>
+	<SubTexture name="haida0016" x="887" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0017" x="226" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0018" x="1107" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0019" x="1327" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0020" x="1547" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0021" x="1767" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0022" x="1767" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0023" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0024" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0025" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0026" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0027" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0028" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida0029" x="446" y="5" width="215" height="437" frameX="-1" frameY="0" frameWidth="216" frameHeight="437"/>
+	<SubTexture name="haida_surprise0000" x="5" y="447" width="216" height="438"/>
+	<SubTexture name="haida_surprise0001" x="5" y="447" width="216" height="438"/>
+	<SubTexture name="haida_surprise0002" x="226" y="447" width="213" height="437" frameX="-3" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0003" x="226" y="447" width="213" height="437" frameX="-3" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0004" x="444" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0005" x="444" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0006" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0007" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0008" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0009" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0010" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0011" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0012" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0013" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0014" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0015" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0016" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0017" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0018" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0019" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0020" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0021" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0022" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0023" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0024" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0025" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0026" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0027" x="664" y="447" width="215" height="437" frameX="-1" frameY="-1" frameWidth="216" frameHeight="438"/>
+	<SubTexture name="haida_surprise0028" x="5" y="447" width="216" height="438"/>
+	<SubTexture name="haida_surprise0029" x="5" y="447" width="216" height="438"/>
+</TextureAtlas>

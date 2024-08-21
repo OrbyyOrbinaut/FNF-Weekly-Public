@@ -1,0 +1,181 @@
+{
+	"song": {
+		"events": [
+			[
+				59428.5714285714,
+				[
+					[
+						"Motivation Events",
+						"middle cam",
+						"true"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Motivation Events",
+						"middle cam",
+						"false"
+					]
+				]
+			],
+			[
+				68571.4285714285,
+				[
+					[
+						"Motivation Events",
+						"middle cam",
+						"true"
+					]
+				]
+			],
+			[
+				73142.8571428571,
+				[
+					[
+						"Motivation Events",
+						"force section",
+						"mai"
+					],
+					[
+						"Motivation Events",
+						"middle cam",
+						"false"
+					]
+				]
+			],
+			[
+				77714.2857142857,
+				[
+					[
+						"Motivation Events",
+						"force section",
+						"mio"
+					]
+				]
+			],
+			[
+				82285.7142857143,
+				[
+					[
+						"Motivation Events",
+						"force section",
+						"off"
+					]
+				]
+			],
+			[
+				95714.2857142857,
+				[
+					[
+						"Motivation Events",
+						"icons can change",
+						"false"
+					]
+				]
+			],
+			[
+				101142.857142857,
+				[
+					[
+						"Motivation Events",
+						"icons can change",
+						"true"
+					]
+				]
+			],
+			[
+				132571.428571429,
+				[
+					[
+						"Motivation Events",
+						"middle cam",
+						"true"
+					]
+				]
+			],
+			[
+				137142.857142857,
+				[
+					[
+						"Motivation Events",
+						"middle cam",
+						"false"
+					]
+				]
+			],
+			[
+				141714.285714286,
+				[
+					[
+						"Motivation Events",
+						"middle cam",
+						"true"
+					]
+				]
+			],
+			[
+				146285.714285714,
+				[
+					[
+						"Motivation Events",
+						"force section",
+						"mai"
+					],
+					[
+						"Motivation Events",
+						"middle cam",
+						"false"
+					]
+				]
+			],
+			[
+				150857.142857143,
+				[
+					[
+						"Motivation Events",
+						"force section",
+						"mio"
+					]
+				]
+			],
+			[
+				155428.571428572,
+				[
+					[
+						"Motivation Events",
+						"force section",
+						"off"
+					]
+				]
+			],
+			[
+				182285.714285714,
+				[
+					[
+						"Motivation Events",
+						"icons can change",
+						"false"
+					]
+				]
+			],
+			[
+				182857.142857143,
+				[
+					[
+						"Motivation Events",
+						"middle cam",
+						"true"
+					],
+					[
+						"Camera Zoom",
+						"0.85",
+						""
+					]
+				]
+			]
+		]
+	}
+}

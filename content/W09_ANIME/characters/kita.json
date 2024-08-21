@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kita idle0"
+		},
+		{
+			"offsets": [
+				90,
+				28
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kita left0"
+		},
+		{
+			"offsets": [
+				50,
+				-35
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kita down0"
+		},
+		{
+			"offsets": [
+				50,
+				97
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kita up0"
+		},
+		{
+			"offsets": [
+				2,
+				-4
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kita right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kita",
+	"position": [
+		-100,
+		-80
+	],
+	"healthicon": "kita",
+	"flip_x": false,
+	"healthbar_colors": [
+		227,
+		122,
+		122
+	],
+	"camera_position": [
+		-270,
+		110
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

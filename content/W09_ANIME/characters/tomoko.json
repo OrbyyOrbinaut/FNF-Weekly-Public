@@ -1,0 +1,250 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				9,
+				1
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left0",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				-8
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "down0",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				11
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "up0",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				3
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "right0",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-51
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "leftALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-76
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "downALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				31
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "upALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				-64
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "rightALT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				105,
+				-51
+			],
+			"anim": "singLEFT-alt-loop",
+			"fps": 24,
+			"name": "leftALT",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				6,
+				-76
+			],
+			"anim": "singDOWN-alt-loop",
+			"fps": 24,
+			"name": "downALT",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				31
+			],
+			"anim": "singUP-alt-loop",
+			"fps": 24,
+			"name": "upALT",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-78,
+				-64
+			],
+			"anim": "singRIGHT-alt-loop",
+			"fps": 24,
+			"name": "rightALT",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tomoko",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "tomoko",
+	"flip_x": true,
+	"healthbar_colors": [
+		66,
+		66,
+		86
+	],
+	"camera_position": [
+		-70,
+		50
+	],
+	"sing_duration": 5.1,
+	"scale": 1
+}

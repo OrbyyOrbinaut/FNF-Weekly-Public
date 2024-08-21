@@ -35,7 +35,7 @@ using StringTools;
 class WeeklyMainMenuState extends MusicBeatState
 {
 	// This is our current version dont forget to change it when compiling releases
-	public static var psychEngineVersion:String = 'Tweak 8'; //MAKE SURE THIS IS UP TO DATE SINCE IT MATTERS FOR AUTO UPDATING !!!!
+	public static var psychEngineVersion:String = 'Tweak 9'; //MAKE SURE THIS IS UP TO DATE SINCE IT MATTERS FOR AUTO UPDATING !!!!
 	//public static var curSelected:Int = 0;
 	var canClick:Bool = true;
 	var norbertcanIdle:Bool = false; // dumb and gay my b

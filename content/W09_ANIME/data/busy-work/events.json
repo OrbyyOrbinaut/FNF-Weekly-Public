@@ -1,0 +1,176 @@
+{
+	"song": {
+		"events": [
+			[
+				30222.2222222222,
+				[
+					[
+						"Camera Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				44444.4444444445,
+				[
+					[
+						"Camera Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				51555.5555555556,
+				[
+					[
+						"Camera Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				58888.8888888889,
+				[
+					[
+						"Camera Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				62444.4444444445,
+				[
+					[
+						"Busy Work Events",
+						"boss",
+						""
+					]
+				]
+			],
+			[
+				69555.5555555556,
+				[
+					[
+						"Camera Zoom",
+						"1.05",
+						""
+					]
+				]
+			],
+			[
+				70444.4444444445,
+				[
+					[
+						"Camera Zoom",
+						"1.05",
+						""
+					]
+				]
+			],
+			[
+				71333.3333333334,
+				[
+					[
+						"Camera Zoom",
+						"1.05",
+						""
+					]
+				]
+			],
+			[
+				72222.2222222223,
+				[
+					[
+						"Camera Zoom",
+						"1.05",
+						""
+					]
+				]
+			],
+			[
+				72888.8888888889,
+				[
+					[
+						"Busy Work Events",
+						"camera move",
+						""
+					],
+					[
+						"Busy Work Events",
+						"black screen",
+						"on"
+					]
+				]
+			],
+			[
+				75444.4444444445,
+				[
+					[
+						"Busy Work Events",
+						"angry",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"retsuko-rage"
+					],
+					[
+						"Screen Shake",
+						"5, 0.005",
+						"5, 0.005"
+					],
+					[
+						"Busy Work Events",
+						"black screen",
+						"off"
+					]
+				]
+			],
+			[
+				80468.7500000001,
+				[
+					[
+						"Busy Work Events",
+						"camera release",
+						""
+					]
+				]
+			],
+			[
+				84500.0000000001,
+				[
+					[
+						"Busy Work Events",
+						"boppers normal",
+						""
+					]
+				]
+			],
+			[
+				160718.75,
+				[
+					[
+						"Busy Work Events",
+						"end cam",
+						""
+					]
+				]
+			],
+			[
+				165312.5,
+				[
+					[
+						"Busy Work Events",
+						"black screen",
+						"on"
+					]
+				]
+			]
+		]
+	}
+}

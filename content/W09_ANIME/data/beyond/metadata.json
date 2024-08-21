@@ -1,0 +1,15 @@
+{
+    "card" : {
+        "name" : "Beyond",
+        "expandBeat" : 32,
+		"duration": 6,
+        "font": "dragonfont.ttf"
+    },
+    "credits" : {
+        "music" : ["bbpanzu"],
+        "chart" : ["Srife5"],
+        "art" : ["Ito Saihara", "DerpDrawz", "alphalul1", "TerminalRepo"],
+        "code" : ["Lethrial"],
+        "va" : ["Kye_VL"]
+    }
+}
