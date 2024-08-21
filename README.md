@@ -9,4 +9,3 @@ set up all the libraries for you!
 -Mod Links-
 
 Gamebanana: https://gamebanana.com/mods/522709
-Google Drive: https://drive.google.com/file/d/1EHy9TdMmQyDrO-TeiakSOQ-l7h9ZmUL3/view?usp=sharing
