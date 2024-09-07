@@ -1,0 +1,6696 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Pokepasta Events",
+						"Toggle Black",
+						""
+					]
+				]
+			],
+			[
+				7058.82352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"(There's Always Next Week!)"
+					]
+				]
+			],
+			[
+				7205.88235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				7352.94117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"(There's Always Next Week!)"
+					]
+				]
+			],
+			[
+				7500,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				7647.05882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"(There's Always Next Week!)"
+					]
+				]
+			],
+			[
+				7794.11764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				7941.17647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"(There's Always Next Week!)"
+					]
+				]
+			],
+			[
+				8088.23529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				8235.29411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"(There's Always Next Week!)"
+					]
+				]
+			],
+			[
+				8382.35294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				8529.41176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"(There's Always Next Week!)"
+					]
+				]
+			],
+			[
+				8676.47058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				8823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"(There's Always Next Week!)"
+					]
+				]
+			],
+			[
+				8970.58823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				9588.23529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Take"
+					]
+				]
+			],
+			[
+				9705.88235294117,
+				[
+					[
+						"hai basil",
+						"set",
+						"Take a"
+					]
+				]
+			],
+			[
+				9941.17647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"Take a breath"
+					]
+				]
+			],
+			[
+				10294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"Take a breath and"
+					]
+				]
+			],
+			[
+				10470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"get"
+					]
+				]
+			],
+			[
+				10588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"get in"
+					]
+				]
+			],
+			[
+				10764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"get into"
+					]
+				]
+			],
+			[
+				11117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"get into step"
+					]
+				]
+			],
+			[
+				11352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"get into step f"
+					]
+				]
+			],
+			[
+				11382.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"get into step fo"
+					]
+				]
+			],
+			[
+				11411.7647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						"get into step foo"
+					]
+				]
+			],
+			[
+				11441.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"get into step fooo"
+					]
+				]
+			],
+			[
+				11470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"get into step foooo"
+					]
+				]
+			],
+			[
+				11500,
+				[
+					[
+						"hai basil",
+						"set",
+						"get into step fooooo"
+					]
+				]
+			],
+			[
+				11529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"get into step foooooo"
+					]
+				]
+			],
+			[
+				11558.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"get into step foooooor"
+					]
+				]
+			],
+			[
+				11647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"The"
+					]
+				]
+			],
+			[
+				11764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"The fun"
+					]
+				]
+			],
+			[
+				11941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"The fun of"
+					]
+				]
+			],
+			[
+				12058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"The fun of the"
+					]
+				]
+			],
+			[
+				12294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"The fun of the n"
+					]
+				]
+			],
+			[
+				12352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"The fun of the ni"
+					]
+				]
+			],
+			[
+				12411.7647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						"The fun of the nig"
+					]
+				]
+			],
+			[
+				12470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"The fun of the nigh"
+					]
+				]
+			],
+			[
+				12529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"The fun of the night,"
+					]
+				]
+			],
+			[
+				12647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause"
+					]
+				]
+			],
+			[
+				12823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause we're"
+					]
+				]
+			],
+			[
+				12941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause we're hav"
+					]
+				]
+			],
+			[
+				13117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause we're havin'"
+					]
+				]
+			],
+			[
+				13235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause we're havin' a"
+					]
+				]
+			],
+			[
+				13411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause we're havin' a g"
+					]
+				]
+			],
+			[
+				13470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause we're havin' a go"
+					]
+				]
+			],
+			[
+				13529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause we're havin' a goo"
+					]
+				]
+			],
+			[
+				13588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause we're havin' a gooo"
+					]
+				]
+			],
+			[
+				13647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause we're havin' a goooo"
+					]
+				]
+			],
+			[
+				13705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause we're havin' a gooood"
+					]
+				]
+			],
+			[
+				13823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"cause we're havin' a gooood time."
+					]
+				]
+			],
+			[
+				14294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"The"
+					]
+				]
+			],
+			[
+				14411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"The work"
+					]
+				]
+			],
+			[
+				14647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"The work load"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"hai basil",
+						"set",
+						"The work load might"
+					]
+				]
+			],
+			[
+				15176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"The work load might seem"
+					]
+				]
+			],
+			[
+				15294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"The work load might seem hor"
+					]
+				]
+			],
+			[
+				15470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"The work load might seem horri"
+					]
+				]
+			],
+			[
+				15764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"The work load might seem horrible,"
+					]
+				]
+			],
+			[
+				16058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"The work load might seem horrible, but"
+					]
+				]
+			],
+			[
+				16352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"It's"
+					]
+				]
+			],
+			[
+				16470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"It's fine"
+					]
+				]
+			],
+			[
+				16647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"It's fine in"
+					]
+				]
+			],
+			[
+				16764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"It's fine in the"
+					]
+				]
+			],
+			[
+				16941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"It's fine in the e"
+					]
+				]
+			],
+			[
+				17000,
+				[
+					[
+						"hai basil",
+						"set",
+						"It's fine in the ee"
+					]
+				]
+			],
+			[
+				17058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"It's fine in the eee"
+					]
+				]
+			],
+			[
+				17117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"It's fine in the eeee"
+					]
+				]
+			],
+			[
+				17176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"It's fine in the eeeen"
+					]
+				]
+			],
+			[
+				17235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"It's fine in the eeeend,"
+					]
+				]
+			],
+			[
+				17352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"we"
+					]
+				]
+			],
+			[
+				17529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"we can"
+					]
+				]
+			],
+			[
+				17647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"we can work"
+					]
+				]
+			],
+			[
+				17823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"we can work through"
+					]
+				]
+			],
+			[
+				17941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"we can work through the"
+					]
+				]
+			],
+			[
+				18117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"we can work through the mo"
+					]
+				]
+			],
+			[
+				18176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"we can work through the moo"
+					]
+				]
+			],
+			[
+				18235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"we can work through the mooo"
+					]
+				]
+			],
+			[
+				18294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"we can work through the moooo"
+					]
+				]
+			],
+			[
+				18352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"we can work through the mooooo"
+					]
+				]
+			],
+			[
+				18411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"we can work through the mooooon"
+					]
+				]
+			],
+			[
+				18529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"we can work through the mooooonlight."
+					]
+				]
+			],
+			[
+				19117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"Sum"
+					]
+				]
+			],
+			[
+				19411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"Summer"
+					]
+				]
+			],
+			[
+				19705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"Summer is"
+					]
+				]
+			],
+			[
+				19882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Summer is an"
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"hai basil",
+						"set",
+						"Summer is an ad"
+					]
+				]
+			],
+			[
+				20176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Summer is an adven"
+					]
+				]
+			],
+			[
+				20470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"Summer is an adventure"
+					]
+				]
+			],
+			[
+				20764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"Summer is an adventure a"
+					]
+				]
+			],
+			[
+				20823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"Summer is an adventure an"
+					]
+				]
+			],
+			[
+				20882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Summer is an adventure and,"
+					]
+				]
+			],
+			[
+				21058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"it's"
+					]
+				]
+			],
+			[
+				21176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"it's all"
+					]
+				]
+			],
+			[
+				21352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"it's all up"
+					]
+				]
+			],
+			[
+				21470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"it's all up to"
+					]
+				]
+			],
+			[
+				21647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"it's all up to y"
+					]
+				]
+			],
+			[
+				21705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"it's all up to yo"
+					]
+				]
+			],
+			[
+				21764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"it's all up to yoo"
+					]
+				]
+			],
+			[
+				21823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"it's all up to yooo"
+					]
+				]
+			],
+			[
+				21882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"it's all up to yooou,"
+					]
+				]
+			],
+			[
+				22058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"If"
+					]
+				]
+			],
+			[
+				22235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"If you"
+					]
+				]
+			],
+			[
+				22352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"If you want"
+					]
+				]
+			],
+			[
+				22529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"If you want to"
+					]
+				]
+			],
+			[
+				22647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"If you want to re"
+					]
+				]
+			],
+			[
+				22823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"If you want to remem"
+					]
+				]
+			],
+			[
+				22882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"If you want to rememm"
+					]
+				]
+			],
+			[
+				22941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"If you want to rememmm"
+					]
+				]
+			],
+			[
+				23000,
+				[
+					[
+						"hai basil",
+						"set",
+						"If you want to rememmmm"
+					]
+				]
+			],
+			[
+				23058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"If you want to rememmmmm"
+					]
+				]
+			],
+			[
+				23235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"If you want to rememmmmber."
+					]
+				]
+			],
+			[
+				23852.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"Craft"
+					]
+				]
+			],
+			[
+				24117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"Crafting"
+					]
+				]
+			],
+			[
+				24411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"Crafting up"
+					]
+				]
+			],
+			[
+				24588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"Crafting up your"
+					]
+				]
+			],
+			[
+				24705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"Crafting up your fine"
+					]
+				]
+			],
+			[
+				24882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Crafting up your finest"
+					]
+				]
+			],
+			[
+				25176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Crafting up your finest work,"
+					]
+				]
+			],
+			[
+				25470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make"
+					]
+				]
+			],
+			[
+				25764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make your"
+					]
+				]
+			],
+			[
+				25882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make your mem"
+					]
+				]
+			],
+			[
+				26058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make your memor"
+					]
+				]
+			],
+			[
+				26176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make your memories"
+					]
+				]
+			],
+			[
+				26352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make your memories s"
+					]
+				]
+			],
+			[
+				26411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make your memories sh"
+					]
+				]
+			],
+			[
+				26470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make your memories shi"
+					]
+				]
+			],
+			[
+				26529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make your memories shii"
+					]
+				]
+			],
+			[
+				26588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make your memories shiii"
+					]
+				]
+			],
+			[
+				26647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make your memories shiiine"
+					]
+				]
+			],
+			[
+				26764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"Make your memories shiiine from"
+					]
+				]
+			],
+			[
+				26941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"Ju"
+					]
+				]
+			],
+			[
+				27058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"July"
+					]
+				]
+			],
+			[
+				27235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"July to"
+					]
+				]
+			],
+			[
+				27352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"July to Sep"
+					]
+				]
+			],
+			[
+				27529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"July to Septem"
+					]
+				]
+			],
+			[
+				27588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"July to Septemm"
+					]
+				]
+			],
+			[
+				27647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"July to Septemmm"
+					]
+				]
+			],
+			[
+				27705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"July to Septemmmm"
+					]
+				]
+			],
+			[
+				27764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"July to Septemmmmm"
+					]
+				]
+			],
+			[
+				27823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"July to Septemmmmmm"
+					]
+				]
+			],
+			[
+				27882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"July to Septemmmmmmm"
+					]
+				]
+			],
+			[
+				27941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"July to Septemmmmmmmber."
+					]
+				]
+			],
+			[
+				28235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON"
+					]
+				]
+			],
+			[
+				28411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON AND"
+					]
+				]
+			],
+			[
+				28705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON AND ON,"
+					]
+				]
+			],
+			[
+				29117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON"
+					]
+				]
+			],
+			[
+				29294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON A"
+					]
+				]
+			],
+			[
+				29588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON A ROLL."
+					]
+				]
+			],
+			[
+				30588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET"
+					]
+				]
+			],
+			[
+				30764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET CRE"
+					]
+				]
+			],
+			[
+				31058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET CREA"
+					]
+				]
+			],
+			[
+				31470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET CREATIVE"
+					]
+				]
+			],
+			[
+				31647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET CREATIVENESS"
+					]
+				]
+			],
+			[
+				31941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET CREATIVENESS FLOW."
+					]
+				]
+			],
+			[
+				32941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"EV"
+					]
+				]
+			],
+			[
+				33117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"EVEN"
+					]
+				]
+			],
+			[
+				33411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"EVEN WHEN"
+					]
+				]
+			],
+			[
+				33823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"EVEN WHEN LIFE"
+					]
+				]
+			],
+			[
+				34000,
+				[
+					[
+						"hai basil",
+						"set",
+						"EVEN WHEN LIFE GETS"
+					]
+				]
+			],
+			[
+				34294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"EVEN WHEN LIFE GETS HARD,"
+					]
+				]
+			],
+			[
+				34705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"MON"
+					]
+				]
+			],
+			[
+				34882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"MONDAY"
+					]
+				]
+			],
+			[
+				35176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"MONDAY IS"
+					]
+				]
+			],
+			[
+				35588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"MONDAY IS NEV"
+					]
+				]
+			],
+			[
+				35764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"MONDAY IS NEVER"
+					]
+				]
+			],
+			[
+				36058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"MONDAY IS NEVER FAR,"
+					]
+				]
+			],
+			[
+				36470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"BE"
+					]
+				]
+			],
+			[
+				36647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"BE A"
+					]
+				]
+			],
+			[
+				36941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"BE A PART,"
+					]
+				]
+			],
+			[
+				37352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW"
+					]
+				]
+			],
+			[
+				37529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR"
+					]
+				]
+			],
+			[
+				37823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR H"
+					]
+				]
+			],
+			[
+				37941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HE"
+					]
+				]
+			],
+			[
+				38088.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEE"
+					]
+				]
+			],
+			[
+				38235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEA"
+					]
+				]
+			],
+			[
+				38382.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAA"
+					]
+				]
+			],
+			[
+				38529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAAR"
+					]
+				]
+			],
+			[
+				38676.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAARR"
+					]
+				]
+			],
+			[
+				38823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAARR"
+					]
+				]
+			],
+			[
+				38970.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAARRT"
+					]
+				]
+			],
+			[
+				39117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAARRTT"
+					]
+				]
+			],
+			[
+				39411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"<3"
+					]
+				]
+			],
+			[
+				39509.8039215686,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				39607.8431372549,
+				[
+					[
+						"hai basil",
+						"set",
+						"<3"
+					]
+				]
+			],
+			[
+				39705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				39803.9215686274,
+				[
+					[
+						"hai basil",
+						"set",
+						"<3"
+					]
+				]
+			],
+			[
+				39901.9607843137,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				40294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's"
+					]
+				]
+			],
+			[
+				40588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's al"
+					]
+				]
+			],
+			[
+				40882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always"
+					]
+				]
+			],
+			[
+				41176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next"
+					]
+				]
+			],
+			[
+				41470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next w"
+					]
+				]
+			],
+			[
+				41568.6274509804,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next we"
+					]
+				]
+			],
+			[
+				41666.6666666667,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next wee"
+					]
+				]
+			],
+			[
+				41764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weee"
+					]
+				]
+			],
+			[
+				41862.7450980392,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek"
+					]
+				]
+			],
+			[
+				41960.7843137255,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek,"
+					]
+				]
+			],
+			[
+				42058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so"
+					]
+				]
+			],
+			[
+				42352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take"
+					]
+				]
+			],
+			[
+				42647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it"
+					]
+				]
+			],
+			[
+				42941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day"
+					]
+				]
+			],
+			[
+				43117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by"
+					]
+				]
+			],
+			[
+				43411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by d"
+					]
+				]
+			],
+			[
+				43588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by da"
+					]
+				]
+			],
+			[
+				43764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daa"
+					]
+				]
+			],
+			[
+				43941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daaa"
+					]
+				]
+			],
+			[
+				44117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daaaa"
+					]
+				]
+			],
+			[
+				44294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daaaaa"
+					]
+				]
+			],
+			[
+				44470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daaaaay"
+					]
+				]
+			],
+			[
+				44647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daaaaay."
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"hai basil",
+						"set",
+						"All"
+					]
+				]
+			],
+			[
+				45294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time"
+					]
+				]
+			],
+			[
+				45588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is"
+					]
+				]
+			],
+			[
+				45882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is un"
+					]
+				]
+			],
+			[
+				46176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is uni"
+					]
+				]
+			],
+			[
+				46294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is uniq"
+					]
+				]
+			],
+			[
+				46411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is uniqu"
+					]
+				]
+			],
+			[
+				46529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique"
+					]
+				]
+			],
+			[
+				46647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique,"
+					]
+				]
+			],
+			[
+				46764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all"
+					]
+				]
+			],
+			[
+				47058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all mem"
+					]
+				]
+			],
+			[
+				47352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memor"
+					]
+				]
+			],
+			[
+				47647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories"
+					]
+				]
+			],
+			[
+				47823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will"
+					]
+				]
+			],
+			[
+				48117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will s"
+					]
+				]
+			],
+			[
+				48294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will st"
+					]
+				]
+			],
+			[
+				48470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will sta"
+					]
+				]
+			],
+			[
+				48647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staa"
+					]
+				]
+			],
+			[
+				48823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaa"
+					]
+				]
+			],
+			[
+				49000,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaaa"
+					]
+				]
+			],
+			[
+				49176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaaaay"
+					]
+				]
+			],
+			[
+				49352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaaaay."
+					]
+				]
+			],
+			[
+				49705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's"
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's al"
+					]
+				]
+			],
+			[
+				50294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always"
+					]
+				]
+			],
+			[
+				50588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next"
+					]
+				]
+			],
+			[
+				50882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next w"
+					]
+				]
+			],
+			[
+				50980.3921568627,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next we"
+					]
+				]
+			],
+			[
+				51078.431372549,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next wee"
+					]
+				]
+			],
+			[
+				51176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weee"
+					]
+				]
+			],
+			[
+				51274.5098039216,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek"
+					]
+				]
+			],
+			[
+				51372.5490196078,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek,"
+					]
+				]
+			],
+			[
+				51470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and"
+					]
+				]
+			],
+			[
+				51764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though"
+					]
+				]
+			],
+			[
+				52058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it"
+					]
+				]
+			],
+			[
+				52352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may"
+					]
+				]
+			],
+			[
+				52529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not"
+					]
+				]
+			],
+			[
+				52823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not l"
+					]
+				]
+			],
+			[
+				53000,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not la"
+					]
+				]
+			],
+			[
+				53176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laa"
+					]
+				]
+			],
+			[
+				53352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laaa"
+					]
+				]
+			],
+			[
+				53529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laaaa"
+					]
+				]
+			],
+			[
+				53705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laaaas"
+					]
+				]
+			],
+			[
+				53882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laaaast"
+					]
+				]
+			],
+			[
+				54058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laaaast,"
+					]
+				]
+			],
+			[
+				54411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"En"
+					]
+				]
+			],
+			[
+				54705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy"
+					]
+				]
+			],
+			[
+				55000,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the"
+					]
+				]
+			],
+			[
+				55294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the mo"
+					]
+				]
+			],
+			[
+				55588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the mom"
+					]
+				]
+			],
+			[
+				55705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the mome"
+					]
+				]
+			],
+			[
+				55823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the momen"
+					]
+				]
+			],
+			[
+				55941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment"
+					]
+				]
+			],
+			[
+				56058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment,"
+					]
+				]
+			],
+			[
+				56176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take"
+					]
+				]
+			],
+			[
+				56470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride"
+					]
+				]
+			],
+			[
+				56764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and"
+					]
+				]
+			],
+			[
+				57058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have"
+					]
+				]
+			],
+			[
+				57235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a"
+					]
+				]
+			],
+			[
+				57529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a b"
+					]
+				]
+			],
+			[
+				57705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a bl"
+					]
+				]
+			],
+			[
+				57882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a bla"
+					]
+				]
+			],
+			[
+				58058.8235294117,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a blaa"
+					]
+				]
+			],
+			[
+				58235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a blaas"
+					]
+				]
+			],
+			[
+				58411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a blaast"
+					]
+				]
+			],
+			[
+				58588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a blaast."
+					]
+				]
+			],
+			[
+				59000,
+				[
+					[
+						"hai basil",
+						"set",
+						"We're"
+					]
+				]
+			],
+			[
+				59117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"We're all"
+					]
+				]
+			],
+			[
+				59352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"We're all friends,"
+					]
+				]
+			],
+			[
+				59705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"We're all friends, rang"
+					]
+				]
+			],
+			[
+				59882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"We're all friends, ranging"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"hai basil",
+						"set",
+						"We're all friends, ranging new"
+					]
+				]
+			],
+			[
+				60176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"We're all friends, ranging new to"
+					]
+				]
+			],
+			[
+				60470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"We're all friends, ranging new to old"
+					]
+				]
+			],
+			[
+				60764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"E"
+					]
+				]
+			],
+			[
+				60857.8431372549,
+				[
+					[
+						"hai basil",
+						"set",
+						"Ev"
+					]
+				]
+			],
+			[
+				60955.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"Eve"
+					]
+				]
+			],
+			[
+				61058.8235294117,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even"
+					]
+				]
+			],
+			[
+				61176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those"
+					]
+				]
+			],
+			[
+				61352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we"
+					]
+				]
+			],
+			[
+				61470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just"
+					]
+				]
+			],
+			[
+				61647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just m"
+					]
+				]
+			],
+			[
+				61764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just me"
+					]
+				]
+			],
+			[
+				61882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met"
+					]
+				]
+			],
+			[
+				62058.8235294117,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met al"
+					]
+				]
+			],
+			[
+				62235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met alrea"
+					]
+				]
+			],
+			[
+				62352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met already"
+					]
+				]
+			],
+			[
+				62529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met already feel"
+					]
+				]
+			],
+			[
+				62647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met already feel right"
+					]
+				]
+			],
+			[
+				62823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met already feel right a"
+					]
+				]
+			],
+			[
+				62882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met already feel right aa"
+					]
+				]
+			],
+			[
+				62941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met already feel right aaa"
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met already feel right aaaa"
+					]
+				]
+			],
+			[
+				63058.8235294117,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met already feel right aaaaa"
+					]
+				]
+			],
+			[
+				63117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met already feel right aaaaat"
+					]
+				]
+			],
+			[
+				63235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"Even those we just met already feel right aaaaat home."
+					]
+				]
+			],
+			[
+				63705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"With"
+					]
+				]
+			],
+			[
+				63823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"With each"
+					]
+				]
+			],
+			[
+				64058.8235294117,
+				[
+					[
+						"hai basil",
+						"set",
+						"With each fail"
+					]
+				]
+			],
+			[
+				64411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"With each failure's"
+					]
+				]
+			],
+			[
+				64588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"With each failure's an"
+					]
+				]
+			],
+			[
+				64705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"With each failure's ano"
+					]
+				]
+			],
+			[
+				64882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"With each failure's another"
+					]
+				]
+			],
+			[
+				65176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"With each failure's another chance"
+					]
+				]
+			],
+			[
+				65470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"To"
+					]
+				]
+			],
+			[
+				65529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"Too"
+					]
+				]
+			],
+			[
+				65588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"Tooo"
+					]
+				]
+			],
+			[
+				65647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"Toooo"
+					]
+				]
+			],
+			[
+				65764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"Toooo get"
+					]
+				]
+			],
+			[
+				65882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Toooo get to"
+					]
+				]
+			],
+			[
+				66058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"Toooo get to try"
+					]
+				]
+			],
+			[
+				66176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Toooo get to try a"
+					]
+				]
+			],
+			[
+				66352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"Toooo get to try ag"
+					]
+				]
+			],
+			[
+				66411.7647058823,
+				[
+					[
+						"hai basil",
+						"set",
+						"Toooo get to try aga"
+					]
+				]
+			],
+			[
+				66470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"Toooo get to try agai"
+					]
+				]
+			],
+			[
+				66529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"Toooo get to try again"
+					]
+				]
+			],
+			[
+				66588.2352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"Toooo get to try againn"
+					]
+				]
+			],
+			[
+				66647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"Toooo get to try againn,"
+					]
+				]
+			],
+			[
+				66764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"make"
+					]
+				]
+			],
+			[
+				66941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your"
+					]
+				]
+			],
+			[
+				67058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your pro"
+					]
+				]
+			],
+			[
+				67235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress"
+					]
+				]
+			],
+			[
+				67352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress ob"
+					]
+				]
+			],
+			[
+				67529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress obv"
+					]
+				]
+			],
+			[
+				67588.2352941177,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress obvi"
+					]
+				]
+			],
+			[
+				67647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress obvii"
+					]
+				]
+			],
+			[
+				67705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress obviii"
+					]
+				]
+			],
+			[
+				67764.7058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress obviiii"
+					]
+				]
+			],
+			[
+				67823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress obviiiii"
+					]
+				]
+			],
+			[
+				67882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress obviiiiii"
+					]
+				]
+			],
+			[
+				67941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress obviiiiiio"
+					]
+				]
+			],
+			[
+				68000,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress obviiiiiiou"
+					]
+				]
+			],
+			[
+				68058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress obviiiiiious"
+					]
+				]
+			],
+			[
+				68117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"make your progress obviiiiiious."
+					]
+				]
+			],
+			[
+				68529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"Tough"
+					]
+				]
+			],
+			[
+				68823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"Tough times"
+					]
+				]
+			],
+			[
+				69117.6470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"Tough times some"
+					]
+				]
+			],
+			[
+				69294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"Tough times sometimes"
+					]
+				]
+			],
+			[
+				69411.7647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						"Tough times sometimes will"
+					]
+				]
+			],
+			[
+				69588.2352941177,
+				[
+					[
+						"hai basil",
+						"set",
+						"Tough times sometimes will out"
+					]
+				]
+			],
+			[
+				69882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Tough times sometimes will outshine"
+					]
+				]
+			],
+			[
+				70176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"A"
+					]
+				]
+			],
+			[
+				70235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"Al"
+					]
+				]
+			],
+			[
+				70294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"All"
+					]
+				]
+			],
+			[
+				70352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"Alll"
+					]
+				]
+			],
+			[
+				70470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"Alll the"
+					]
+				]
+			],
+			[
+				70588.2352941177,
+				[
+					[
+						"hai basil",
+						"set",
+						"Alll the good"
+					]
+				]
+			],
+			[
+				70764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Alll the good and"
+					]
+				]
+			],
+			[
+				70882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Alll the good and the"
+					]
+				]
+			],
+			[
+				71058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"Alll the good and the g"
+					]
+				]
+			],
+			[
+				71117.6470588236,
+				[
+					[
+						"hai basil",
+						"set",
+						"Alll the good and the gr"
+					]
+				]
+			],
+			[
+				71176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Alll the good and the gre"
+					]
+				]
+			],
+			[
+				71235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"Alll the good and the grea"
+					]
+				]
+			],
+			[
+				71294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"Alll the good and the great"
+					]
+				]
+			],
+			[
+				71352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"Alll the good and the great,"
+					]
+				]
+			],
+			[
+				71470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"ev"
+					]
+				]
+			],
+			[
+				71647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"even"
+					]
+				]
+			],
+			[
+				71764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just"
+					]
+				]
+			],
+			[
+				71941.1764705883,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for"
+					]
+				]
+			],
+			[
+				72058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a"
+					]
+				]
+			],
+			[
+				72235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a w"
+					]
+				]
+			],
+			[
+				72294.1176470589,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a we"
+					]
+				]
+			],
+			[
+				72352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a wee"
+					]
+				]
+			],
+			[
+				72411.7647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a weee"
+					]
+				]
+			],
+			[
+				72470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a weeee"
+					]
+				]
+			],
+			[
+				72529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a weeeee"
+					]
+				]
+			],
+			[
+				72588.2352941177,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a weeeeek"
+					]
+				]
+			],
+			[
+				72647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a weeeeeke"
+					]
+				]
+			],
+			[
+				72705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a weeeeeken"
+					]
+				]
+			],
+			[
+				72764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a weeeeekend"
+					]
+				]
+			],
+			[
+				72823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a weeeeekendd"
+					]
+				]
+			],
+			[
+				72882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a weeeeekenddd"
+					]
+				]
+			],
+			[
+				72941.1764705883,
+				[
+					[
+						"hai basil",
+						"set",
+						"even just for a weeeeekenddd."
+					]
+				]
+			],
+			[
+				73264.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Don't"
+					]
+				]
+			],
+			[
+				73529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"Don't let"
+					]
+				]
+			],
+			[
+				73823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"Don't let neg"
+					]
+				]
+			],
+			[
+				74000,
+				[
+					[
+						"hai basil",
+						"set",
+						"Don't let nega"
+					]
+				]
+			],
+			[
+				74117.6470588236,
+				[
+					[
+						"hai basil",
+						"set",
+						"Don't let negative"
+					]
+				]
+			],
+			[
+				74294.1176470589,
+				[
+					[
+						"hai basil",
+						"set",
+						"Don't let negative thoughts"
+					]
+				]
+			],
+			[
+				74588.2352941177,
+				[
+					[
+						"hai basil",
+						"set",
+						"Don't let negative thoughts flow"
+					]
+				]
+			],
+			[
+				74882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"T"
+					]
+				]
+			],
+			[
+				74941.1764705883,
+				[
+					[
+						"hai basil",
+						"set",
+						"Th"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"hai basil",
+						"set",
+						"Tho"
+					]
+				]
+			],
+			[
+				75058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"Thou"
+					]
+				]
+			],
+			[
+				75117.6470588236,
+				[
+					[
+						"hai basil",
+						"set",
+						"Thoug"
+					]
+				]
+			],
+			[
+				75176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Though we'll"
+					]
+				]
+			],
+			[
+				75294.1176470589,
+				[
+					[
+						"hai basil",
+						"set",
+						"Though we'll be"
+					]
+				]
+			],
+			[
+				75470.5882352942,
+				[
+					[
+						"hai basil",
+						"set",
+						"Though we'll be hand"
+					]
+				]
+			],
+			[
+				75588.2352941177,
+				[
+					[
+						"hai basil",
+						"set",
+						"Though we'll be hand in"
+					]
+				]
+			],
+			[
+				75764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Though we'll be hand in h"
+					]
+				]
+			],
+			[
+				75823.5294117648,
+				[
+					[
+						"hai basil",
+						"set",
+						"Though we'll be hand in ha"
+					]
+				]
+			],
+			[
+				75882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Though we'll be hand in haa"
+					]
+				]
+			],
+			[
+				75941.1764705883,
+				[
+					[
+						"hai basil",
+						"set",
+						"Though we'll be hand in haaa"
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"hai basil",
+						"set",
+						"Though we'll be hand in haaan"
+					]
+				]
+			],
+			[
+				76058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"Though we'll be hand in haaand"
+					]
+				]
+			],
+			[
+				76117.6470588236,
+				[
+					[
+						"hai basil",
+						"set",
+						"Though we'll be hand in haaand,"
+					]
+				]
+			],
+			[
+				76176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey"
+					]
+				]
+			],
+			[
+				76352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's"
+					]
+				]
+			],
+			[
+				76470.5882352942,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no"
+					]
+				]
+			],
+			[
+				76647.0588235295,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need"
+					]
+				]
+			],
+			[
+				76764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to"
+					]
+				]
+			],
+			[
+				76941.1764705883,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to t"
+					]
+				]
+			],
+			[
+				77000.0000000001,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to tw"
+					]
+				]
+			],
+			[
+				77058.8235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to twe"
+					]
+				]
+			],
+			[
+				77117.6470588236,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to twea"
+					]
+				]
+			],
+			[
+				77176.4705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to tweak"
+					]
+				]
+			],
+			[
+				77235.2941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to tweak,"
+					]
+				]
+			],
+			[
+				77352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to tweak, man."
+					]
+				]
+			],
+			[
+				77764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to tweak, man. :)"
+					]
+				]
+			],
+			[
+				77941.1764705883,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				78117.6470588236,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to tweak, man. :)"
+					]
+				]
+			],
+			[
+				78294.1176470589,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				78470.5882352942,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to tweak, man. :)"
+					]
+				]
+			],
+			[
+				78647.0588235295,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				78823.5294117648,
+				[
+					[
+						"hai basil",
+						"set",
+						"Hey there's no need to tweak, man. :)"
+					]
+				]
+			],
+			[
+				79000.0000000001,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				96470.5882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON"
+					]
+				]
+			],
+			[
+				96647.0588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON AND"
+					]
+				]
+			],
+			[
+				96941.1764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON AND ON,"
+					]
+				]
+			],
+			[
+				97352.9411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON"
+					]
+				]
+			],
+			[
+				97529.4117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON A"
+					]
+				]
+			],
+			[
+				97823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"ON A ROLL."
+					]
+				]
+			],
+			[
+				98823.5294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET"
+					]
+				]
+			],
+			[
+				99000,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET CRE"
+					]
+				]
+			],
+			[
+				99294.1176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET CREA"
+					]
+				]
+			],
+			[
+				99705.8823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET CREATIVE"
+					]
+				]
+			],
+			[
+				99882.3529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET CREATIVENESS"
+					]
+				]
+			],
+			[
+				100176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"LET CREATIVENESS FLOW."
+					]
+				]
+			],
+			[
+				101176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"EV"
+					]
+				]
+			],
+			[
+				101352.941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"EVEN"
+					]
+				]
+			],
+			[
+				101647.058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"EVEN WHEN"
+					]
+				]
+			],
+			[
+				102058.823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"EVEN WHEN LIFE"
+					]
+				]
+			],
+			[
+				102235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"EVEN WHEN LIFE GETS"
+					]
+				]
+			],
+			[
+				102529.411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"EVEN WHEN LIFE GETS HARD,"
+					]
+				]
+			],
+			[
+				102941.176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"MON"
+					]
+				]
+			],
+			[
+				103117.647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						"MONDAY"
+					]
+				]
+			],
+			[
+				103411.764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"MONDAY IS"
+					]
+				]
+			],
+			[
+				103823.529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"MONDAY IS NEV"
+					]
+				]
+			],
+			[
+				104000,
+				[
+					[
+						"hai basil",
+						"set",
+						"MONDAY IS NEVER"
+					]
+				]
+			],
+			[
+				104294.117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"MONDAY IS NEVER FAR,"
+					]
+				]
+			],
+			[
+				104705.882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"BE"
+					]
+				]
+			],
+			[
+				104882.352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"BE A"
+					]
+				]
+			],
+			[
+				105176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"BE A PART,"
+					]
+				]
+			],
+			[
+				105588.235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW"
+					]
+				]
+			],
+			[
+				105764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR"
+					]
+				]
+			],
+			[
+				106058.823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR H"
+					]
+				]
+			],
+			[
+				106176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HE"
+					]
+				]
+			],
+			[
+				106323.529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEE"
+					]
+				]
+			],
+			[
+				106470.588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEA"
+					]
+				]
+			],
+			[
+				106617.647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAA"
+					]
+				]
+			],
+			[
+				106764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAAR"
+					]
+				]
+			],
+			[
+				106911.764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAARR"
+					]
+				]
+			],
+			[
+				107058.823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAARR"
+					]
+				]
+			],
+			[
+				107205.882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAARRT"
+					]
+				]
+			],
+			[
+				107352.941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"SHOW YOUR HEEAARRTT"
+					]
+				]
+			],
+			[
+				107647.058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"<3"
+					]
+				]
+			],
+			[
+				107745.098039216,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				107843.137254902,
+				[
+					[
+						"hai basil",
+						"set",
+						"<3"
+					]
+				]
+			],
+			[
+				107941.176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				108039.215686275,
+				[
+					[
+						"hai basil",
+						"set",
+						"<3"
+					]
+				]
+			],
+			[
+				108137.254901961,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				108529.411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's"
+					]
+				]
+			],
+			[
+				108823.529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's al"
+					]
+				]
+			],
+			[
+				109117.647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always"
+					]
+				]
+			],
+			[
+				109411.764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next"
+					]
+				]
+			],
+			[
+				109705.882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next w"
+					]
+				]
+			],
+			[
+				109803.921568627,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next we"
+					]
+				]
+			],
+			[
+				109901.960784314,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next wee"
+					]
+				]
+			],
+			[
+				110000,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weee"
+					]
+				]
+			],
+			[
+				110098.039215686,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek"
+					]
+				]
+			],
+			[
+				110196.078431373,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek,"
+					]
+				]
+			],
+			[
+				110294.117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so"
+					]
+				]
+			],
+			[
+				110588.235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take"
+					]
+				]
+			],
+			[
+				110882.352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it"
+					]
+				]
+			],
+			[
+				111176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day"
+					]
+				]
+			],
+			[
+				111352.941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by"
+					]
+				]
+			],
+			[
+				111647.058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by d"
+					]
+				]
+			],
+			[
+				111823.529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by da"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daa"
+					]
+				]
+			],
+			[
+				112176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daaa"
+					]
+				]
+			],
+			[
+				112352.941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daaaa"
+					]
+				]
+			],
+			[
+				112529.411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daaaaa"
+					]
+				]
+			],
+			[
+				112705.882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daaaaay"
+					]
+				]
+			],
+			[
+				112882.352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, so take it day by daaaaay."
+					]
+				]
+			],
+			[
+				113235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"All"
+					]
+				]
+			],
+			[
+				113529.411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time"
+					]
+				]
+			],
+			[
+				113823.529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is"
+					]
+				]
+			],
+			[
+				114117.647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is un"
+					]
+				]
+			],
+			[
+				114411.764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is uni"
+					]
+				]
+			],
+			[
+				114529.411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is uniq"
+					]
+				]
+			],
+			[
+				114647.058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is uniqu"
+					]
+				]
+			],
+			[
+				114764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique"
+					]
+				]
+			],
+			[
+				114882.352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique,"
+					]
+				]
+			],
+			[
+				115000,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all"
+					]
+				]
+			],
+			[
+				115294.117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all mem"
+					]
+				]
+			],
+			[
+				115588.235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memor"
+					]
+				]
+			],
+			[
+				115882.352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories"
+					]
+				]
+			],
+			[
+				116058.823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will"
+					]
+				]
+			],
+			[
+				116352.941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will s"
+					]
+				]
+			],
+			[
+				116529.411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will st"
+					]
+				]
+			],
+			[
+				116705.882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will sta"
+					]
+				]
+			],
+			[
+				116882.352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staa"
+					]
+				]
+			],
+			[
+				117058.823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaa"
+					]
+				]
+			],
+			[
+				117235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaaa"
+					]
+				]
+			],
+			[
+				117411.764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaaaay"
+					]
+				]
+			],
+			[
+				117588.235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaaaay."
+					]
+				]
+			],
+			[
+				117941.176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's"
+					]
+				]
+			],
+			[
+				118235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's al"
+					]
+				]
+			],
+			[
+				118529.411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always"
+					]
+				]
+			],
+			[
+				118823.529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next"
+					]
+				]
+			],
+			[
+				119117.647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next w"
+					]
+				]
+			],
+			[
+				119215.68627451,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next we"
+					]
+				]
+			],
+			[
+				119313.725490196,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next wee"
+					]
+				]
+			],
+			[
+				119411.764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weee"
+					]
+				]
+			],
+			[
+				119509.803921569,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek"
+					]
+				]
+			],
+			[
+				119607.843137255,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek,"
+					]
+				]
+			],
+			[
+				119705.882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though"
+					]
+				]
+			],
+			[
+				120294.117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it"
+					]
+				]
+			],
+			[
+				120588.235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may"
+					]
+				]
+			],
+			[
+				120764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not"
+					]
+				]
+			],
+			[
+				121058.823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not l"
+					]
+				]
+			],
+			[
+				121235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not la"
+					]
+				]
+			],
+			[
+				121411.764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laa"
+					]
+				]
+			],
+			[
+				121588.235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laaa"
+					]
+				]
+			],
+			[
+				121764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laaaa"
+					]
+				]
+			],
+			[
+				121941.176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laaaas"
+					]
+				]
+			],
+			[
+				122117.647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laaaast"
+					]
+				]
+			],
+			[
+				122294.117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, and though it may not laaaast,"
+					]
+				]
+			],
+			[
+				122647.058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"En"
+					]
+				]
+			],
+			[
+				122941.176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy"
+					]
+				]
+			],
+			[
+				123235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the"
+					]
+				]
+			],
+			[
+				123529.411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the mo"
+					]
+				]
+			],
+			[
+				123823.529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the mom"
+					]
+				]
+			],
+			[
+				123941.176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the mome"
+					]
+				]
+			],
+			[
+				124058.823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the momen"
+					]
+				]
+			],
+			[
+				124176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment"
+					]
+				]
+			],
+			[
+				124294.117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment,"
+					]
+				]
+			],
+			[
+				124411.764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take"
+					]
+				]
+			],
+			[
+				124705.882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride"
+					]
+				]
+			],
+			[
+				125000,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and"
+					]
+				]
+			],
+			[
+				125294.117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have"
+					]
+				]
+			],
+			[
+				125470.588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a"
+					]
+				]
+			],
+			[
+				125764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a b"
+					]
+				]
+			],
+			[
+				125941.176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a bl"
+					]
+				]
+			],
+			[
+				126117.647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a bla"
+					]
+				]
+			],
+			[
+				126294.117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a blaa"
+					]
+				]
+			],
+			[
+				126470.588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a blaas"
+					]
+				]
+			],
+			[
+				126647.058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a blaast"
+					]
+				]
+			],
+			[
+				126823.529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a blaast."
+					]
+				]
+			],
+			[
+				127000,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				127176.470588236,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a blaast."
+					]
+				]
+			],
+			[
+				127352.941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				127529.411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a blaast."
+					]
+				]
+			],
+			[
+				127705.882352942,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				127882.352941177,
+				[
+					[
+						"hai basil",
+						"set",
+						"Enjoy the moment, take stride and have a blaast."
+					]
+				]
+			],
+			[
+				128058.823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				146176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's"
+					]
+				]
+			],
+			[
+				146470.588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's al"
+					]
+				]
+			],
+			[
+				146764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always"
+					]
+				]
+			],
+			[
+				147058.823529411,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next"
+					]
+				]
+			],
+			[
+				147352.94117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next w"
+					]
+				]
+			],
+			[
+				147450.980392156,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next we"
+					]
+				]
+			],
+			[
+				147549.019607843,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next wee"
+					]
+				]
+			],
+			[
+				147647.058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weee"
+					]
+				]
+			],
+			[
+				147745.098039215,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek"
+					]
+				]
+			],
+			[
+				147843.137254902,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek,"
+					]
+				]
+			],
+			[
+				147941.176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we"
+					]
+				]
+			],
+			[
+				148235.294117648,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took"
+					]
+				]
+			],
+			[
+				148529.411764706,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took it"
+					]
+				]
+			],
+			[
+				148823.529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took it day"
+					]
+				]
+			],
+			[
+				149019.607843138,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took it day by"
+					]
+				]
+			],
+			[
+				149313.725490197,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took it day by d"
+					]
+				]
+			],
+			[
+				149470.588235295,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took it day by da"
+					]
+				]
+			],
+			[
+				149647.05882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took it day by daa"
+					]
+				]
+			],
+			[
+				149823.529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took it day by daaa"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took it day by daaaa"
+					]
+				]
+			],
+			[
+				150176.470588236,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took it day by daaaaa"
+					]
+				]
+			],
+			[
+				150352.941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took it day by daaaaay"
+					]
+				]
+			],
+			[
+				150539.215686275,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, we took it day by daaaaay."
+					]
+				]
+			],
+			[
+				150882.352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"All"
+					]
+				]
+			],
+			[
+				151176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time"
+					]
+				]
+			],
+			[
+				151470.588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is"
+					]
+				]
+			],
+			[
+				151764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is un"
+					]
+				]
+			],
+			[
+				152058.823529411,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is uni"
+					]
+				]
+			],
+			[
+				152176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is uniq"
+					]
+				]
+			],
+			[
+				152294.117647058,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is uniqu"
+					]
+				]
+			],
+			[
+				152411.764705882,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique"
+					]
+				]
+			],
+			[
+				152529.411764705,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique,"
+					]
+				]
+			],
+			[
+				152647.058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all"
+					]
+				]
+			],
+			[
+				152941.176470588,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all mem"
+					]
+				]
+			],
+			[
+				153235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memor"
+					]
+				]
+			],
+			[
+				153529.411764705,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories"
+					]
+				]
+			],
+			[
+				153705.882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will"
+					]
+				]
+			],
+			[
+				154000,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will s"
+					]
+				]
+			],
+			[
+				154176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will st"
+					]
+				]
+			],
+			[
+				154352.94117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will sta"
+					]
+				]
+			],
+			[
+				154529.411764705,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staa"
+					]
+				]
+			],
+			[
+				154705.882352941,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaa"
+					]
+				]
+			],
+			[
+				154882.352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaaa"
+					]
+				]
+			],
+			[
+				155058.823529411,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaaaay"
+					]
+				]
+			],
+			[
+				155235.294117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"All time is unique, all memories will staaaaay."
+					]
+				]
+			],
+			[
+				155588.235294117,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's"
+					]
+				]
+			],
+			[
+				155882.352941176,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's al"
+					]
+				]
+			],
+			[
+				156176.470588235,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always"
+					]
+				]
+			],
+			[
+				156470.588235294,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next"
+					]
+				]
+			],
+			[
+				156764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next w"
+					]
+				]
+			],
+			[
+				156862.745098039,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next we"
+					]
+				]
+			],
+			[
+				156960.784313725,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next wee"
+					]
+				]
+			],
+			[
+				157058.823529411,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weee"
+					]
+				]
+			],
+			[
+				157156.862745098,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek"
+					]
+				]
+			],
+			[
+				157254.901960784,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek,"
+					]
+				]
+			],
+			[
+				157352.94117647,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, al"
+					]
+				]
+			],
+			[
+				157647.058823529,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although"
+					]
+				]
+			],
+			[
+				157941.176470589,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although it"
+					]
+				]
+			],
+			[
+				158235.294117648,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although it may"
+					]
+				]
+			],
+			[
+				158411.764705883,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although it may not"
+					]
+				]
+			],
+			[
+				158705.882352942,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although it may not l"
+					]
+				]
+			],
+			[
+				158882.352941177,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although it may not la"
+					]
+				]
+			],
+			[
+				159058.823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although it may not laa"
+					]
+				]
+			],
+			[
+				159235.294117648,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although it may not laaa"
+					]
+				]
+			],
+			[
+				159411.764705883,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although it may not laaaa"
+					]
+				]
+			],
+			[
+				159588.235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although it may not laaaas"
+					]
+				]
+			],
+			[
+				159764.705882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although it may not laaaast"
+					]
+				]
+			],
+			[
+				159941.176470589,
+				[
+					[
+						"hai basil",
+						"set",
+						"There's always next weeek, although it may not laaaast,"
+					]
+				]
+			],
+			[
+				160294.117647059,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll"
+					]
+				]
+			],
+			[
+				160588.235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see"
+					]
+				]
+			],
+			[
+				160882.352941177,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you"
+					]
+				]
+			],
+			[
+				161176.470588236,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next"
+					]
+				]
+			],
+			[
+				161470.588235295,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next w"
+					]
+				]
+			],
+			[
+				161588.235294118,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next we"
+					]
+				]
+			],
+			[
+				161705.882352942,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next wee"
+					]
+				]
+			],
+			[
+				161823.529411765,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week"
+					]
+				]
+			],
+			[
+				161941.176470589,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week,"
+					]
+				]
+			],
+			[
+				162058.823529412,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just"
+					]
+				]
+			],
+			[
+				162352.941176471,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just re"
+					]
+				]
+			],
+			[
+				162647.05882353,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just remin"
+					]
+				]
+			],
+			[
+				162941.176470589,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce"
+					]
+				]
+			],
+			[
+				163137.254901961,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the"
+					]
+				]
+			],
+			[
+				163431.37254902,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the p"
+					]
+				]
+			],
+			[
+				163578.43137255,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the pa"
+					]
+				]
+			],
+			[
+				163725.490196079,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the paa"
+					]
+				]
+			],
+			[
+				163872.549019608,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the paaa"
+					]
+				]
+			],
+			[
+				164019.607843138,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the paaaa"
+					]
+				]
+			],
+			[
+				164166.666666667,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the paaaaa"
+					]
+				]
+			],
+			[
+				164313.725490197,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the paaaaas"
+					]
+				]
+			],
+			[
+				164460.784313726,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the paaaaast"
+					]
+				]
+			],
+			[
+				164607.843137255,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the paaaaast!"
+					]
+				]
+			],
+			[
+				164754.901960785,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				164901.960784314,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the paaaaast!"
+					]
+				]
+			],
+			[
+				165049.019607844,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				165196.078431373,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the paaaaast!"
+					]
+				]
+			],
+			[
+				165343.137254903,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				165490.196078432,
+				[
+					[
+						"hai basil",
+						"set",
+						"We'll see you next week, just reminisce the paaaaast!"
+					]
+				]
+			],
+			[
+				165637.254901961,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				171764.705882354,
+				[
+					[
+						"hai basil",
+						"set",
+						"(Thank You For Playing! <3)"
+					]
+				]
+			],
+			[
+				174117.647058824,
+				[
+					[
+						"hai basil",
+						"set",
+						""
+					]
+				]
+			]
+		]
+	}
+}

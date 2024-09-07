@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Friends And Fellas",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Cloverderus, maddiesmiles"],
+        "chart" : ["Cloverderus"],
+        "art" : ["ultraspicyspray", "alphalul1", "PixelAves", "DerpDrawz", "Dollie", "SN0WYDREAMS"],
+        "code" : ["Lethrial"],
+        "va" : null
+    }
+}

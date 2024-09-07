@@ -267,6 +267,10 @@ class FreeplayState extends MusicBeatState
 		{
 			weekText.text = 'TWEAK 666';
 		}
+		else if(curWeek == 11)
+		{
+			weekText.text = 'EXTRAS';
+		}
 		else
 		{
 			weekText.text = 'TWEAK $curWeek';

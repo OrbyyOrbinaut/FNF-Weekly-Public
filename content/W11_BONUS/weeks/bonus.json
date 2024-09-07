@@ -1,0 +1,69 @@
+{
+	"songs": [
+		[
+			"Teaking Pico",
+			"tweak",
+			[
+				166,
+				233,
+				253
+			]
+		],
+		[
+			"Goo Pico",
+			"tweak",
+			[
+				166,
+				233,
+				253
+			]
+		],
+		[
+			"Teaking Weekly Mix",
+			"boss",
+			[
+				166,
+				233,
+				253
+			]
+		],
+		[
+			"Goo Weekly Mix",
+			"boss",
+			[
+				166,
+				233,
+				253
+			]
+		],
+		[
+			"There's Always Next Week!",
+			"weekly",
+			[
+				255,
+				202,
+				80
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "tweak",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "EXTRAS",
+	"weekName": "Extras",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weeklogo": "tweakingboss"
+}

@@ -1,0 +1,2 @@
+value 1 is opponent
+value 2 is player

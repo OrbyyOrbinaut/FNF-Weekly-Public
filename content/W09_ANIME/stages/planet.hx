@@ -222,3 +222,7 @@ function onGameOverStart()
 {
     setGameOverVideo('db_gameover'); // these bitches gay! good for them, good for them
 }
+
+function onDestroy() {
+    if (intro != null) intro.destroy();
+}

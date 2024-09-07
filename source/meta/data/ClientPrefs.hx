@@ -20,6 +20,7 @@ class ClientPrefs {
 
 	public static var yoshi:Bool = true;
 	public static var darnell:Bool = #if HIT_SINGLE true #else false #end;
+	public static var gold:Bool = false;
 
 	//-----------------------------------------//
 	public static var gpuCaching:Bool = true;
@@ -164,6 +165,7 @@ class ClientPrefs {
 
 		FlxG.save.data.yoshi = yoshi;
 		FlxG.save.data.darnell = darnell;
+		FlxG.save.data.gold = gold;
 		FlxG.save.data.editorGradColors = editorGradColors;
 		FlxG.save.data.editorBoxColors = editorBoxColors;
 		FlxG.save.data.editorUIColor = editorUIColor;
@@ -239,6 +241,9 @@ class ClientPrefs {
 			 darnell = FlxG.save.data.darnell; 
 		}
 		#end
+		if(FlxG.save.data.gold != null) {
+			gold = FlxG.save.data.gold;
+		}
 		if(FlxG.save.data.editorGradColors != null){
 			editorGradColors = FlxG.save.data.editorGradColors;
 		}

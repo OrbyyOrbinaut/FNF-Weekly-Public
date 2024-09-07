@@ -13,10 +13,10 @@ var cameo:FlxSprite;
 var cameoIsActive:Bool = false;
 
 function onLoad() {
-    game.precacheList.set('box24/aoi', 'image');
-    game.precacheList.set('box24/toko', 'image');
-    game.precacheList.set('box24/leonn', 'image');
-    game.precacheList.set('box24/nagito', 'image');
+    game.precacheList.set('box24/cameos/aoi', 'image');
+    game.precacheList.set('box24/cameos/toko', 'image');
+    game.precacheList.set('box24/cameos/leonn', 'image');
+    game.precacheList.set('box24/cameos/nagito', 'image');
     
     bgtile1 = new FlxSprite(-75, -450);
     bgtile1.loadGraphic(Paths.image("box24/ronpa_tile"));

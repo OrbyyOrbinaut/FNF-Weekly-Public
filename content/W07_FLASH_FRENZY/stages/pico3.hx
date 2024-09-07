@@ -1,6 +1,6 @@
 var hpBar:FlxSprite;
 var defeat:Int = 5;
-var themes:Array<String> = ['dad', 'gang', 'salad', 'tank', 'tricky'];
+var themes:Array<String> = ['boss', 'dad', 'gang', 'salad', 'tank', 'tricky'];
 var text:FlxText;
 var notesHit:Int = 0;
 var kid1:FlxSprite;
@@ -161,7 +161,7 @@ function onCreatePost() {
     modManager.setValue("miniX", 0.4);
     modManager.setValue("miniY", 0.4);
 
-    var th:FlxSprite = new FlxSprite(0, 0).loadGraphic(Paths.image("pico/themes/" + themes[FlxG.random.int(0, 4)]));
+    var th:FlxSprite = new FlxSprite(0, 0).loadGraphic(Paths.image("pico/themes/" + themes[FlxG.random.int(0, 5)]));
     th.antialiasing = ClientPrefs.globalAntialiasing;
     th.cameras = [game.camOther];
     add(th);

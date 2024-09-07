@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tweaksuperfan scary assets.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle_alt1_RIGHT0000" x="254" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_alt1_RIGHT0001" x="254" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_alt1_RIGHT0002" x="507" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="idle_alt1_RIGHT0003" x="507" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="idle_alt1_RIGHT0004" x="254" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_alt1_RIGHT0005" x="254" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_alt1_RIGHT0006" x="507" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="idle_alt1_RIGHT0007" x="507" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="idle_alt2_UP0000" x="760" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_alt2_UP0001" x="760" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_alt2_UP0002" x="1013" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="idle_alt2_UP0003" x="1013" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="idle_alt2_UP0004" x="760" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_alt2_UP0005" x="760" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_alt2_UP0006" x="1013" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="idle_alt2_UP0007" x="1013" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="idle_default_LEFT0000" x="1266" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_default_LEFT0001" x="1266" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_default_LEFT0002" x="1519" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="idle_default_LEFT0003" x="1519" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="idle_default_LEFT0004" x="1266" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_default_LEFT0005" x="1266" y="1103" width="253" height="350"/>
+	<SubTexture name="idle_default_LEFT0006" x="1519" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="idle_default_LEFT0007" x="1519" y="1103" width="253" height="349" frameX="0" frameY="0" frameWidth="253" frameHeight="350"/>
+	<SubTexture name="tweakfan SCREAM0000" x="1772" y="1103" width="265" height="273" frameX="-53" frameY="-167" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0001" x="0" y="1466" width="256" height="276" frameX="-61" frameY="-150" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0002" x="256" y="1466" width="256" height="276" frameX="-61" frameY="-150" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0003" x="512" y="1466" width="358" height="429" frameX="0" frameY="0" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0004" x="512" y="1466" width="358" height="429" frameX="0" frameY="0" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0005" x="870" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0006" x="870" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0007" x="1243" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0008" x="1243" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0009" x="870" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0010" x="870" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0011" x="1243" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0012" x="1243" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0013" x="870" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0014" x="870" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0015" x="1243" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0016" x="1243" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0017" x="870" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0018" x="870" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0019" x="1243" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0020" x="1243" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0021" x="870" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan SCREAM0022" x="870" y="1466" width="373" height="411" frameX="-3" frameY="-17" frameWidth="376" frameHeight="440"/>
+	<SubTexture name="tweakfan_DOWN0000" x="0" y="0" width="255" height="328" frameX="0" frameY="-16" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0001" x="0" y="0" width="255" height="328" frameX="0" frameY="-16" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0002" x="255" y="0" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0003" x="255" y="0" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0004" x="509" y="0" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0005" x="509" y="0" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0006" x="255" y="0" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0007" x="255" y="0" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0008" x="509" y="0" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0009" x="509" y="0" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0010" x="255" y="0" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0011" x="255" y="0" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0012" x="509" y="0" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_DOWN0013" x="509" y="0" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="344"/>
+	<SubTexture name="tweakfan_LEFT0000" x="763" y="0" width="259" height="351" frameX="0" frameY="0" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0001" x="763" y="0" width="259" height="351" frameX="0" frameY="0" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0002" x="1022" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0003" x="1022" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0004" x="1275" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0005" x="1275" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0006" x="1022" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0007" x="1022" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0008" x="1275" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0009" x="1275" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0010" x="1022" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0011" x="1022" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0012" x="1275" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_LEFT0013" x="1275" y="0" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_RIGHT0000" x="1528" y="0" width="252" height="352" frameX="-17" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0001" x="1528" y="0" width="252" height="352" frameX="-17" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0002" x="1780" y="0" width="254" height="353" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0003" x="1780" y="0" width="254" height="353" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0004" x="0" y="353" width="254" height="352" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0005" x="0" y="353" width="254" height="352" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0006" x="1780" y="0" width="254" height="353" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0007" x="1780" y="0" width="254" height="353" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0008" x="0" y="353" width="254" height="352" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0009" x="0" y="353" width="254" height="352" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0010" x="1780" y="0" width="254" height="353" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0011" x="1780" y="0" width="254" height="353" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0012" x="0" y="353" width="254" height="352" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_RIGHT0013" x="0" y="353" width="254" height="352" frameX="0" frameY="0" frameWidth="269" frameHeight="353"/>
+	<SubTexture name="tweakfan_UP0000" x="254" y="353" width="255" height="375" frameX="-1" frameY="0" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0001" x="254" y="353" width="255" height="375" frameX="-1" frameY="0" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0002" x="509" y="353" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0003" x="509" y="353" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0004" x="763" y="353" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0005" x="763" y="353" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0006" x="509" y="353" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0007" x="509" y="353" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0008" x="763" y="353" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0009" x="763" y="353" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0010" x="509" y="353" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0011" x="509" y="353" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0012" x="763" y="353" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_UP0013" x="763" y="353" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altDOWN0000" x="1017" y="353" width="255" height="329" frameX="0" frameY="-14" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0001" x="1017" y="353" width="255" height="329" frameX="0" frameY="-14" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0002" x="1272" y="353" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0003" x="1272" y="353" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0004" x="1526" y="353" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0005" x="1526" y="353" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0006" x="1272" y="353" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0007" x="1272" y="353" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0008" x="1526" y="353" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0009" x="1526" y="353" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0010" x="1272" y="353" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0011" x="1272" y="353" width="254" height="343" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0012" x="1526" y="353" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altDOWN0013" x="1526" y="353" width="254" height="342" frameX="0" frameY="0" frameWidth="255" frameHeight="343"/>
+	<SubTexture name="tweakfan_altLEFT0000" x="1780" y="353" width="259" height="351" frameX="0" frameY="0" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0001" x="1780" y="353" width="259" height="351" frameX="0" frameY="0" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0002" x="0" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0003" x="0" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0004" x="253" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0005" x="253" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0006" x="0" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0007" x="0" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0008" x="253" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0009" x="253" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0010" x="0" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0011" x="0" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0012" x="253" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altLEFT0013" x="253" y="728" width="253" height="349" frameX="-23" frameY="-2" frameWidth="276" frameHeight="351"/>
+	<SubTexture name="tweakfan_altRIGHT0000" x="506" y="728" width="252" height="352" frameX="-17" frameY="0" frameWidth="330" frameHeight="353"/>
+	<SubTexture name="tweakfan_altRIGHT0001" x="506" y="728" width="252" height="352" frameX="-17" frameY="0" frameWidth="330" frameHeight="353"/>
+	<SubTexture name="tweakfan_altRIGHT0002" x="758" y="728" width="330" height="353"/>
+	<SubTexture name="tweakfan_altRIGHT0003" x="758" y="728" width="330" height="353"/>
+	<SubTexture name="tweakfan_altRIGHT0004" x="1088" y="728" width="330" height="352" frameX="0" frameY="0" frameWidth="330" frameHeight="353"/>
+	<SubTexture name="tweakfan_altRIGHT0005" x="1088" y="728" width="330" height="352" frameX="0" frameY="0" frameWidth="330" frameHeight="353"/>
+	<SubTexture name="tweakfan_altRIGHT0006" x="758" y="728" width="330" height="353"/>
+	<SubTexture name="tweakfan_altRIGHT0007" x="758" y="728" width="330" height="353"/>
+	<SubTexture name="tweakfan_altRIGHT0008" x="1088" y="728" width="330" height="352" frameX="0" frameY="0" frameWidth="330" frameHeight="353"/>
+	<SubTexture name="tweakfan_altRIGHT0009" x="1088" y="728" width="330" height="352" frameX="0" frameY="0" frameWidth="330" frameHeight="353"/>
+	<SubTexture name="tweakfan_altRIGHT0010" x="758" y="728" width="330" height="353"/>
+	<SubTexture name="tweakfan_altRIGHT0011" x="758" y="728" width="330" height="353"/>
+	<SubTexture name="tweakfan_altRIGHT0012" x="1088" y="728" width="330" height="352" frameX="0" frameY="0" frameWidth="330" frameHeight="353"/>
+	<SubTexture name="tweakfan_altRIGHT0013" x="1088" y="728" width="330" height="352" frameX="0" frameY="0" frameWidth="330" frameHeight="353"/>
+	<SubTexture name="tweakfan_altUP0000" x="1418" y="728" width="255" height="375" frameX="-1" frameY="0" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0001" x="1418" y="728" width="255" height="375" frameX="-1" frameY="0" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0002" x="1673" y="728" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0003" x="1673" y="728" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0004" x="0" y="1103" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0005" x="0" y="1103" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0006" x="1673" y="728" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0007" x="1673" y="728" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0008" x="0" y="1103" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0009" x="0" y="1103" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0010" x="1673" y="728" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0011" x="1673" y="728" width="254" height="364" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0012" x="0" y="1103" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+	<SubTexture name="tweakfan_altUP0013" x="0" y="1103" width="254" height="363" frameX="0" frameY="-12" frameWidth="256" frameHeight="376"/>
+</TextureAtlas>

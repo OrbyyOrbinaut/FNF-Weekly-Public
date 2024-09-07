@@ -3511,7 +3511,6 @@ class ChartingState extends MusicBeatState
 
 		//if(_song.stage == null) _song.stage = stageDropDown.selectedLabel;
 		StageData.loadDirectory(_song);
-		if(FadeTransitionSubstate.tritorial) FlxTransitionableState.skipNextTransIn = false;
 		LoadingState.loadAndSwitchState(new PlayState());
 	}
 

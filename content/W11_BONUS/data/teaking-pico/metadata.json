@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Teaking - Pico",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Loggo"],
+        "chart" : ["Loggo"],
+        "art" : ["Loggo", "DerpDrawz", "lemlem_mew", "Ito Saihara"],
+        "code" : ["Loggo"],
+	"va" : null
+    }
+}

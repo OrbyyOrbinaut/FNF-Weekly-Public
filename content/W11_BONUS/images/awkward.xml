@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="awkward.png" width="1382" height="1505">
+	<SubTexture name="interupt0001" x="485" y="485" width="319" height="467" frameX="-9" frameY="-14" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0002" x="485" y="485" width="319" height="467" frameX="-9" frameY="-14" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0003" x="1" y="1" width="269" height="481" frameX="-9" frameY="-0" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0004" x="273" y="1" width="269" height="481" frameX="-9" frameY="-0" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0005" x="273" y="1" width="269" height="481" frameX="-9" frameY="-0" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0006" x="1" y="1" width="269" height="481" frameX="-9" frameY="-0" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0007" x="1" y="485" width="481" height="269" rotated="true" frameX="-9" frameY="-0" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0008" x="1" y="485" width="481" height="269" rotated="true" frameX="-9" frameY="-0" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0009" x="1" y="1" width="269" height="481" frameX="-9" frameY="-0" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0010" x="273" y="1" width="269" height="481" frameX="-9" frameY="-0" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0011" x="545" y="1" width="269" height="481" frameX="-9" frameY="-0" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0012" x="1" y="1" width="269" height="481" frameX="-9" frameY="-0" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0013" x="1" y="757" width="481" height="269" rotated="true" frameX="-9" frameY="-0" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0014" x="817" y="1" width="307" height="454" frameX="-0" frameY="-53" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0015" x="817" y="1" width="307" height="454" frameX="-0" frameY="-53" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0016" x="817" y="1" width="307" height="454" frameX="-0" frameY="-53" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0017" x="817" y="1" width="307" height="454" frameX="-0" frameY="-53" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0018" x="817" y="1" width="307" height="454" frameX="-0" frameY="-53" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0019" x="817" y="1" width="307" height="454" frameX="-0" frameY="-53" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0020" x="817" y="1" width="307" height="454" frameX="-0" frameY="-53" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0021" x="817" y="1" width="307" height="454" frameX="-0" frameY="-53" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0022" x="1120" y="1120" width="240" height="365" rotated="true" frameX="-1" frameY="-253" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0023" x="817" y="458" width="236" height="370" rotated="true" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0024" x="817" y="458" width="236" height="370" rotated="true" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0025" x="817" y="458" width="236" height="370" rotated="true" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0026" x="817" y="458" width="236" height="370" rotated="true" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0027" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0028" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0029" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0030" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0031" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0032" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0033" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0034" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0035" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0036" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0037" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0038" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0039" x="1" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0040" x="374" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0041" x="374" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0042" x="374" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0043" x="374" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0044" x="374" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0045" x="374" y="1029" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0046" x="747" y="955" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0047" x="1127" y="1" width="254" height="370" rotated="true" frameX="-0" frameY="-243" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0048" x="1127" y="374" width="246" height="370" rotated="true" frameX="-0" frameY="-251" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0049" x="1120" y="747" width="236" height="370" rotated="true" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0050" x="1" y="1268" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0051" x="1" y="1268" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0052" x="1" y="1268" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0053" x="1" y="1268" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+	<SubTexture name="interupt0054" x="1" y="1268" width="370" height="236" frameX="-0" frameY="-261" frameWidth="370" frameHeight="507"/>
+</TextureAtlas>

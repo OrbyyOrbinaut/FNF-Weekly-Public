@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Final Destination Weekly Mix",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Kreagato", "Flaguieug"],
+        "chart" : ["idk man"],
+        "art" : ["DerpDrawz", "Dollie", "Flaguieug"],
+        "code" : ["Flaguieug"],
+        "va" : null
+    }
+}

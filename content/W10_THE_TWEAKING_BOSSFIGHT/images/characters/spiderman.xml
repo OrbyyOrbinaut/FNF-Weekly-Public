@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="spiderman.png" width="1024" height="2048">
+  <SubTexture name="idle" x="5" y="5"  width="382" height="692" frameX="-0" frameY="-0" frameWidth="382" frameHeight="692"/>
+  <SubTexture name="right" x="5" y="707"  width="457" height="601" frameX="-0" frameY="-0" frameWidth="457" frameHeight="601"/>
+  <SubTexture name="left" x="397" y="5"  width="559" height="575" frameX="-0" frameY="-0" frameWidth="559" frameHeight="575"/>
+  <SubTexture name="up" x="5" y="1318" width="461" height="553" rotated="true"  frameX="-0" frameY="-0" frameWidth="553" frameHeight="461"/>
+  <SubTexture name="down" x="472" y="590"  width="384" height="503" frameX="-0" frameY="-0" frameWidth="384" frameHeight="503"/>
+</TextureAtlas>

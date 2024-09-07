@@ -166,6 +166,7 @@ class Note extends FlxSprite
 
 	public var player:Int = 0;
 
+	public var owner:Character = null;
 	public var playField(default, set):PlayField;
 	public var desiredPlayfield:PlayField; // incase a note should be put into a specific playfield
 	public static var defaultNotes = [

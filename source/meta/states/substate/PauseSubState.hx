@@ -42,6 +42,8 @@ class PauseSubState extends MusicBeatSubstate
 
 	override function create()
 	{
+		if (WeeklyMainMenuState.marathon == true)
+			menuItemsOG = ['Resume', 'Restart Song', 'Options', "Exit to menu(Won't save!!!)"];
 		var cam:FlxCamera = FlxG.cameras.list[FlxG.cameras.list.length - 1];
 		//if(CoolUtil.difficulties.length < 2) 
 		#if HIT_SINGLE
@@ -114,30 +116,54 @@ class PauseSubState extends MusicBeatSubstate
 
 		FlxTween.tween(bg, {alpha: 0.75}, 0.4, {ease: FlxEase.quartInOut});
 
-		data = Metadata.get(PlayState.SONG.song);
-		if (data != null) {
-			texts.push(data.credits.music.join(', ') + ' - ' + data.card.name);
-			if (data.credits.chart != null) texts.push('Chart: ' + data.credits.chart.join(', '));
-			if (data.credits.art != null) texts.push('Art: ' + data.credits.art.join(', '));
-			if (data.credits.code != null) texts.push('Code: ' + data.credits.code.join(', '));
-			if (data.credits.va != null) texts.push('Voice Acting: ' + data.credits.va.join(', '));
+		if (PlayState.ihatemylifethisisthelastthingthatneedstobecoded) {
+			texts.push('niffirg - Buds and Bluds');
+			texts.push('Chart: niffirg');
+			texts.push('Art: DerpDrawz');
+			texts.push('Code: OrbyyOrbinaut, Lethrial');
+			texts.push('Voice Acting: niffirg');
 		}
-		
-		texts.push('\nBlueballed: ' + PlayState.deathCounter);
+		else {
+			data = PlayState.metadata;
+
+			if (data != null) {
+				texts.push(data.credits.music.join(', ') + ' - ' + data.card.name);
+				if (data.credits.chart != null) texts.push('Chart: ' + data.credits.chart.join(', '));
+				if (data.credits.art != null) texts.push('Art: ' + data.credits.art.join(', '));
+				if (data.credits.code != null) texts.push('Code: ' + data.credits.code.join(', '));
+				if (data.credits.va != null) texts.push('Voice Acting: ' + data.credits.va.join(', '));
+			}
+		}
+
+		if (WeeklyMainMenuState.marathon == true){
+			texts.push('\nMarathon');
+			texts.push('\nSongs: ' + (WeeklyMainMenuState.marathonWeek + 1) + '/' + WeeklyMainMenuState.songAmount);
+			texts.push('\nScore: ' + (PlayState.campaignScore + PlayState.songMarScore));
+			texts.push('\nMisses: ' + (PlayState.campaignMisses + PlayState.songMarMisses));
+			if (WeeklyMainMenuState.yaySeed == '')
+				texts.push('\nSeed: ' + WeeklyMainMenuState.buddySeed);
+			else
+				texts.push('\nSeed: ' + WeeklyMainMenuState.yaySeed);
+		}
+		else
+			texts.push('\nBlueballed: ' + PlayState.deathCounter);
 
 		var index:Int = 0;
 		for (text in texts) {
 			var newTxt:FlxText = new FlxText();
 			newTxt.text = text;
 			newTxt.scrollFactor.set();
-			newTxt.setFormat(Paths.font("vcr.ttf"), 32);
+			newTxt.setFormat(Paths.font("vcr.ttf"), 26);
 			newTxt.updateHitbox();
 			newTxt.x = cam.width - (newTxt.width + 20);
 			newTxt.y = 20 * (index - 1);
 			add(newTxt);
 
 			newTxt.alpha = 0;
-			FlxTween.tween(newTxt, {alpha: 1, y: newTxt.y + 30 + (10 * index)}, 0.4, {ease: FlxEase.quartInOut, startDelay: 0.1 + (0.2 * index)});
+			if (WeeklyMainMenuState.marathon == true)
+				FlxTween.tween(newTxt, {alpha: 1, y: newTxt.y + 30 + (10 * index)}, 0.2, {ease: FlxEase.quartInOut, startDelay: 0.05 + (0.05 * index)});
+			else
+				FlxTween.tween(newTxt, {alpha: 1, y: newTxt.y + 30 + (10 * index)}, 0.4, {ease: FlxEase.quartInOut, startDelay: 0.1 + (0.2 * index)});
 
 			index += 1;
 		}
@@ -282,6 +308,19 @@ class PauseSubState extends MusicBeatSubstate
 					PlayState.instance.botplayTxt.alpha = 1;
 					PlayState.instance.botplaySine = 0;
 				case "Exit to menu":
+					PlayState.deathCounter = 0;
+					PlayState.seenCutscene = false;
+					#if HIT_SINGLE
+					HitSingleMenu.currentMode = FREEPLAY;
+					Init.SwitchToPrimaryMenu();
+					#else
+					Init.SwitchToPrimaryMenu(PlayState.isStoryMode ? WeeklyMainMenuState : FreeplayState);
+					#end
+					PlayState.cancelMusicFadeTween();
+					FlxG.sound.playMusic(Paths.music(KUTValueHandler.getMenuMusic()));
+					PlayState.changedDifficulty = false;
+					PlayState.chartingMode = false;
+				case "Exit to menu(Won't save!!!)":
 					PlayState.deathCounter = 0;
 					PlayState.seenCutscene = false;
 					#if HIT_SINGLE

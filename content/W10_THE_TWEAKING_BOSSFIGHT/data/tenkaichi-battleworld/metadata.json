@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Tenkaichi Battleworld",
+        "expandBeat" : 64,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Biddle3"],
+        "chart" : ["Kye_VL", "OrbyyOrbinaut"],
+        "art" : ["Ito Saihara", "lemlem_mew", "Flaguieug", "DerpDrawz", "alphalul1", "TerminalRepo"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

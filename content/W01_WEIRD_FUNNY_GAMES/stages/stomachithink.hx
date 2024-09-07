@@ -58,6 +58,7 @@ function onCreatePost()
 	}
 
     game.comboOffsetCustom = [150, 300, 185, 450];
+    modManager.setValue("opponentSwap", 0.5, 0);
 }
 
 function onSpawnNotePost(note:Note)
@@ -66,7 +67,6 @@ function onSpawnNotePost(note:Note)
     if (note.noteType == 'Other Johns') {
         note.noAnimation = true;
     }
-    modManager.setValue("opponentSwap", 0.5, 0);
 }
 
 function onBeatHit()

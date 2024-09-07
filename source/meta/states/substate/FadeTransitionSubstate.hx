@@ -18,7 +18,7 @@ class FadeTransitionSubstate extends TransitionSubstate
 
   public static var defaultCamera:FlxCamera;
   public static var nextCamera:FlxCamera;
-  public static var tritorial:Bool = false;
+  public static var tweak10:Bool = false;
   public static var firstLoad:Bool = false;
 
   var curStatus:TransitionStatus;
@@ -26,10 +26,6 @@ class FadeTransitionSubstate extends TransitionSubstate
   var gradient:FlxSprite;
   var gradientFill:FlxSprite;
   public static var backBlack:FlxSprite;
-  var gateOpen:FlxSprite;
-  var gateClose:FlxSprite;
-  var soundClose:FlxSound;
-  var soundOpen:FlxSound;
 
   public function new(){
     super();
@@ -38,7 +34,7 @@ class FadeTransitionSubstate extends TransitionSubstate
   public override function destroy():Void
   {
     super.destroy();
-    if(!tritorial){
+    if(!tweak10){
       if(gradient!=null)
         gradient.destroy();
 
@@ -47,18 +43,6 @@ class FadeTransitionSubstate extends TransitionSubstate
 
       gradient=null;
       gradientFill=null;
-    }else{
-      if(backBlack!=null)
-        backBlack.destroy();
-
-      if(gateOpen!=null)
-        gateOpen.destroy();
-
-      if(gateClose!=null)
-        gateClose.destroy();
-
-      gateOpen=null;
-      gateClose=null;
     }
     finishCallback = null;  
   }
@@ -78,7 +62,7 @@ class FadeTransitionSubstate extends TransitionSubstate
   }
 
   public override function update(elapsed:Float){
-    if(gradientFill!=null && gradient!=null && !tritorial){
+    if(gradientFill!=null && gradient!=null && !tweak10){
       switch(curStatus){
         case IN:
           gradientFill.y = gradient.y - gradient.height;
@@ -117,7 +101,7 @@ class FadeTransitionSubstate extends TransitionSubstate
       default:
         //trace("bruh");
     }
-    if(!tritorial){
+    if(!tweak10){
       gradient = FlxGradient.createGradientFlxSprite(1, height, [FlxColor.BLACK, FlxColor.TRANSPARENT], 1, angle);
       gradient.scale.x = width;
       gradient.scrollFactor.set();
@@ -136,60 +120,10 @@ class FadeTransitionSubstate extends TransitionSubstate
           delayThenFinish();
         }
       });
-    }else{
-      backBlack = new FlxSprite().generateGraphic(1280, 720, 0xFF000000);
-      backBlack.alpha = 0;
-      add(backBlack);
-
-      gateClose = new FlxSprite();
-      gateClose.frames = Paths.getSparrowAtlas('gate/GATE_CLOSE');
-      gateClose.animation.addByPrefix('close', 'GATE CLOSE instance 1', 24, false);
-      gateClose.visible = false;
-      gateClose.scale.set(2,2);
-      gateClose.updateHitbox();
-      gateClose.screenCenter();
-      add(gateClose);
-
-      gateOpen = new FlxSprite();
-      gateOpen.frames = Paths.getSparrowAtlas('gate/GATE_OPEN_NORMAL');
-      gateOpen.animation.addByPrefix('open', 'GATE OPEN NORMAL instance 1', 24, false);
-      gateOpen.visible = false;
-      gateOpen.scale.set(2,2);
-      gateOpen.updateHitbox();
-      gateOpen.screenCenter();
-      gateOpen.setPosition(gateOpen.x + 1.25,gateOpen.y + 4);
-      add(gateOpen);
-
-      var sound = firstLoad ? 'CloseGateVA' : 'CloseGate';
-      soundClose = new FlxSound().loadEmbedded(Paths.sound('menu/$sound'));
-      FlxG.sound.list.add(soundClose);
-
-
-      switch(status){
-        case IN:
-          firstLoad = false;
-          FlxTween.tween(backBlack, {alpha: 1}, 0.4, {ease: FlxEase.sineIn});          
-          gateClose.visible = true;
-          gateClose.animation.play('close');
-          FlxG.sound.music.stop();
-          soundClose.play();
-          soundClose.onComplete = function(){
-            delayThenFinish();
-          }
-          // gateClose.animation.finishCallback = function(s:String){
-          //   delayThenFinish();
-          // }
-        case OUT:
-          backBlack.alpha = 1;
-          FlxTween.tween(backBlack, {alpha: 0}, 0.2, {ease: FlxEase.sineOut, startDelay: 0.8});    
-          gateClose.visible = false;          
-          gateOpen.visible = true;
-          gateOpen.animation.play('open');
-          FlxG.sound.play(Paths.sound("menu/GATEOPEN"));
-        default:
-          //lol
-      }
     }
-
+    else
+    {
+      delayThenFinish();
+    }
   }
 }

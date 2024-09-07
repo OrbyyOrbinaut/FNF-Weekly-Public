@@ -100,6 +100,7 @@ class FunkinHScript extends FunkinScript
 		set("Math", Math);
 		set("script", this);
 		set("StringTools", StringTools);
+		// set("startsWith")
 		set('Map', haxe.ds.StringMap);
 		// set("scriptTrace", function(text:String){
 		// 	scriptTrace(text);
@@ -456,6 +457,10 @@ class FunkinHScript extends FunkinScript
 			SHADER: BlendMode.SHADER,
 			SCREEN: BlendMode.SCREEN
 		});
+
+		set('LyricText',gameObjects.LyricText);
+		set('Metadata',meta.data.Metadata);
+		set('SongCard',gameObjects.SongCard);
 
 		set("addObjectBlend", function(shit:Dynamic, shit2:String){
 			shit.blend = FunkinLua.blendModeFromString(shit2);

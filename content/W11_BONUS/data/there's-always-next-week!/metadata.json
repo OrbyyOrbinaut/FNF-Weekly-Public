@@ -1,0 +1,15 @@
+{
+    "card" : {
+        "name" : "There's Always Next Week!",
+        "expandBeat" : 0,
+		"duration": 8,
+        "fontSize": 18
+    },
+    "credits" : {
+        "music" : ["Kreagato, Sung by niffirg"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["DerpDrawz"],
+        "code" : ["Flaguieug"],
+        "va" : ["niffirg"]
+    }
+}

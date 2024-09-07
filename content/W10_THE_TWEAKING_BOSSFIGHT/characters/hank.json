@@ -1,0 +1,208 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "hankidle0"
+		},
+		{
+			"offsets": [
+				51,
+				-48
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "hankdown0"
+		},
+		{
+			"offsets": [
+				17,
+				51
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "hankup0"
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				101,
+				-4
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "hankright0",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				26,
+				-8
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "hankleft0",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"loop": false,
+			"name": "hankidle0"
+		},
+		{
+			"offsets": [
+				101,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "hankright0"
+		},
+		{
+			"offsets": [
+				51,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "hankdown0"
+		},
+		{
+			"offsets": [
+				17,
+				51
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"anim": "singUP",
+			"loop": false,
+			"name": "hankup0"
+		},
+		{
+			"offsets": [
+				26,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "hankleft0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hankly",
+	"position": [
+		-70,
+		290
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		78,
+		55,
+		89
+	],
+	"camera_position": [
+		40,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

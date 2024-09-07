@@ -18,11 +18,11 @@ class SongCard extends FlxSpriteGroup
     var padding:Float = 10;
     public var data:MetadataFile;
 
-    public function new(x:Float, y:Float, song:String) 
+    public function new(x:Float, y:Float, meta:MetadataFile) 
     {
         super(x, y);
 
-        data = Metadata.get(song);
+        data = meta;
 
         var font:Null<String> = data.card.font;
         if (font == null) font = 'vcr.ttf';

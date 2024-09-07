@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "THE TWEAKING BOSSFIGHT",
+        "expandBeat" : 32,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Mr. Boss"],
+        "chart" : ["Mr. Boss"],
+        "art" : ["Mr. Boss"],
+        "code" : ["Mr. Boss"],
+	"va" : ["Mr. Boss"]
+    }
+}

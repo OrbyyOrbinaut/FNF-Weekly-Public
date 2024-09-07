@@ -10,6 +10,7 @@ class GradientBump extends FlxSprite
 	public var originalY:Float;
 	public var originalHeight:Int = 400;
 	public var intendedAlpha:Float = 1;
+	
 	public function new(x:Float, y:Float)
 	{
 		super(x, y);

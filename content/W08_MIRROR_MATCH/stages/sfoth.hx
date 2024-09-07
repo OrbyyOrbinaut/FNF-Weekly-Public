@@ -200,3 +200,27 @@ function onGameOverStart()
         setGameOverVideo('scarygameover');
     }
 }
+
+function fakeMoveCamera(char:Character, toggle:Bool) //thanks orbyy
+{
+    game.isCameraOnForcedPos = toggle;
+    if (toggle)
+    {
+        var curCharacter:Character = char;
+        if (game.camCurTarget != null) curCharacter = game.camCurTarget;
+
+        var desiredPos = char.getMidpoint();
+        desiredPos.x += 150 + char.cameraPosition[0] + game.opponentCameraOffset[0];
+        desiredPos.y += -100 + char.cameraPosition[1] + game.opponentCameraOffset[1];
+
+        var displacement:FlxPoint = curCharacter.returnDisplacePoint();
+
+        game.camFollow.x = desiredPos.x + displacement.x;
+        game.camFollow.y = desiredPos.y + displacement.y;
+
+        displacement.put();
+        desiredPos.put();
+
+        whosTurn = char;
+    }
+}

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="randy_t10.png" width="4096" height="4096">
+  <SubTexture name="idle_default_RIGHT0001" x="3" y="3"  width="823" height="425" frameX="-0" frameY="-7" frameWidth="880" frameHeight="432"/>
+  <SubTexture name="idle_default_RIGHT0005" x="832" y="3"  width="823" height="425" frameX="-0" frameY="-7" frameWidth="880" frameHeight="432"/>
+  <SubTexture name="randy_left0003" x="1661" y="3"  width="821" height="454" frameX="-10" frameY="-27" frameWidth="881" frameHeight="481"/>
+  <SubTexture name="randy_left0001" x="2488" y="3"  width="820" height="460" frameX="-0" frameY="-21" frameWidth="881" frameHeight="481"/>
+  <SubTexture name="randy_right0001" x="3314" y="3"  width="776" height="414" frameX="-3" frameY="-0" frameWidth="839" frameHeight="436"/>
+  <SubTexture name="randy_down0001" x="3314" y="423"  width="770" height="386" frameX="-0" frameY="-24" frameWidth="832" frameHeight="410"/>
+  <SubTexture name="randy_left0006" x="3" y="434"  width="820" height="455" frameX="-11" frameY="-26" frameWidth="881" frameHeight="481"/>
+  <SubTexture name="randy_left0005" x="829" y="434"  width="820" height="454" frameX="-11" frameY="-27" frameWidth="881" frameHeight="481"/>
+  <SubTexture name="randy_up0001" x="1655" y="463"  width="791" height="432" frameX="-3" frameY="-15" frameWidth="853" frameHeight="447"/>
+  <SubTexture name="randy_up0003" x="829" y="894"  width="790" height="423" frameX="-0" frameY="-24" frameWidth="853" frameHeight="447"/>
+  <SubTexture name="randy_up0005" x="3" y="895"  width="790" height="422" frameX="-0" frameY="-25" frameWidth="853" frameHeight="447"/>
+  <SubTexture name="randy_up0007" x="2452" y="469"  width="790" height="422" frameX="-0" frameY="-25" frameWidth="853" frameHeight="447"/>
+  <SubTexture name="randy_down0003" x="3248" y="815"  width="770" height="373" frameX="-4" frameY="-37" frameWidth="832" frameHeight="410"/>
+  <SubTexture name="randy_down0005" x="2452" y="897"  width="770" height="373" frameX="-4" frameY="-37" frameWidth="832" frameHeight="410"/>
+  <SubTexture name="randy_right0003" x="1625" y="901"  width="767" height="417" frameX="-0" frameY="-1" frameWidth="839" frameHeight="436"/>
+  <SubTexture name="randy_right0005" x="3228" y="1194"  width="767" height="415" frameX="-0" frameY="-2" frameWidth="839" frameHeight="436"/>
+  <SubTexture name="randy_right0007" x="2398" y="1276"  width="767" height="415" frameX="-0" frameY="-2" frameWidth="839" frameHeight="436"/>
+  <SubTexture name="randy_upALT0001" x="3171" y="1615" width="633" height="393" rotated="true"  frameX="-34" frameY="-50" frameWidth="429" frameHeight="683"/>
+  <SubTexture name="randy_upALT0003" x="3" y="1323" width="625" height="402" rotated="true"  frameX="-27" frameY="-58" frameWidth="429" frameHeight="683"/>
+  <SubTexture name="randy_upALT0005" x="634" y="1323" width="625" height="402" rotated="true"  frameX="-27" frameY="-58" frameWidth="429" frameHeight="683"/>
+  <SubTexture name="randy_upALT0007" x="634" y="1731" width="625" height="402" rotated="true"  frameX="-27" frameY="-58" frameWidth="429" frameHeight="683"/>
+  <SubTexture name="idle_alt2_UP0001" x="3" y="1731" width="603" height="398" rotated="true"  frameX="-27" frameY="-49" frameWidth="425" frameHeight="652"/>
+  <SubTexture name="idle_alt2_UP0005" x="3" y="2135" width="603" height="398" rotated="true"  frameX="-27" frameY="-49" frameWidth="425" frameHeight="652"/>
+  <SubTexture name="randy_rightALT0001" x="1265" y="1324" width="597" height="401" rotated="true"  frameX="-37" frameY="-43" frameWidth="438" frameHeight="641"/>
+  <SubTexture name="idle_alt1_LEFT0001" x="1868" y="1324"  width="517" height="472" frameX="-60" frameY="-0" frameWidth="577" frameHeight="484"/>
+  <SubTexture name="randy_rightALT0003" x="1265" y="1731" width="595" height="410" rotated="true"  frameX="-27" frameY="-46" frameWidth="438" frameHeight="641"/>
+  <SubTexture name="randy_rightALT0005" x="612" y="2139" width="595" height="409" rotated="true"  frameX="-28" frameY="-46" frameWidth="438" frameHeight="641"/>
+  <SubTexture name="randy_leftALT0006" x="3" y="2539" width="585" height="414" rotated="true"  frameX="-36" frameY="-44" frameWidth="450" frameHeight="629"/>
+  <SubTexture name="randy_leftALT0008" x="2391" y="1697" width="585" height="414" rotated="true"  frameX="-36" frameY="-44" frameWidth="450" frameHeight="629"/>
+  <SubTexture name="idle_alt1_LEFT0005" x="1866" y="1802"  width="516" height="471" frameX="-61" frameY="-0" frameWidth="577" frameHeight="484"/>
+  <SubTexture name="randy_leftALT0005" x="1213" y="2147" width="584" height="414" rotated="true"  frameX="-36" frameY="-45" frameWidth="450" frameHeight="629"/>
+  <SubTexture name="randy_leftALT0003" x="594" y="2554" width="583" height="414" rotated="true"  frameX="-36" frameY="-45" frameWidth="450" frameHeight="629"/>
+  <SubTexture name="randy_leftALT0004" x="3" y="2959" width="583" height="414" rotated="true"  frameX="-36" frameY="-45" frameWidth="450" frameHeight="629"/>
+  <SubTexture name="randy_leftALT0001" x="3" y="3379"  width="420" height="577" frameX="-28" frameY="-52" frameWidth="450" frameHeight="629"/>
+  <SubTexture name="randy_leftALT0002" x="429" y="3379"  width="420" height="577" frameX="-28" frameY="-52" frameWidth="450" frameHeight="629"/>
+  <SubTexture name="randy_downALT0003" x="2982" y="2014" width="568" height="415" rotated="true"  frameX="-27" frameY="-45" frameWidth="442" frameHeight="613"/>
+  <SubTexture name="randy_downALT0005" x="2388" y="2117" width="568" height="414" rotated="true"  frameX="-28" frameY="-45" frameWidth="442" frameHeight="613"/>
+  <SubTexture name="randy_downALT0001" x="1803" y="2279" width="554" height="423" rotated="true"  frameX="-19" frameY="-59" frameWidth="442" frameHeight="613"/>
+  <SubTexture name="idle_alt1_LEFT0002" x="1868" y="1324"  width="517" height="472" frameX="-60" frameY="-0" frameWidth="577" frameHeight="484"/>
+  <SubTexture name="idle_alt1_LEFT0003" x="1868" y="1324"  width="517" height="472" frameX="-60" frameY="-0" frameWidth="577" frameHeight="484"/>
+  <SubTexture name="idle_alt1_LEFT0004" x="1868" y="1324"  width="517" height="472" frameX="-60" frameY="-0" frameWidth="577" frameHeight="484"/>
+  <SubTexture name="idle_alt1_LEFT0006" x="1866" y="1802"  width="516" height="471" frameX="-61" frameY="-0" frameWidth="577" frameHeight="484"/>
+  <SubTexture name="idle_alt1_LEFT0007" x="1866" y="1802"  width="516" height="471" frameX="-61" frameY="-0" frameWidth="577" frameHeight="484"/>
+  <SubTexture name="idle_alt1_LEFT0008" x="1866" y="1802"  width="516" height="471" frameX="-61" frameY="-0" frameWidth="577" frameHeight="484"/>
+  <SubTexture name="idle_alt2_UP0002" x="3" y="1731" width="603" height="398" rotated="true"  frameX="-27" frameY="-49" frameWidth="425" frameHeight="652"/>
+  <SubTexture name="idle_alt2_UP0003" x="3" y="1731" width="603" height="398" rotated="true"  frameX="-27" frameY="-49" frameWidth="425" frameHeight="652"/>
+  <SubTexture name="idle_alt2_UP0004" x="3" y="1731" width="603" height="398" rotated="true"  frameX="-27" frameY="-49" frameWidth="425" frameHeight="652"/>
+  <SubTexture name="idle_alt2_UP0006" x="3" y="2135" width="603" height="398" rotated="true"  frameX="-27" frameY="-49" frameWidth="425" frameHeight="652"/>
+  <SubTexture name="idle_alt2_UP0007" x="3" y="2135" width="603" height="398" rotated="true"  frameX="-27" frameY="-49" frameWidth="425" frameHeight="652"/>
+  <SubTexture name="idle_alt2_UP0008" x="3" y="2135" width="603" height="398" rotated="true"  frameX="-27" frameY="-49" frameWidth="425" frameHeight="652"/>
+  <SubTexture name="idle_default_RIGHT0002" x="3" y="3"  width="823" height="425" frameX="-0" frameY="-7" frameWidth="880" frameHeight="432"/>
+  <SubTexture name="idle_default_RIGHT0003" x="3" y="3"  width="823" height="425" frameX="-0" frameY="-7" frameWidth="880" frameHeight="432"/>
+  <SubTexture name="idle_default_RIGHT0004" x="3" y="3"  width="823" height="425" frameX="-0" frameY="-7" frameWidth="880" frameHeight="432"/>
+  <SubTexture name="idle_default_RIGHT0006" x="832" y="3"  width="823" height="425" frameX="-0" frameY="-7" frameWidth="880" frameHeight="432"/>
+  <SubTexture name="idle_default_RIGHT0007" x="832" y="3"  width="823" height="425" frameX="-0" frameY="-7" frameWidth="880" frameHeight="432"/>
+  <SubTexture name="idle_default_RIGHT0008" x="832" y="3"  width="823" height="425" frameX="-0" frameY="-7" frameWidth="880" frameHeight="432"/>
+  <SubTexture name="randy_down0002" x="3314" y="423"  width="770" height="386" frameX="-0" frameY="-24" frameWidth="832" frameHeight="410"/>
+  <SubTexture name="randy_down0004" x="3248" y="815"  width="770" height="373" frameX="-4" frameY="-37" frameWidth="832" frameHeight="410"/>
+  <SubTexture name="randy_down0006" x="2452" y="897"  width="770" height="373" frameX="-4" frameY="-37" frameWidth="832" frameHeight="410"/>
+  <SubTexture name="randy_down0007" x="2452" y="897"  width="770" height="373" frameX="-4" frameY="-37" frameWidth="832" frameHeight="410"/>
+  <SubTexture name="randy_down0008" x="2452" y="897"  width="770" height="373" frameX="-4" frameY="-37" frameWidth="832" frameHeight="410"/>
+  <SubTexture name="randy_downALT0002" x="1803" y="2279" width="554" height="423" rotated="true"  frameX="-19" frameY="-59" frameWidth="442" frameHeight="613"/>
+  <SubTexture name="randy_downALT0004" x="2982" y="2014" width="568" height="415" rotated="true"  frameX="-27" frameY="-45" frameWidth="442" frameHeight="613"/>
+  <SubTexture name="randy_downALT0006" x="2388" y="2117" width="568" height="414" rotated="true"  frameX="-28" frameY="-45" frameWidth="442" frameHeight="613"/>
+  <SubTexture name="randy_downALT0007" x="2388" y="2117" width="568" height="414" rotated="true"  frameX="-28" frameY="-45" frameWidth="442" frameHeight="613"/>
+  <SubTexture name="randy_downALT0008" x="2388" y="2117" width="568" height="414" rotated="true"  frameX="-28" frameY="-45" frameWidth="442" frameHeight="613"/>
+  <SubTexture name="randy_left0002" x="2488" y="3"  width="820" height="460" frameX="-0" frameY="-21" frameWidth="881" frameHeight="481"/>
+  <SubTexture name="randy_left0004" x="1661" y="3"  width="821" height="454" frameX="-10" frameY="-27" frameWidth="881" frameHeight="481"/>
+  <SubTexture name="randy_left0007" x="3" y="434"  width="820" height="455" frameX="-11" frameY="-26" frameWidth="881" frameHeight="481"/>
+  <SubTexture name="randy_left0008" x="3" y="434"  width="820" height="455" frameX="-11" frameY="-26" frameWidth="881" frameHeight="481"/>
+  <SubTexture name="randy_leftALT0007" x="3" y="2539" width="585" height="414" rotated="true"  frameX="-36" frameY="-44" frameWidth="450" frameHeight="629"/>
+  <SubTexture name="randy_right0002" x="3314" y="3"  width="776" height="414" frameX="-3" frameY="-0" frameWidth="839" frameHeight="436"/>
+  <SubTexture name="randy_right0004" x="1625" y="901"  width="767" height="417" frameX="-0" frameY="-1" frameWidth="839" frameHeight="436"/>
+  <SubTexture name="randy_right0006" x="3228" y="1194"  width="767" height="415" frameX="-0" frameY="-2" frameWidth="839" frameHeight="436"/>
+  <SubTexture name="randy_right0008" x="2398" y="1276"  width="767" height="415" frameX="-0" frameY="-2" frameWidth="839" frameHeight="436"/>
+  <SubTexture name="randy_rightALT0002" x="1265" y="1324" width="597" height="401" rotated="true"  frameX="-37" frameY="-43" frameWidth="438" frameHeight="641"/>
+  <SubTexture name="randy_rightALT0004" x="1265" y="1731" width="595" height="410" rotated="true"  frameX="-27" frameY="-46" frameWidth="438" frameHeight="641"/>
+  <SubTexture name="randy_rightALT0006" x="612" y="2139" width="595" height="409" rotated="true"  frameX="-28" frameY="-46" frameWidth="438" frameHeight="641"/>
+  <SubTexture name="randy_rightALT0007" x="612" y="2139" width="595" height="409" rotated="true"  frameX="-28" frameY="-46" frameWidth="438" frameHeight="641"/>
+  <SubTexture name="randy_rightALT0008" x="612" y="2139" width="595" height="409" rotated="true"  frameX="-28" frameY="-46" frameWidth="438" frameHeight="641"/>
+  <SubTexture name="randy_up0002" x="1655" y="463"  width="791" height="432" frameX="-3" frameY="-15" frameWidth="853" frameHeight="447"/>
+  <SubTexture name="randy_up0004" x="829" y="894"  width="790" height="423" frameX="-0" frameY="-24" frameWidth="853" frameHeight="447"/>
+  <SubTexture name="randy_up0006" x="3" y="895"  width="790" height="422" frameX="-0" frameY="-25" frameWidth="853" frameHeight="447"/>
+  <SubTexture name="randy_up0008" x="2452" y="469"  width="790" height="422" frameX="-0" frameY="-25" frameWidth="853" frameHeight="447"/>
+  <SubTexture name="randy_upALT0002" x="3171" y="1615" width="633" height="393" rotated="true"  frameX="-34" frameY="-50" frameWidth="429" frameHeight="683"/>
+  <SubTexture name="randy_upALT0004" x="3" y="1323" width="625" height="402" rotated="true"  frameX="-27" frameY="-58" frameWidth="429" frameHeight="683"/>
+  <SubTexture name="randy_upALT0006" x="634" y="1323" width="625" height="402" rotated="true"  frameX="-27" frameY="-58" frameWidth="429" frameHeight="683"/>
+  <SubTexture name="randy_upALT0008" x="634" y="1731" width="625" height="402" rotated="true"  frameX="-27" frameY="-58" frameWidth="429" frameHeight="683"/>
+</TextureAtlas>

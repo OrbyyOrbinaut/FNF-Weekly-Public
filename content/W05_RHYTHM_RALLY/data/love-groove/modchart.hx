@@ -75,7 +75,6 @@ function onCreatePost(){
     game.allowedToUpdateScoreTXT = false;
     game.scoreAllowedToBop = false;
     game.scoreTxt.alpha = 0;
-    ClientPrefs.noteSplashes = false;
     game.defaultCamZoom = 1;
     game.comboPrefix = 'notitg/';
 
@@ -101,7 +100,7 @@ function onSongStart(){
 
 function onSpawnNotePost(note){
     if(note.isSustainNote) note.alpha = 1;
-    
+    if(note.mustPress) note.noteSplashDisabled = true;
 }
 function preReceptorGeneration(){
     FlxG.log.add("pre-receptor gen");
@@ -140,7 +139,11 @@ function onSwitchState(){
         FlxG.resizeWindow(1280, 720);
     }
     FlxG.scaleMode.height = 720;
-    ClientPrefs.loadPrefs();
+}
+
+function onDestroy()
+{
+    FlxG.resizeWindow(1280, 720);
 }
 
 function loadModchart(){

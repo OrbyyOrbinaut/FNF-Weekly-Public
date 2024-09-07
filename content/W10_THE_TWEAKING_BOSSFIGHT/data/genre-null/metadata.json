@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Genre:NULL",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Kreagato"],
+        "chart" : ["Srife5"],
+        "art" : ["alphaLul1", "Dollie", "DerpDrawz", "MochaDrawss"],
+        "code" : ["DuskieWhy", "Srife5"],
+        "va" : null
+    }
+}

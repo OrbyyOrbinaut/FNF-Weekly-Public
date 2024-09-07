@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfsukobig.png">
+	<!-- Created with Adobe Animate version 23.0.7.149 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf10000" x="5" y="5" width="422" height="475"/>
+	<SubTexture name="gf10001" x="5" y="5" width="422" height="475"/>
+	<SubTexture name="gf10002" x="432" y="5" width="422" height="475"/>
+	<SubTexture name="gf10003" x="432" y="5" width="422" height="475"/>
+	<SubTexture name="gf10004" x="859" y="5" width="422" height="475"/>
+	<SubTexture name="gf10005" x="859" y="5" width="422" height="475"/>
+	<SubTexture name="gf10006" x="1286" y="5" width="422" height="475"/>
+	<SubTexture name="gf10007" x="1713" y="5" width="422" height="475"/>
+	<SubTexture name="gf10008" x="2140" y="5" width="422" height="475"/>
+	<SubTexture name="gf10009" x="2567" y="5" width="422" height="475"/>
+	<SubTexture name="gf10010" x="2994" y="5" width="422" height="475"/>
+	<SubTexture name="gf10011" x="3421" y="5" width="422" height="475"/>
+	<SubTexture name="gf10012" x="5" y="485" width="422" height="475"/>
+	<SubTexture name="gf10013" x="432" y="485" width="422" height="475"/>
+	<SubTexture name="gf10014" x="432" y="485" width="422" height="475"/>
+	<SubTexture name="gf10015" x="859" y="485" width="422" height="475"/>
+	<SubTexture name="gf10016" x="859" y="485" width="422" height="475"/>
+	<SubTexture name="gf10017" x="1286" y="485" width="422" height="475"/>
+	<SubTexture name="gf10018" x="1286" y="485" width="422" height="475"/>
+	<SubTexture name="gf10019" x="1713" y="485" width="422" height="475"/>
+	<SubTexture name="gf10020" x="1713" y="485" width="422" height="475"/>
+	<SubTexture name="gf10021" x="2140" y="485" width="422" height="475"/>
+	<SubTexture name="gf10022" x="2567" y="485" width="422" height="475"/>
+	<SubTexture name="gf10023" x="2994" y="485" width="422" height="475"/>
+	<SubTexture name="gf10024" x="3421" y="485" width="422" height="475"/>
+	<SubTexture name="gf10025" x="5" y="965" width="422" height="475"/>
+	<SubTexture name="gf10026" x="432" y="965" width="422" height="475"/>
+	<SubTexture name="gf10027" x="859" y="965" width="422" height="475"/>
+	<SubTexture name="gf10028" x="1286" y="965" width="422" height="475"/>
+	<SubTexture name="gf10029" x="1286" y="965" width="422" height="475"/>
+</TextureAtlas>

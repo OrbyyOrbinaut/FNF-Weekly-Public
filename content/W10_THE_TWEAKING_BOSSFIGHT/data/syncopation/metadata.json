@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Syncopation",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Dollie"],
+        "chart" : ["Kloogybaboogy"],
+        "art" : ["Jammy", "Dollie", "Flaguieug", "DerpDrawz", "SN0WYDREAMS", "Jam", "KatAnims"],
+        "code" : ["Flaguieug", "OrbyyOrbinaut"],
+        "va" : null
+    }
+}

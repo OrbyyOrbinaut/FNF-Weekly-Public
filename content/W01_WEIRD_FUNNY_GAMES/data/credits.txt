@@ -1,20 +1,19 @@
 TWEAK 1 - WEIRD FUNNY GAMES
-niffirg::Niffrg::Composer & Charter of "Johnny Round", "Chef Blasting" Chart::https://x.com/n1ffirg::0xFFFFAF64
 Flaguieug::Flaguieug::Composer of "Chef Blasting", Animated Bacteria John Sprites, "Johhny Round" Gameover::https://x.com/Flaguieug::0xFFFFAF64
-DerpDrawz::DrawzDerp::Menu Assets, "Chef Blasting" Intro + Sprites + Background, "Joink" Gameover, Icons, Credit Icons::https://x.com/derpdrawz4541::0xFFFFAF64
-loggo::Loggo::Composer of "Pegging Aren't I Hilarious", Peggle BF, Chef Blasting/Pegging Gameovers, Programming::https://x.com/loggoman512::0xFFFFAF64
+OrbyyOrbinaut::Orbyy::Programmer of "Chef Blasting" & "Fruity", Crunch Master::https://x.com/OrbyyNew::0xFFFFAF64
+DerpDrawz::DrawzDerp::Menu Assets, All Visuals of "Chef Blasting", "Joink" Gameover, "Fruity" & "Johnny Round" Icons, Credit Icons::https://x.com/derpdrawz4541::0xFFFFAF64
+loggo::Loggo::Composer & Programmer of "Pegging Aren't I Hilarious", Peggle BF Sprite/Icon, Chef Blasting/Pegging Gameovers::https://x.com/loggoman512::0xFFFFAF64
 KloogyBaboogy::KloogyBaboogy::Charter of "Pegging Aren't I Hilarious"::https://x.com/kloogybaboogy::0xFFFFAF64
 Cloverderus::Clover::Composer of "Joink"::https://x.com/Cloverderus::0xFFFFAF64
-ultraspicyspray::ultra::Conan Sprite, Farmer BF Sprite::https://x.com/ultraspicyspray::0xFFFFAF64
+ultraspicyspray::ultra::Conan & Farmer BF Sprites/Icons::https://x.com/ultraspicyspray::0xFFFFAF64
 MochaDrawss::Mocha::Farmer GF Sprite::https://x.com/MochaDrawss::0xFFFFAF64
 alphalul1::Alphalul1::"Joink" Background::https://x.com/alphautism::0xFFFFAF64
+DuskieWhy::duskie::Programmer of "Joink"::https://x.com/DuskieWhy::0xFFFFAF64
 Srife5::Srife5::Charter of "Joink"::https://x.com/strife55::0xFFFFAF64
 Crossknife::Crossknife::Composer of "Fruity"::https://x.com/crossknife::0xFFFFAF64
-lemlem_mew::Lemlem_mew::"Fruity" Background + Background Characters + Sprite Help + Chart + Gameover::https://x.com/lemlem_mew::0xFFFFAF64
+lemlem_mew::Lemlem_mew::"Fruity" Background & Sprite Help, Charter of "Fruity"::https://x.com/lemlem_mew::0xFFFFAF64
 Ito Saihara::ItoSaihara::Suika Watermelon Sprite::https://x.com/ItoSaihara_::0xFFFFAF64
 Jam::Jam::Suika BF Sprite::https://x.com/vibbripple::0xFFFFAF64
-KatAnims::KatAnims::Suika GF Sprite, Painting the "Tweaking Lisa" (Pegging Background)::https://x.com/KatAnims::0xFFFFAF64
-OrbyyOrbinaut::Orbyy::Programming, Crunch Master::https://x.com/OrbyyNew::0xFFFFAF64
-Lethrial::Lethrial::Programming::https://x.com/lethrial::0xFFFFAF64
-DuskieWhy::duskie::Programming, Nightmare Vision Creator::https://x.com/DuskieWhy::0xFFFFAF64
-Kye_VL::KyeVL::Future Developer::https://x.com/Kye_VL::0xFFFFAF64
+KatAnims::KatAnims::Suika GF Sprite, Painted the "Tweaking Lisa" (Pegging Background)::https://x.com/KatAnims::0xFFFFAF64
+niffirg::Niffrg::Composer & Charter of "Johnny Round", Charter of "Chef Blasting"::https://x.com/n1ffirg::0xFFFFAF64
+Lethrial::Lethrial::Programmer of "Johnny Round"::https://x.com/lethrial::0xFFFFAF64

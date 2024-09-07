@@ -34,6 +34,7 @@ class LoadingState extends MusicBeatState
 	var directory:String;
 	var callbacks:MultiCallback;
 	var targetShit:Float = 0;
+	public static var stuffText:FlxText;
 
 	function new(target:FlxState, stopMusic:Bool, directory:String)
 	{
@@ -43,24 +44,36 @@ class LoadingState extends MusicBeatState
 		this.directory = directory;
 	}
 
-	var funkay:FlxSprite;
-	var loadBar:FlxSprite;
+    var statsText:FlxText;
+	var songText:FlxText;
 	override function create()
 	{
-		var bg:FlxSprite = new FlxSprite(0, 0).makeGraphic(FlxG.width, FlxG.height, 0xffcaff4d);
-		add(bg);
-		funkay = new FlxSprite(0, 0).loadGraphic(Paths.getPath('images/funkay.png', IMAGE));
-		funkay.setGraphicSize(0, FlxG.height);
-		funkay.updateHitbox();
-		funkay.antialiasing = ClientPrefs.globalAntialiasing;
-		add(funkay);
-		funkay.scrollFactor.set();
-		funkay.screenCenter();
+        statsText = new FlxText(70, 140, 1000, "", 60);
+		statsText.alignment = CENTER;
+		statsText.font = "Comic Sans MS";
+		statsText.color = 0xffffffff;
+		statsText.antialiasing = ClientPrefs.globalAntialiasing;
+		statsText.screenCenter(X);
+		add(statsText);
 
-		loadBar = new FlxSprite(0, FlxG.height - 20).makeGraphic(FlxG.width, 10, 0xffff16d2);
-		loadBar.screenCenter(X);
-		loadBar.antialiasing = ClientPrefs.globalAntialiasing;
-		add(loadBar);
+		songText = new FlxText(100, 20, 500, "", 60);
+		songText.alignment = CENTER;
+		songText.font = "Comic Sans MS";
+		songText.color = 0xffffffff;
+		songText.antialiasing = ClientPrefs.globalAntialiasing;
+		songText.screenCenter(X);
+		add(songText);
+
+        statsText.text = 'TOTAL MISSES:' + PlayState.campaignMisses + 
+        '\nTOTAL SCORE:' + PlayState.campaignScore + 
+        '\nSONGS COMPLETED:' + WeeklyMainMenuState.marathonWeek + '/53';
+
+		songText.text = 'NEXT SONG:' + 
+        '\n' + Metadata.get(PlayState.SONG.song).card.name;
+
+		statsText.screenCenter(X);
+
+		songText.y = statsText.y + 250;
 		
 		initSongsManifest().onComplete
 		(
@@ -116,17 +129,9 @@ class LoadingState extends MusicBeatState
 	override function update(elapsed:Float)
 	{
 		super.update(elapsed);
-		funkay.setGraphicSize(Std.int(0.88 * FlxG.width + 0.9 * (funkay.width - 0.88 * FlxG.width)));
-		funkay.updateHitbox();
-		if(controls.ACCEPT)
-		{
-			funkay.setGraphicSize(Std.int(funkay.width + 60));
-			funkay.updateHitbox();
-		}
 
 		if(callbacks != null) {
 			targetShit = FlxMath.remapToRange(callbacks.numRemaining / callbacks.length, 1, 0, 0, 1);
-			loadBar.scale.x += 0.5 * (targetShit - loadBar.scale.x);
 		}
 	}
 	
@@ -161,8 +166,15 @@ class LoadingState extends MusicBeatState
 
 		if(weekDir != null && weekDir.length > 0 && weekDir != '') directory = weekDir;
 
+		var weekFile:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[WeeklyMainMenuState.weekArray[WeeklyMainMenuState.marathonWeek]]);
+
+		if(WeeklyMainMenuState.marathon == true) directory = weekFile.folder;
+
 		Paths.setCurrentLevel(directory);
 		trace('Setting asset folder to ' + directory);
+
+		if(WeeklyMainMenuState.marathon == true && WeeklyMainMenuState.marathonWeek > 0)
+			//return new LoadingState(target, stopMusic, directory);
 
 		#if NO_PRELOAD_ALL
 		var loaded:Bool = false;

@@ -76,6 +76,8 @@ class Character extends FlxSprite
 	public var stunned:Bool = false;
 	public var singDuration:Float = 4; //Multiplier of how long a character holds the sing pose
 	public var idleSuffix:String = '';
+	public var animSuffix:String = '';
+	public var animSuffixExclusions = ['idle', 'danceLeft', 'danceRight', 'miss'];
 	public var danceIdle:Bool = false; //Character use "danceLeft" and "danceRight" instead of "idle"
 	public var skipDance:Bool = false;
 
@@ -423,9 +425,18 @@ class Character extends FlxSprite
 		}
 	}
 
-	public function playAnim(AnimName:String, Force:Bool = false, Reversed:Bool = false, Frame:Int = 0):Void
+	public function playAnim(name:String, Force:Bool = false, Reversed:Bool = false, Frame:Int = 0):Void
 	{
 		specialAnim = false;
+
+		var AnimName:String = name;
+		for(e in animSuffixExclusions){
+			if(!name.toLowerCase().contains(e.toLowerCase()))
+				AnimName = name + animSuffix;
+			else
+				break;
+		}
+
 		animation.play(AnimName, Force, Reversed, Frame);
 
 		var daOffset = animOffsets.get(AnimName);

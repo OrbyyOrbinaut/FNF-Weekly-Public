@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "ScareFull",
+        "expandBeat" : 0,
+		"duration": 8
+    },
+    "credits" : {
+        "music" : ["scrumbo_, niffirg, Churgney Gurgney"],
+        "chart" : ["lemlem_mew, Srife5"],
+        "art" : ["lemlem_mew, Dollie, Jam, Flaguieug"],
+        "code" : ["DuskieWhy", "OrbyyOrbinaut", "Lethrial"],
+        "va" : null
+    }
+}

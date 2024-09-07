@@ -74,11 +74,6 @@ function onEvent(name:String, v1:String, v2:String)
     }
 }
 
-function onSongStart()
-{
-    //intro.anim.play('intro');
-}
-
 function doStartCountdown()
 {
     return Function_Stop;

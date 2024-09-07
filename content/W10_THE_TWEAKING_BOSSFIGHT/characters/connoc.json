@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "connoc idle0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "connoc idle0"
+		},
+		{
+			"offsets": [20, 90],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "connoc up0"
+		},
+		{
+			"offsets": [53, -12],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "connoc right0"
+		},
+		{
+			"offsets": [13, -74],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "connoc down0"
+		},
+		{
+			"offsets": [-77, -3],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "connoc left0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/connoc",
+	"position": [-10, 445],
+	"healthicon": "connoc",
+	"flip_x": false,
+	"healthbar_colors": [159, 74, 178],
+	"camera_position": [140, -60],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

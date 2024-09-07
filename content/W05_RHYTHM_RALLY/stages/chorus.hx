@@ -30,6 +30,9 @@ function onCreatePost(){
     GameOverSubstate.endSoundName = "empty";
     GameOverSubstate.deathSoundName = "empty";
     GameOverSubstate.loopSoundName = "empty";
+
+    game.healthGain = 0; // Should've done it this way from the start
+    game.healthLoss = 0;
     
     var youtxt:FlxSprite = new FlxSprite(0, 0);
     youtxt.loadGraphic(Paths.image("tengoku/you"));
@@ -76,7 +79,6 @@ function onSpawnNotePost(note:Note)
 function onUpdatePost()
 {
     game.camZooming = false;
-    game.health = 1; //The one song without a gameover...
     game.scoreTxt.text = ' - Score: ' + game.songScore + ' - Misses: ' + game.songMisses + ' - Combo: ' + game.combo + ' - ' ;
 }
 

@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-117,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle0"
+		},
+		{
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				180,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				162,
+				30
+			],
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				181,
+				30
+			],
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				173,
+				30
+			],
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				177,
+				30
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "downalt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				162,
+				30
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "upalt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				188,
+				30
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "rightalt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				207,
+				30
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "leftalt0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/herobrine",
+	"position": [
+		-180,
+		-35
+	],
+	"healthicon": "herobrine",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		196,
+		221
+	],
+	"camera_position": [
+		-240,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

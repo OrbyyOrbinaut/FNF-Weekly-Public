@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg0000" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0001" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0002" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0003" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0004" x="1290" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0005" x="1290" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0006" x="1290" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0007" x="1290" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0008" x="2575" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0009" x="2575" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0010" x="2575" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0011" x="2575" y="5" width="1280" height="720"/>
+	<SubTexture name="bg0012" x="5" y="730" width="1280" height="720"/>
+	<SubTexture name="bg0013" x="5" y="730" width="1280" height="720"/>
+	<SubTexture name="bg0014" x="5" y="730" width="1280" height="720"/>
+	<SubTexture name="bg0015" x="5" y="730" width="1280" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+{
+	"songs": [
+		["Syncopation", "chill", [108,127,196]],
+		["ScareFull", "randytweakfan", [141,166,155]],
+		["Genre Null", "null", [153,116,81]],
+		["Tenkaichi Battleworld", "gokuspidey", [31,89,128]],
+		["Friends And Fellas", "trebron", [68,59,59]],
+		["Buds and Bluds", "tweak-bud", [0,0,0]]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "tweak",
+	"difficulties": "Normal",
+	"weekCharacters": [
+	"",
+	"",
+	""
+	],
+	"storyName": "OOOGLY GOOOOO",
+	"weekName": "Tweak 10",
+	"freeplayColor": [
+	146,
+	113,
+	253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weeklogo": "TheTweakingBossfight"
+	}

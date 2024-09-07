@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fire.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flicker0000" x="5" y="5" width="936" height="1348" frameX="0" frameY="-2" frameWidth="936" frameHeight="1369"/>
+	<SubTexture name="flicker0001" x="5" y="5" width="936" height="1348" frameX="0" frameY="-21" frameWidth="936" frameHeight="1369"/>
+	<SubTexture name="flicker0002" x="5" y="5" width="936" height="1348" frameX="0" frameY="0" frameWidth="936" frameHeight="1369"/>
+	<SubTexture name="flicker0003" x="5" y="5" width="936" height="1348" frameX="0" frameY="-10" frameWidth="936" frameHeight="1369"/>
+</TextureAtlas>

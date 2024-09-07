@@ -11,6 +11,7 @@ class PsychVideoSprite extends FlxVideoSprite
     public static final muted:String = ':no-audio';
 
     public var destroyOnUse:Bool = false;
+    public var pauseOverride:Bool = false;
 
     var _heldVideoPath:String = '';
 
@@ -96,9 +97,14 @@ class PsychVideoSprite extends FlxVideoSprite
     }
 
     public static function globalResume() {
-        for (i in heldVideos) i.resume();
+        for (i in heldVideos)
+        {
+            if(!i.pauseOverride)
+            {
+                i.resume();
+            }
+        }
     }
-
 }
 
 

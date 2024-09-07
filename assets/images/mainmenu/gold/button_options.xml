@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="button_options.png" width="256" height="512">
+  <SubTexture name="options hover0" x="5" y="5"  width="242" height="242" frameX="-0" frameY="-0" frameWidth="242" frameHeight="242"/>
+  <SubTexture name="options0" x="5" y="257"  width="242" height="242" frameX="-0" frameY="-0" frameWidth="242" frameHeight="242"/>
+</TextureAtlas>

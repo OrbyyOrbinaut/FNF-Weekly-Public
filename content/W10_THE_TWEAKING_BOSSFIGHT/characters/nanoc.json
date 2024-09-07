@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "nanoc idle0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "nanoc idle0"
+		},
+		{
+			"offsets": [7, 5],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "nanoc left0"
+		},
+		{
+			"offsets": [-15, -54],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "nanoc down0"
+		},
+		{
+			"offsets": [-25, 82],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "nanoc up0"
+		},
+		{
+			"offsets": [-80, 3],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "nanoc right0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/nanoc",
+	"position": [-30, 480],
+	"healthicon": "nanoc",
+	"flip_x": false,
+	"healthbar_colors": [172, 163, 255],
+	"camera_position": [140, -60],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

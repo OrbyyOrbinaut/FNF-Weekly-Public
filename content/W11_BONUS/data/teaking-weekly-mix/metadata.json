@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Teaking Weekly Mix",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Dollie", "Loggo"],
+        "chart" : ["Lethrial"],
+        "art" : ["KatAnims", "DerpDrawz", "Loggo"],
+        "code" : ["Orbyy"],
+	"va" : null
+    }
+}

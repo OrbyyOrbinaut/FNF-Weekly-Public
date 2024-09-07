@@ -22,7 +22,7 @@ function onCreatePost(){
     openVid.addCallback('onEnd',()->{
         blackScreen.alpha = 0;
         FlxTween.tween(game.camHUD, {alpha: 1}, 1.5, {ease: FlxEase.quadOut});
-        game.camGame.flash(0xFFFFFFFF, 1.0);
+        FlxG.camera.flash(0xFFFFFFFF, 1.0);
     });
     openVid.load(Paths.video('terminaintro'), [PsychVideoSprite.muted]);
     openVid.antialiasing = true;

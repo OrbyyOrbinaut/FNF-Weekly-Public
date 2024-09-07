@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="rain.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="rain0000" x="3" y="3" width="1244" height="1769" frameX="0" frameY="-154" frameWidth="1274" frameHeight="1923"/>
+	<SubTexture name="rain0001" x="1250" y="3" width="1269" height="1690" frameX="-5" frameY="-163" frameWidth="1274" frameHeight="1923"/>
+	<SubTexture name="rain0002" x="2522" y="3" width="1258" height="1828" frameX="-9" frameY="0" frameWidth="1274" frameHeight="1923"/>
+	<SubTexture name="rain0003" x="3" y="1834" width="1215" height="1696" frameX="-1" frameY="-116" frameWidth="1274" frameHeight="1923"/>
+</TextureAtlas>

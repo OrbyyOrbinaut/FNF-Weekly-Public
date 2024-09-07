@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Goo - Pico",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["KatAnims"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["Loggo", "DerpDrawz", "lemlem_mew", "Ito Saihara"],
+        "code" : ["OrbyyOrbinaut"],
+	"va" : null
+    }
+}
