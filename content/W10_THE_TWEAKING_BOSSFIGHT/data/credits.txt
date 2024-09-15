@@ -3,7 +3,7 @@ Dollie::Dollie::Composer of "Syncopation" & "Teaking Weekly Mix", Zardy T10 / Sl
 KloogyBaboogy::KloogyBaboogy::Charter of "Syncopation", "Syncopation" Gameover, "Goo Weekly Mix" Ending Art, Rolling Credits Doodles::https://x.com/kloogybaboogy::0xFFFFAF64
 scrumbo_::Scrumbo::Composer of "Scarefull" with niffirg & Churgney Gurgney::https://x.com/scrumbo_::0xFFFFAF64
 Churgney Gurgney::Strum::Composer of "Scarefull" with niffirg & scrumbo_::https://x.com/gurgney::0xFFFFAF64
-lemlem_mew::Lemlem_mew::Randy T10 Sprites, "Scarefull" Background, Charter of "Scarefull" with Srife5, "Tenkaichi Battleworld" Cameos (Fancy Pants/Geo.Dash Icon, Madeline, Duck Life Ducks), "Scareful", "Tenkaichi Battleworld" & "Friend's And Fellas" Events, Intro Sound Effects, Gallery Descriptions::https://x.com/lemlem_mew::0xFFFFAF64
+lemlem_mew::Lemlem_mew::Randy T10 Sprites, "Scarefull" Background, Charter of "Scarefull" with Srife5, "Tenkaichi Battleworld" Cameos (Fancy Pants/Geo.Dash Icon, Madeline, Duck Life Ducks), Charter of "Goo Pico", "Scareful", "Tenkaichi Battleworld" & "Friend's And Fellas" Events, Intro Sound Effects, Gallery Descriptions::https://x.com/lemlem_mew::0xFFFFAF64
 Jam::Jam::Tweaksuperfan7 T10 Sprites::https://x.com/vibbripple::0xFFFFAF64
 DuskieWhy::duskie::Programmer of "Scarefull" & "Genre Null" with Srife5, Gallery Programming::https://x.com/DuskieWhy::0xFFFFAF64
 Srife5::Srife5::Programmer & Charter of "Scarefull" with lemlem_mew, Programmer of "Genre Null" with DuskieWhy::https://x.com/strife55::0xFFFFAF64
@@ -17,7 +17,7 @@ Biddle3::Biddle3::Composer of "Tenkaichi Battleworld"::https://x.com/thedawg3_::
 Ito Saihara::ItoSaihara::Spider-Man T10 Sprites, "Tenkaichi Battleworld" Background, Intro Cutscene & Gameover, Voice of Spider-Man, Rolling Credits Doodles::https://x.com/ItoSaihara_::0xFFFFAF64
 TerminalRepo::TerminalRepo::"Tenkaichi Battleworld" Outro Cutscene, Voice of Goku::https://x.com/TerminalRepo::0xFFFFAF64
 Kye_VL::KyeVL::Charter of "Tenkaichi Battleworld", Voice of Hank::https://x.com/Kye_VL::0xFFFFAF64
-maddiesmiles::MaddieSmiles::Composer of "Circus (Weekly Mix)" with Lethrial::https://x.com/maddiesmiles_::0xFFFFAF64
+maddiesmiles::MaddieSmiles::Composer of "Friends And Fellas" with Cloverderus::https://x.com/maddiesmiles_::0xFFFFAF64
 Cloverderus::Clover::Composer & Charter of "Friends And Fellas" with maddiesmiles::https://x.com/Cloverderus::0xFFFFAF64
 ultraspicyspray::ultra::Connan T10 / Nanoc / Connoc Sprites/Icons with PixelAves, Rolling Credits Doodles::https://x.com/ultraspicyspray::0xFFFFAF64
 PixelAves::Pixel::Conan T10 / Nanoc / Connoc Sprites with ultraspicyspray::https://x.com/PixelAves::0xFFFFAF64
@@ -26,7 +26,7 @@ FNF Shittly Team::Shittly::"Friends And Fellas" Gameover <3::https://gamebanana.
 niffirg::Niffrg::Composer & Charter of "Buds And Bluds", Singer of "There's Always Next Week!", Composer of "Scareful" with scrumbo_ & Churgney Gurgney, Cutscene Editor, "Syncopation"/"Friends And Fellas" Outro Sounds::https://x.com/n1ffirg::0xFFFFAF64
 DerpDrawz::DrawzDerp::All Visuals of "Buds And Bluds", "Syncopation"/"Friends And Fellas" Background, "There's Always Next Week" Background Art, Marathon Norbert/Trebron F&F Icons, "Genre Null" Location Card, Kelvin Credit Icon, Rolling Credits Doodles::https://x.com/derpdrawz4541::0xFFFFAF64
 loggo::Loggo::Composer, Events & Programming of "Teaking Pico Mix", "Buds And Bluds" Gameovers::https://x.com/loggoman512::0xFFFFAF64
-KatAnims::KatAnims::Composer of "Goo Weekly Mix", Rolling Credits Doodles::https://x.com/KatAnims::0xFFFFAF64
+KatAnims::KatAnims::Composer of "Goo Weekly Mix", Backgroun for "Goo Weekly Mix" and "Teaking Weekly Mix", Rolling Credits Doodles::https://x.com/KatAnims::0xFFFFAF64
 OrbyyOrbinaut::Orbyy::Programmer of "Syncopation", "Tenkaichi Battleworld", "Buds And Bluds", "Goo Pico", "Teaking Weekly Mix" "Goo Weekly Mix" & "There's Always Next Week!", Main Menu & Gallery Programming, Charter of "Goo Weekly Mix"::https://x.com/OrbyyNew::0xFFFFAF64
 Lethrial::Lethrial::Programmer of "Tenkaichi Battleworld", "Friends And Fellas" & "Buds And Bluds", Gallery Programming, Charter of "Teaking Weekly Mix"::https://x.com/lethrial::0xFFFFAF64
 Flaguieug::Flaguieug::Creator & Programmer of Marathon Mode, Programmer of "Syncopation", "Scarefull" & "There's Always Next Week!", Rolling Finale Credits Editor & Programmer, Bacteria John T10 / Herobrine T10 / Guest 666 T10 Sprites, "Tenkaichi Battleworld" Zer0 Cameo, Marathon Win Jingle::https://x.com/Flaguieug::0xFFFFAF64

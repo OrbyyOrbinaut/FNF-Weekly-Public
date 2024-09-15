@@ -41,7 +41,7 @@ using StringTools;
 class WeeklyMainMenuState extends MusicBeatState
 {
 	// This is our current version dont forget to change it when compiling releases
-	public static var psychEngineVersion:String = 'Tweak 10'; //MAKE SURE THIS IS UP TO DATE SINCE IT MATTERS FOR AUTO UPDATING !!!!
+	public static var psychEngineVersion:String = 'Tweak 10.1'; //MAKE SURE THIS IS UP TO DATE SINCE IT MATTERS FOR AUTO UPDATING !!!!
 	//public static var curSelected:Int = 0;
 	var canClick:Bool = true;
 	var norbertcanIdle:Bool = false; // dumb and gay my b
@@ -86,13 +86,13 @@ class WeeklyMainMenuState extends MusicBeatState
 
 	var imagePrefix:String = 'mainmenu/'; // Gets changed to 'mainmenu/gold/' when gold mode is on. Just makes it so we dont need to check everytime we change an image for a gold version
 	// Marathon mode stuff
-	var easterSeeds:Array<String> = ['weekly', 'goodluck', 'abc', 'cba', 'johnny', 'communitygame', 'lore', 'cloverderus', 'jammy', 'ito', 'maddie', 'krea', 'leth', 'crossknife', 'niffirg', 'kloogy', 'kat', 'dtwo', 'jam', 'kino', 'mocha', 'alpha', 'star', 'dollie', 'basil', 'biddle', 'scrumbo', 'loggo', 'ava', 'kye', 'srife', '909189', 'penkaru'];
+	var easterSeeds:Array<String> = ['weekly', 'goodluck', 'abc', 'cba', 'johnny', 'communitygame', 'lore', 'cloverderus', 'jammy', 'ito', 'maddie', 'krea', 'leth', 'crossknife', 'niffirg', 'kloogy', 'kat', 'dtwo', 'jam', 'kino', 'mocha', 'alpha', 'star', 'dollie', 'basil', 'biddle', 'scrumbo', 'loggo', 'ava', 'kye', 'srife', 'flag', 'cee', 'shittly', '909189', 'penkaru'];
 	public static var marathon:Bool = false;
 	public static var fcMode:Bool;
 	public static var weekArray:Array<Int> = [];
 	public static var marathonWeek:Int = 0;
 	public static var marathonArray:Array<String> = [];
-	public static var songAmount:Int = 56;
+	public static var songAmount:Int = 63;
 	public static var yaySeed:String = '';
 	public static var buddySeed:Int;
 
@@ -736,7 +736,7 @@ class WeeklyMainMenuState extends MusicBeatState
 			case 'weekly':
 				canShuffle = false;
 			case 'goodluck':
-				songsArray = ["Love Groove", "SIMUL4CRUM", "Champion's Ring", "Luminary Clock", "Teaking"];
+				songsArray = ["Love Groove", "SIMUL4CRUM", "There's Always Next Week!", "Champions Ring", "Teaking", "Genre Null", "ScareFull", "Popular", "Luminary Clock", "CAN YOU HEAR ME", "Evolution"];
 			case 'abc':
 				for (i in marathonArray)
 					songsArray.push(i);
@@ -766,7 +766,7 @@ class WeeklyMainMenuState extends MusicBeatState
 			case 'crossknife':
 				songsArray = ["Fruity", "Luminary Clock", "Parched", "jeff the kill you", "KB5K"];
 			case 'niffirg':
-				songsArray = ["Johnny Round", "Termina", "Mental Temple", "Champions Ring", "Transient Tribulation", "Good Will", "Doodlequest", "Silence Is Death", "Busy Work", "ScareFull", "Buds and Bluds"];
+				songsArray = ["Visiosubrideophobia", "Johnny Round", "Termina", "Mental Temple", "Champions Ring", "Transient Tribulation", "Good Will", "Doodlequest", "Silence Is Death", "Busy Work", "ScareFull", "Buds and Bluds"];
 			case 'kloogy':
 				songsArray = ["CAN YOU HEAR ME", "Silence Is Death", "SIMUL4CRUM", "Good Will", "Doodlequest", "Philly Mice", "Love Groove"];
 			case 'kat':
@@ -799,6 +799,12 @@ class WeeklyMainMenuState extends MusicBeatState
 				songsArray = ["Luminary Clock", "Crimson Fog", "Philly Mice", "Chorale", "Good Will", "Legend", "Perfect Girl", "Beyond", "Tenkaichi Battleworld"];
 			case 'srife':
 				songsArray = ["Joink", "Dustloop", "Mental Temple", "Plectrum", "Philly Mice", "Funky Flow", "Love Groove", "7OF8", "Evolution", "Rock Bottom", "Beyond", "Genre Null", "ScareFull"];
+			case 'flag':
+				songsArray = ["Boss Tweaks in Brasil", "Chef Blasting", "Johnny Round", "Dustloop", "Champions Ring", "Legend", "Silence Is Death", "Syncopation", "ScareFull", "Tenkaichi Battleworld"];
+			case 'shittly':
+				songsArray = ["Chef Blasting", "Teaking", "Friends And Fellas"];
+			case 'cee':
+				songsArray = ["Teaking", "Goo", "Teaking Pico", "Goo Pico", "Chef Blasting"];
 			case '909189':
 				songsArray = ["Busy Work", "Beyond", "CAN YOU HEAR ME", "Haystack", "Luminary Clock", "Koopa Karnage"];
 			case 'penkaru':

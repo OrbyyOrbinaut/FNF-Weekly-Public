@@ -393,7 +393,7 @@ function spawnCameo(cameo:Int)
     if(isBG)
     {
         cameoDistant.x = 2800;
-        FlxTween.tween(cameoDistant, {x: -2000}, 15, {ease: FlxEase.linear});
+        FlxTween.tween(cameoDistant, {x: -2000}, 10, {ease: FlxEase.linear});
     }
     else
     {

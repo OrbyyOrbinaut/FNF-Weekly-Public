@@ -1,2 +1,2 @@
-Tweak 10
-https://github.com/OrbyyOrbinaut/FNF-Weekly-Public/releases/download/10.0.0/FNF.Weekly.zip
+Tweak 10.1
+https://github.com/OrbyyOrbinaut/FNF-Weekly-Public/releases/download/10.0.1/FNF.Weekly.zip
